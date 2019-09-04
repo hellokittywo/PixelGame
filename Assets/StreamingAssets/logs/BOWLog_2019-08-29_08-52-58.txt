@@ -1,0 +1,19 @@
+﻿[Log]OutLog Start
+[Log]08:52:48.202-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x4ECBF800
+[Log]08:52:48.207-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x4EC4F8A0
+[Error]资源：Prefabs/Common/BasePanelBg 加载为空
+[Exception]LuaException: A Prefab with the name 'BasePanelBg' not found. 
+Prefabs=[FightView]
+stack traceback:
+	[C]: in function 'LoadPrefabByName'
+	UI/BaseView:40: in function 'CreateBaseView'
+	UI/Fight/FightView:9: in function 'InitPanel'
+	UI/BaseView:15: in function 'Awake'
+	UI/Fight/FightCtrl:13: in function 'OnCreate'
+	UI/BaseCtrl:26: in function <UI/BaseCtrl:25>
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]08:52:58.906-0: Lua function Network.Unload not exists
+[Log]08:52:58.915-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

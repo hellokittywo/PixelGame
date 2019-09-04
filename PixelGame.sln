@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelGame.CSharp", "PixelGame.CSharp.csproj", "{D89C1FC2-951E-01FA-6D66-A3ADD8147834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelGame.CSharp.Editor", "PixelGame.CSharp.Editor.csproj", "{BE7A5471-4346-8A44-0EC9-6D9F36C4D1E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D89C1FC2-951E-01FA-6D66-A3ADD8147834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89C1FC2-951E-01FA-6D66-A3ADD8147834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89C1FC2-951E-01FA-6D66-A3ADD8147834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89C1FC2-951E-01FA-6D66-A3ADD8147834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE7A5471-4346-8A44-0EC9-6D9F36C4D1E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE7A5471-4346-8A44-0EC9-6D9F36C4D1E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE7A5471-4346-8A44-0EC9-6D9F36C4D1E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE7A5471-4346-8A44-0EC9-6D9F36C4D1E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

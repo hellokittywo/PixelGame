@@ -1,0 +1,45 @@
+﻿[Log]OutLog Start
+[Log]15:45:54.691-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x388872D0
+[Log]15:45:54.698-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x38866648
+[Log]15:45:56.851-122: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:45:56.853-122: [Common/tools.lua:50]:---寻路    3    5    1    1
+[Log]15:45:56.855-122: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:45:56.857-122: [Common/tools.lua:50]:---寻路    1    1    3    5
+[Log]15:45:57.341-151: [Scene/Fight/CardAiAction.lua:62]:----移动    3    4    16
+[Log]15:45:57.344-151: [Scene/Fight/CardAiAction.lua:62]:----移动    1    2    2
+[Log]15:45:57.556-164: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:45:57.557-164: [Common/tools.lua:50]:---寻路    3    4    1    2
+[Log]15:45:57.558-164: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:45:57.559-164: [Common/tools.lua:50]:---寻路    1    2    3    4
+[Log]15:45:58.71-195: [Scene/Fight/CardAiAction.lua:62]:----移动    3    3    15
+[Log]15:45:58.73-195: [Scene/Fight/CardAiAction.lua:62]:----移动    1    3    3
+[Log]15:45:58.285-208: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:45:58.286-208: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]15:45:58.287-208: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:45:58.288-208: [Common/tools.lua:50]:---寻路    1    3    3    3
+[Log]15:45:58.799-239: [Scene/Fight/CardAiAction.lua:62]:----移动    2    3    9
+[Log]15:45:58.800-239: [Scene/Fight/CardAiAction.lua:62]:----移动    2    3    9
+[Log]游戏暂停！
+[Log]15:46:02.145-243: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:46:02.149-243: [Common/tools.lua:50]:---寻路    2    3    2    3
+[Log]15:46:02.150-243: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:46:02.151-243: [Common/tools.lua:50]:---寻路    2    3    2    3
+[Exception]LuaException: event:171: Scene/Fight/FightScene:70: attempt to index local 'data' (a nil value)
+stack traceback:
+	Scene/Fight/FightScene:70: in function 'GetPosByXY'
+	Scene/Fight/CardAiAction:61: in function 'func'
+	System/Timer:58: in function <System/Timer:49>
+	[C]: in function 'f'
+	event:166: in function 'UpdateBeat'
+	event:203: in function <event:201>
+[Exception]LuaException: event:171: Scene/Fight/FightScene:70: attempt to index local 'data' (a nil value)
+stack traceback:
+	Scene/Fight/FightScene:70: in function 'GetPosByXY'
+	Scene/Fight/CardAiAction:61: in function 'func'
+	System/Timer:58: in function <System/Timer:49>
+	[C]: in function 'f'
+	event:166: in function 'UpdateBeat'
+	event:203: in function <event:201>
+[Log]游戏暂停！
+[Log]游戏暂停！
+[Log]OutLog Finish

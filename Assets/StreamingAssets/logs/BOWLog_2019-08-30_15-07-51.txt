@@ -1,0 +1,64 @@
+﻿[Log]OutLog Start
+[Log]15:05:54.668-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x38A662A0
+[Log]15:05:54.673-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x38A66AF8
+[Log]15:05:57.960-189: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:05:57.962-189: [Common/tools.lua:50]:---寻路    13    6    1    1
+[Log]15:05:57.965-189: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:05:57.967-189: [Common/tools.lua:50]:---寻路    1    1    13    6
+[Log]15:05:58.457-219: [Scene/Fight/CardAiAction.lua:61]:----移动    12    6    72
+[Log]15:05:58.460-219: [Scene/Fight/CardAiAction.lua:61]:----移动    2    1    7
+[Log]15:05:58.672-232: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:05:58.673-232: [Common/tools.lua:50]:---寻路    12    6    2    1
+[Log]15:05:58.674-232: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:05:58.675-232: [Common/tools.lua:50]:---寻路    2    1    12    6
+[Log]15:05:59.185-263: [Scene/Fight/CardAiAction.lua:61]:----移动    11    6    66
+[Log]15:05:59.186-263: [Scene/Fight/CardAiAction.lua:61]:----移动    3    1    13
+[Log]15:05:59.401-276: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:05:59.402-276: [Common/tools.lua:50]:---寻路    11    6    3    1
+[Log]15:05:59.403-276: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:05:59.404-276: [Common/tools.lua:50]:---寻路    3    1    11    6
+[Log]15:05:59.915-307: [Scene/Fight/CardAiAction.lua:61]:----移动    10    6    60
+[Log]15:05:59.916-307: [Scene/Fight/CardAiAction.lua:61]:----移动    4    1    19
+[Log]15:06:00.130-320: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:06:00.131-320: [Common/tools.lua:50]:---寻路    10    6    4    1
+[Log]15:06:00.132-320: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:06:00.133-320: [Common/tools.lua:50]:---寻路    4    1    10    6
+[Log]15:06:00.643-351: [Scene/Fight/CardAiAction.lua:61]:----移动    9    6    54
+[Log]15:06:00.644-351: [Scene/Fight/CardAiAction.lua:61]:----移动    5    1    25
+[Log]15:06:00.858-364: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:06:00.859-364: [Common/tools.lua:50]:---寻路    9    6    5    1
+[Log]15:06:00.860-364: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:06:00.861-364: [Common/tools.lua:50]:---寻路    5    1    9    6
+[Log]15:06:01.372-395: [Scene/Fight/CardAiAction.lua:61]:----移动    9    5    53
+[Log]15:06:01.373-395: [Scene/Fight/CardAiAction.lua:61]:----移动    5    2    26
+[Log]15:06:01.588-408: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:06:01.590-408: [Common/tools.lua:50]:---寻路    9    5    5    2
+[Log]15:06:01.593-408: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:06:01.596-408: [Common/tools.lua:50]:---寻路    5    2    9    5
+[Log]15:06:02.100-439: [Scene/Fight/CardAiAction.lua:61]:----移动    8    5    47
+[Log]15:06:02.101-439: [Scene/Fight/CardAiAction.lua:61]:----移动    6    2    32
+[Log]15:06:02.316-452: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:06:02.317-452: [Common/tools.lua:50]:---寻路    8    5    6    2
+[Log]15:06:02.318-452: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:06:02.319-452: [Common/tools.lua:50]:---寻路    6    2    8    5
+[Log]15:06:02.831-483: [Scene/Fight/CardAiAction.lua:61]:----移动    8    4    46
+[Log]15:06:02.831-483: [Scene/Fight/CardAiAction.lua:61]:----移动    6    3    33
+[Log]15:06:03.46-496: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:06:03.46-496: [Common/tools.lua:50]:---寻路    8    4    6    3
+[Log]15:06:03.47-496: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:06:03.48-496: [Common/tools.lua:50]:---寻路    6    3    8    4
+[Log]15:06:03.559-527: [Scene/Fight/CardAiAction.lua:61]:----移动    7    4    40
+[Log]15:06:03.560-527: [Scene/Fight/CardAiAction.lua:61]:----移动    7    3    39
+[Log]15:06:03.774-540: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    1
+[Log]15:06:03.777-540: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    1
+[Log]15:06:04.389-577: [UI/Fight/CardItem.lua:31]:----雪梨    55
+[Log]15:06:05.387-637: [UI/Fight/CardItem.lua:31]:----雪梨    45
+[Log]15:06:06.385-697: [UI/Fight/CardItem.lua:31]:----雪梨    35
+[Log]15:06:07.395-758: [UI/Fight/CardItem.lua:31]:----雪梨    25
+[Log]15:06:08.390-818: [UI/Fight/CardItem.lua:31]:----雪梨    15
+[Log]15:06:09.383-878: [UI/Fight/CardItem.lua:31]:----雪梨    5
+[Log]15:06:10.394-939: [UI/Fight/CardItem.lua:31]:----雪梨    0
+[Log]游戏暂停！
+[Log]游戏暂停！
+[Log]游戏暂停！
+[Log]OutLog Finish

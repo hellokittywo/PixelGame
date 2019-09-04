@@ -1,0 +1,9 @@
+﻿[Log]OutLog Start
+[Log]23:25:17.855-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x1808DFC0
+[Log]23:25:17.859-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x18067318
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]23:25:59.286-0: Lua function Network.Unload not exists
+[Log]23:25:59.295-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

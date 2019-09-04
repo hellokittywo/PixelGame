@@ -1,0 +1,400 @@
+﻿[Log]OutLog Start
+[Log]21:30:59.347-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x15B11520
+[Log]21:30:59.352-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x1520FCE8
+[Log]21:31:02.6-180: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]21:31:02.9-180: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]21:31:02.11-180: [Scene/Fight/FightAStar.lua:135]:----节点    4    6
+[Log]21:31:02.13-180: [Scene/Fight/FightAStar.lua:135]:----节点    3    5
+[Log]21:31:02.16-180: [Scene/Fight/FightAStar.lua:135]:----节点    5    5
+[Log]21:31:02.18-180: [Scene/Fight/FightAStar.lua:135]:----节点    3    6
+[Log]21:31:02.21-180: [Scene/Fight/FightAStar.lua:135]:----节点    3    4
+[Log]21:31:02.24-180: [Scene/Fight/FightAStar.lua:135]:----节点    2    5
+[Log]21:31:02.26-180: [Scene/Fight/FightAStar.lua:135]:----节点    3    3
+[Log]21:31:02.29-180: [Scene/Fight/FightAStar.lua:135]:----节点    4    3
+[Log]21:31:02.31-180: [Scene/Fight/FightAStar.lua:135]:----节点    4    2
+[Log]21:31:02.34-180: [Scene/Fight/FightAStar.lua:135]:----节点    5    3
+[Log]21:31:02.36-180: [Scene/Fight/FightAStar.lua:135]:----节点    4    1
+[Log]21:31:02.39-180: [Scene/Fight/FightAStar.lua:135]:----节点    5    2
+[Log]21:31:02.42-180: [Scene/Fight/FightAStar.lua:135]:----节点    3    1
+[Log]21:31:02.44-180: [Scene/Fight/FightAStar.lua:135]:----节点    5    1
+[Log]21:31:02.47-180: [Scene/Fight/FightAStar.lua:135]:----节点    2    1
+[Log]21:31:02.50-180: [Scene/Fight/FightAStar.lua:135]:----节点    2    2
+[Log]21:31:02.52-180: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:02.55-180: [Scene/Fight/FightAStar.lua:135]:----节点    1    2
+[Log]21:31:02.57-180: [Scene/Fight/FightAStar.lua:135]:----节点    1    3
+[Log]21:31:02.60-180: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:02.493-208: [Scene/Fight/CardAiAction.lua:76]:----移动    3    5    哪吒
+[Log]21:31:02.708-224: [Common/tools.lua:50]:---寻路    3    5    1    3
+[Log]21:31:02.709-224: [Common/tools.lua:50]:-------------当前探索起点    3    5    1
+[Log]21:31:02.710-224: [Scene/Fight/FightAStar.lua:135]:----节点    3    6
+[Log]21:31:02.711-224: [Scene/Fight/FightAStar.lua:135]:----节点    3    4
+[Log]21:31:02.712-224: [Scene/Fight/FightAStar.lua:135]:----节点    2    5
+[Log]21:31:02.713-224: [Scene/Fight/FightAStar.lua:135]:----节点    4    5
+[Log]21:31:02.715-224: [Scene/Fight/FightAStar.lua:135]:----节点    3    3
+[Log]21:31:02.716-224: [Scene/Fight/FightAStar.lua:135]:----节点    4    3
+[Log]21:31:02.717-224: [Scene/Fight/FightAStar.lua:135]:----节点    4    2
+[Log]21:31:02.718-224: [Scene/Fight/FightAStar.lua:135]:----节点    5    3
+[Log]21:31:02.719-224: [Scene/Fight/FightAStar.lua:135]:----节点    4    1
+[Log]21:31:02.720-224: [Scene/Fight/FightAStar.lua:135]:----节点    5    2
+[Log]21:31:02.721-224: [Scene/Fight/FightAStar.lua:135]:----节点    3    1
+[Log]21:31:02.722-224: [Scene/Fight/FightAStar.lua:135]:----节点    5    1
+[Log]21:31:02.723-224: [Scene/Fight/FightAStar.lua:135]:----节点    2    1
+[Log]21:31:02.724-224: [Scene/Fight/FightAStar.lua:135]:----节点    2    2
+[Log]21:31:02.725-224: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:02.726-224: [Scene/Fight/FightAStar.lua:135]:----节点    1    2
+[Log]21:31:02.727-224: [Scene/Fight/FightAStar.lua:135]:----节点    1    3
+[Log]21:31:02.728-224: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:03.218-259: [Scene/Fight/CardAiAction.lua:76]:----移动    3    4    哪吒
+[Log]21:31:03.427-274: [Common/tools.lua:50]:---寻路    3    4    1    3
+[Log]21:31:03.428-274: [Common/tools.lua:50]:-------------当前探索起点    3    4    1
+[Log]21:31:03.429-274: [Scene/Fight/FightAStar.lua:135]:----节点    3    5
+[Log]21:31:03.430-274: [Scene/Fight/FightAStar.lua:135]:----节点    3    3
+[Log]21:31:03.431-274: [Scene/Fight/FightAStar.lua:135]:----节点    4    3
+[Log]21:31:03.432-274: [Scene/Fight/FightAStar.lua:135]:----节点    4    2
+[Log]21:31:03.433-274: [Scene/Fight/FightAStar.lua:135]:----节点    5    3
+[Log]21:31:03.434-274: [Scene/Fight/FightAStar.lua:135]:----节点    4    1
+[Log]21:31:03.435-274: [Scene/Fight/FightAStar.lua:135]:----节点    5    2
+[Log]21:31:03.437-274: [Scene/Fight/FightAStar.lua:135]:----节点    3    1
+[Log]21:31:03.438-274: [Scene/Fight/FightAStar.lua:135]:----节点    5    1
+[Log]21:31:03.439-274: [Scene/Fight/FightAStar.lua:135]:----节点    2    1
+[Log]21:31:03.440-274: [Scene/Fight/FightAStar.lua:135]:----节点    2    2
+[Log]21:31:03.441-274: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:03.442-274: [Scene/Fight/FightAStar.lua:135]:----节点    1    2
+[Log]21:31:03.443-274: [Scene/Fight/FightAStar.lua:135]:----节点    1    3
+[Log]21:31:03.443-274: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:03.943-312: [Scene/Fight/CardAiAction.lua:76]:----移动    3    3    哪吒
+[Log]21:31:04.148-326: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]21:31:04.150-326: [Common/tools.lua:50]:-------------当前探索起点    3    3    1
+[Log]21:31:04.151-326: [Scene/Fight/FightAStar.lua:135]:----节点    3    4
+[Log]21:31:04.152-326: [Scene/Fight/FightAStar.lua:135]:----节点    4    3
+[Log]21:31:04.154-326: [Scene/Fight/FightAStar.lua:135]:----节点    3    5
+[Log]21:31:04.155-326: [Scene/Fight/FightAStar.lua:135]:----节点    3    6
+[Log]21:31:04.156-326: [Scene/Fight/FightAStar.lua:135]:----节点    2    5
+[Log]21:31:04.157-326: [Scene/Fight/FightAStar.lua:135]:----节点    4    5
+[Log]21:31:04.158-326: [Scene/Fight/FightAStar.lua:135]:----节点    2    6
+[Log]21:31:04.159-326: [Scene/Fight/FightAStar.lua:135]:----节点    1    5
+[Log]21:31:04.160-326: [Scene/Fight/FightAStar.lua:135]:----节点    1    6
+[Log]21:31:04.161-326: [Scene/Fight/FightAStar.lua:135]:----节点    2    6
+[Log]21:31:04.162-326: [Scene/Fight/FightAStar.lua:135]:----节点    3    6
+[Log]21:31:04.163-326: [Scene/Fight/FightAStar.lua:135]:----节点    4    6
+[Log]21:31:04.164-326: [Scene/Fight/FightAStar.lua:135]:----节点    4    5
+[Log]21:31:04.164-326: [Scene/Fight/FightAStar.lua:135]:----节点    5    6
+[Log]21:31:04.165-326: [Scene/Fight/FightAStar.lua:135]:----节点    5    5
+[Log]21:31:04.166-326: [Scene/Fight/FightAStar.lua:135]:----节点    5    6
+[Log]21:31:04.167-326: [Scene/Fight/FightAStar.lua:135]:----节点    5    4
+[Log]21:31:04.168-326: [Scene/Fight/FightAStar.lua:135]:----节点    6    5
+[Log]21:31:04.170-326: [Scene/Fight/FightAStar.lua:135]:----节点    5    3
+[Log]21:31:04.171-326: [Scene/Fight/FightAStar.lua:135]:----节点    6    4
+[Log]21:31:04.172-326: [Scene/Fight/FightAStar.lua:135]:----节点    5    2
+[Log]21:31:04.173-326: [Scene/Fight/FightAStar.lua:135]:----节点    4    3
+[Log]21:31:04.174-326: [Scene/Fight/FightAStar.lua:135]:----节点    6    3
+[Log]21:31:04.175-326: [Scene/Fight/FightAStar.lua:135]:----节点    4    2
+[Log]21:31:04.175-326: [Scene/Fight/FightAStar.lua:135]:----节点    4    1
+[Log]21:31:04.176-326: [Scene/Fight/FightAStar.lua:135]:----节点    5    2
+[Log]21:31:04.178-326: [Scene/Fight/FightAStar.lua:135]:----节点    3    1
+[Log]21:31:04.179-326: [Scene/Fight/FightAStar.lua:135]:----节点    5    1
+[Log]21:31:04.180-326: [Scene/Fight/FightAStar.lua:135]:----节点    2    1
+[Log]21:31:04.181-326: [Scene/Fight/FightAStar.lua:135]:----节点    2    2
+[Log]21:31:04.182-326: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:04.183-326: [Scene/Fight/FightAStar.lua:135]:----节点    1    2
+[Log]21:31:04.185-326: [Scene/Fight/FightAStar.lua:135]:----节点    1    3
+[Log]21:31:04.186-326: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:04.661-360: [Scene/Fight/CardAiAction.lua:76]:----移动    3    4    哪吒
+[Log]21:31:04.867-374: [Common/tools.lua:50]:---寻路    3    4    1    3
+[Log]21:31:04.868-374: [Common/tools.lua:50]:-------------当前探索起点    3    4    1
+[Log]21:31:04.869-374: [Scene/Fight/FightAStar.lua:135]:----节点    3    5
+[Log]21:31:04.870-374: [Scene/Fight/FightAStar.lua:135]:----节点    3    3
+[Log]21:31:04.871-374: [Scene/Fight/FightAStar.lua:135]:----节点    4    3
+[Log]21:31:04.872-374: [Scene/Fight/FightAStar.lua:135]:----节点    4    2
+[Log]21:31:04.873-374: [Scene/Fight/FightAStar.lua:135]:----节点    5    3
+[Log]21:31:04.874-374: [Scene/Fight/FightAStar.lua:135]:----节点    4    1
+[Log]21:31:04.875-374: [Scene/Fight/FightAStar.lua:135]:----节点    5    2
+[Log]21:31:04.876-374: [Scene/Fight/FightAStar.lua:135]:----节点    3    1
+[Log]21:31:04.877-374: [Scene/Fight/FightAStar.lua:135]:----节点    5    1
+[Log]21:31:04.878-374: [Scene/Fight/FightAStar.lua:135]:----节点    2    1
+[Log]21:31:04.879-374: [Scene/Fight/FightAStar.lua:135]:----节点    2    2
+[Log]21:31:04.880-374: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:04.881-374: [Scene/Fight/FightAStar.lua:135]:----节点    1    2
+[Log]21:31:04.882-374: [Scene/Fight/FightAStar.lua:135]:----节点    1    3
+[Log]21:31:04.882-374: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:05.374-409: [Scene/Fight/CardAiAction.lua:76]:----移动    3    3    哪吒
+[Log]21:31:05.576-425: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]21:31:05.577-425: [Common/tools.lua:50]:-------------当前探索起点    3    3    1
+[Log]21:31:05.578-425: [Scene/Fight/FightAStar.lua:135]:----节点    3    4
+[Log]21:31:05.579-425: [Scene/Fight/FightAStar.lua:135]:----节点    4    3
+[Log]21:31:05.580-425: [Scene/Fight/FightAStar.lua:135]:----节点    3    5
+[Log]21:31:05.581-425: [Scene/Fight/FightAStar.lua:135]:----节点    3    6
+[Log]21:31:05.582-425: [Scene/Fight/FightAStar.lua:135]:----节点    2    5
+[Log]21:31:05.583-425: [Scene/Fight/FightAStar.lua:135]:----节点    4    5
+[Log]21:31:05.584-425: [Scene/Fight/FightAStar.lua:135]:----节点    2    6
+[Log]21:31:05.585-425: [Scene/Fight/FightAStar.lua:135]:----节点    1    5
+[Log]21:31:05.587-425: [Scene/Fight/FightAStar.lua:135]:----节点    1    6
+[Log]21:31:05.588-425: [Scene/Fight/FightAStar.lua:135]:----节点    2    6
+[Log]21:31:05.589-425: [Scene/Fight/FightAStar.lua:135]:----节点    3    6
+[Log]21:31:05.590-425: [Scene/Fight/FightAStar.lua:135]:----节点    4    6
+[Log]21:31:05.591-425: [Scene/Fight/FightAStar.lua:135]:----节点    4    5
+[Log]21:31:05.592-425: [Scene/Fight/FightAStar.lua:135]:----节点    5    6
+[Log]21:31:05.593-425: [Scene/Fight/FightAStar.lua:135]:----节点    5    5
+[Log]21:31:05.594-425: [Scene/Fight/FightAStar.lua:135]:----节点    5    6
+[Log]21:31:05.595-425: [Scene/Fight/FightAStar.lua:135]:----节点    5    4
+[Log]21:31:05.596-425: [Scene/Fight/FightAStar.lua:135]:----节点    6    5
+[Log]21:31:05.597-425: [Scene/Fight/FightAStar.lua:135]:----节点    5    3
+[Log]21:31:05.598-425: [Scene/Fight/FightAStar.lua:135]:----节点    6    4
+[Log]21:31:05.599-425: [Scene/Fight/FightAStar.lua:135]:----节点    5    2
+[Log]21:31:05.600-425: [Scene/Fight/FightAStar.lua:135]:----节点    4    3
+[Log]21:31:05.601-425: [Scene/Fight/FightAStar.lua:135]:----节点    6    3
+[Log]21:31:05.603-425: [Scene/Fight/FightAStar.lua:135]:----节点    4    2
+[Log]21:31:05.604-425: [Scene/Fight/FightAStar.lua:135]:----节点    4    1
+[Log]21:31:05.605-425: [Scene/Fight/FightAStar.lua:135]:----节点    5    2
+[Log]21:31:05.606-425: [Scene/Fight/FightAStar.lua:135]:----节点    3    1
+[Log]21:31:05.606-425: [Scene/Fight/FightAStar.lua:135]:----节点    5    1
+[Log]21:31:05.607-425: [Scene/Fight/FightAStar.lua:135]:----节点    2    1
+[Log]21:31:05.608-425: [Scene/Fight/FightAStar.lua:135]:----节点    2    2
+[Log]21:31:05.609-425: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:05.610-425: [Scene/Fight/FightAStar.lua:135]:----节点    1    2
+[Log]21:31:05.610-425: [Scene/Fight/FightAStar.lua:135]:----节点    1    3
+[Log]21:31:05.611-425: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:06.78-459: [Scene/Fight/CardAiAction.lua:76]:----移动    3    4    哪吒
+[Log]21:31:06.288-474: [Common/tools.lua:50]:---寻路    3    4    1    3
+[Log]21:31:06.289-474: [Common/tools.lua:50]:-------------当前探索起点    3    4    1
+[Log]21:31:06.290-474: [Scene/Fight/FightAStar.lua:135]:----节点    3    5
+[Log]21:31:06.292-474: [Scene/Fight/FightAStar.lua:135]:----节点    3    3
+[Log]21:31:06.292-474: [Scene/Fight/FightAStar.lua:135]:----节点    4    3
+[Log]21:31:06.293-474: [Scene/Fight/FightAStar.lua:135]:----节点    4    2
+[Log]21:31:06.294-474: [Scene/Fight/FightAStar.lua:135]:----节点    5    3
+[Log]21:31:06.295-474: [Scene/Fight/FightAStar.lua:135]:----节点    4    1
+[Log]21:31:06.296-474: [Scene/Fight/FightAStar.lua:135]:----节点    5    2
+[Log]21:31:06.297-474: [Scene/Fight/FightAStar.lua:135]:----节点    3    1
+[Log]21:31:06.298-474: [Scene/Fight/FightAStar.lua:135]:----节点    5    1
+[Log]21:31:06.299-474: [Scene/Fight/FightAStar.lua:135]:----节点    2    1
+[Log]21:31:06.300-474: [Scene/Fight/FightAStar.lua:135]:----节点    2    2
+[Log]21:31:06.301-474: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:06.302-474: [Scene/Fight/FightAStar.lua:135]:----节点    1    2
+[Log]21:31:06.303-474: [Scene/Fight/FightAStar.lua:135]:----节点    1    3
+[Log]21:31:06.304-474: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:06.804-511: [Scene/Fight/CardAiAction.lua:76]:----移动    3    3    哪吒
+[Log]21:31:07.11-525: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]21:31:07.14-525: [Common/tools.lua:50]:-------------当前探索起点    3    3    1
+[Log]21:31:07.17-525: [Scene/Fight/FightAStar.lua:135]:----节点    3    4
+[Log]21:31:07.20-525: [Scene/Fight/FightAStar.lua:135]:----节点    4    3
+[Log]21:31:07.22-525: [Scene/Fight/FightAStar.lua:135]:----节点    3    5
+[Log]21:31:07.24-525: [Scene/Fight/FightAStar.lua:135]:----节点    3    6
+[Log]21:31:07.26-525: [Scene/Fight/FightAStar.lua:135]:----节点    2    5
+[Log]21:31:07.28-525: [Scene/Fight/FightAStar.lua:135]:----节点    4    5
+[Log]21:31:07.30-525: [Scene/Fight/FightAStar.lua:135]:----节点    2    6
+[Log]21:31:07.31-525: [Scene/Fight/FightAStar.lua:135]:----节点    1    5
+[Log]21:31:07.32-525: [Scene/Fight/FightAStar.lua:135]:----节点    1    6
+[Log]21:31:07.33-525: [Scene/Fight/FightAStar.lua:135]:----节点    2    6
+[Log]21:31:07.35-525: [Scene/Fight/FightAStar.lua:135]:----节点    3    6
+[Log]21:31:07.36-525: [Scene/Fight/FightAStar.lua:135]:----节点    4    6
+[Log]21:31:07.37-525: [Scene/Fight/FightAStar.lua:135]:----节点    4    5
+[Log]21:31:07.38-525: [Scene/Fight/FightAStar.lua:135]:----节点    5    6
+[Log]21:31:07.39-525: [Scene/Fight/FightAStar.lua:135]:----节点    5    5
+[Log]21:31:07.40-525: [Scene/Fight/FightAStar.lua:135]:----节点    5    6
+[Log]21:31:07.41-525: [Scene/Fight/FightAStar.lua:135]:----节点    5    4
+[Log]21:31:07.42-525: [Scene/Fight/FightAStar.lua:135]:----节点    6    5
+[Log]21:31:07.43-525: [Scene/Fight/FightAStar.lua:135]:----节点    5    3
+[Log]21:31:07.44-525: [Scene/Fight/FightAStar.lua:135]:----节点    6    4
+[Log]21:31:07.45-525: [Scene/Fight/FightAStar.lua:135]:----节点    5    2
+[Log]21:31:07.46-525: [Scene/Fight/FightAStar.lua:135]:----节点    4    3
+[Log]21:31:07.47-525: [Scene/Fight/FightAStar.lua:135]:----节点    6    3
+[Log]21:31:07.48-525: [Scene/Fight/FightAStar.lua:135]:----节点    4    2
+[Log]21:31:07.49-525: [Scene/Fight/FightAStar.lua:135]:----节点    4    1
+[Log]21:31:07.50-525: [Scene/Fight/FightAStar.lua:135]:----节点    5    2
+[Log]21:31:07.51-525: [Scene/Fight/FightAStar.lua:135]:----节点    3    1
+[Log]21:31:07.52-525: [Scene/Fight/FightAStar.lua:135]:----节点    5    1
+[Log]21:31:07.53-525: [Scene/Fight/FightAStar.lua:135]:----节点    2    1
+[Log]21:31:07.54-525: [Scene/Fight/FightAStar.lua:135]:----节点    2    2
+[Log]21:31:07.55-525: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:07.57-525: [Scene/Fight/FightAStar.lua:135]:----节点    1    2
+[Log]21:31:07.58-525: [Scene/Fight/FightAStar.lua:135]:----节点    1    3
+[Log]21:31:07.59-525: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:07.513-558: [Scene/Fight/CardAiAction.lua:76]:----移动    3    4    哪吒
+[Log]21:31:07.719-572: [Common/tools.lua:50]:---寻路    3    4    1    3
+[Log]21:31:07.720-572: [Common/tools.lua:50]:-------------当前探索起点    3    4    1
+[Log]21:31:07.721-572: [Scene/Fight/FightAStar.lua:135]:----节点    3    5
+[Log]21:31:07.722-572: [Scene/Fight/FightAStar.lua:135]:----节点    3    3
+[Log]21:31:07.723-572: [Scene/Fight/FightAStar.lua:135]:----节点    4    3
+[Log]21:31:07.724-572: [Scene/Fight/FightAStar.lua:135]:----节点    4    2
+[Log]21:31:07.725-572: [Scene/Fight/FightAStar.lua:135]:----节点    5    3
+[Log]21:31:07.726-572: [Scene/Fight/FightAStar.lua:135]:----节点    4    1
+[Log]21:31:07.727-572: [Scene/Fight/FightAStar.lua:135]:----节点    5    2
+[Log]21:31:07.728-572: [Scene/Fight/FightAStar.lua:135]:----节点    3    1
+[Log]21:31:07.729-572: [Scene/Fight/FightAStar.lua:135]:----节点    5    1
+[Log]21:31:07.730-572: [Scene/Fight/FightAStar.lua:135]:----节点    2    1
+[Log]21:31:07.731-572: [Scene/Fight/FightAStar.lua:135]:----节点    2    2
+[Log]21:31:07.732-572: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:07.733-572: [Scene/Fight/FightAStar.lua:135]:----节点    1    2
+[Log]21:31:07.734-572: [Scene/Fight/FightAStar.lua:135]:----节点    1    3
+[Log]21:31:07.735-572: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:08.231-609: [Scene/Fight/CardAiAction.lua:76]:----移动    3    3    哪吒
+[Log]21:31:08.438-623: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]21:31:08.439-623: [Common/tools.lua:50]:-------------当前探索起点    3    3    1
+[Log]21:31:08.440-623: [Scene/Fight/FightAStar.lua:135]:----节点    3    4
+[Log]21:31:08.441-623: [Scene/Fight/FightAStar.lua:135]:----节点    4    3
+[Log]21:31:08.442-623: [Scene/Fight/FightAStar.lua:135]:----节点    3    5
+[Log]21:31:08.443-623: [Scene/Fight/FightAStar.lua:135]:----节点    3    6
+[Log]21:31:08.444-623: [Scene/Fight/FightAStar.lua:135]:----节点    2    5
+[Log]21:31:08.445-623: [Scene/Fight/FightAStar.lua:135]:----节点    4    5
+[Log]21:31:08.446-623: [Scene/Fight/FightAStar.lua:135]:----节点    2    6
+[Log]21:31:08.447-623: [Scene/Fight/FightAStar.lua:135]:----节点    1    5
+[Log]21:31:08.448-623: [Scene/Fight/FightAStar.lua:135]:----节点    1    6
+[Log]21:31:08.449-623: [Scene/Fight/FightAStar.lua:135]:----节点    2    6
+[Log]21:31:08.450-623: [Scene/Fight/FightAStar.lua:135]:----节点    3    6
+[Log]21:31:08.451-623: [Scene/Fight/FightAStar.lua:135]:----节点    4    6
+[Log]21:31:08.452-623: [Scene/Fight/FightAStar.lua:135]:----节点    4    5
+[Log]21:31:08.453-623: [Scene/Fight/FightAStar.lua:135]:----节点    5    6
+[Log]21:31:08.454-623: [Scene/Fight/FightAStar.lua:135]:----节点    5    5
+[Log]21:31:08.455-623: [Scene/Fight/FightAStar.lua:135]:----节点    5    6
+[Log]21:31:08.456-623: [Scene/Fight/FightAStar.lua:135]:----节点    5    4
+[Log]21:31:08.457-623: [Scene/Fight/FightAStar.lua:135]:----节点    6    5
+[Log]21:31:08.458-623: [Scene/Fight/FightAStar.lua:135]:----节点    5    3
+[Log]21:31:08.459-623: [Scene/Fight/FightAStar.lua:135]:----节点    6    4
+[Log]21:31:08.460-623: [Scene/Fight/FightAStar.lua:135]:----节点    5    2
+[Log]21:31:08.462-623: [Scene/Fight/FightAStar.lua:135]:----节点    4    3
+[Log]21:31:08.463-623: [Scene/Fight/FightAStar.lua:135]:----节点    6    3
+[Log]21:31:08.464-623: [Scene/Fight/FightAStar.lua:135]:----节点    4    2
+[Log]21:31:08.465-623: [Scene/Fight/FightAStar.lua:135]:----节点    4    1
+[Log]21:31:08.466-623: [Scene/Fight/FightAStar.lua:135]:----节点    5    2
+[Log]21:31:08.467-623: [Scene/Fight/FightAStar.lua:135]:----节点    3    1
+[Log]21:31:08.468-623: [Scene/Fight/FightAStar.lua:135]:----节点    5    1
+[Log]21:31:08.469-623: [Scene/Fight/FightAStar.lua:135]:----节点    2    1
+[Log]21:31:08.471-623: [Scene/Fight/FightAStar.lua:135]:----节点    2    2
+[Log]21:31:08.472-623: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:08.472-623: [Scene/Fight/FightAStar.lua:135]:----节点    1    2
+[Log]21:31:08.473-623: [Scene/Fight/FightAStar.lua:135]:----节点    1    3
+[Log]21:31:08.474-623: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:08.952-658: [Scene/Fight/CardAiAction.lua:76]:----移动    3    4    哪吒
+[Log]21:31:09.154-673: [Common/tools.lua:50]:---寻路    3    4    1    3
+[Log]21:31:09.155-673: [Common/tools.lua:50]:-------------当前探索起点    3    4    1
+[Log]21:31:09.156-673: [Scene/Fight/FightAStar.lua:135]:----节点    3    5
+[Log]21:31:09.157-673: [Scene/Fight/FightAStar.lua:135]:----节点    3    3
+[Log]21:31:09.158-673: [Scene/Fight/FightAStar.lua:135]:----节点    4    3
+[Log]21:31:09.159-673: [Scene/Fight/FightAStar.lua:135]:----节点    4    2
+[Log]21:31:09.160-673: [Scene/Fight/FightAStar.lua:135]:----节点    5    3
+[Log]21:31:09.161-673: [Scene/Fight/FightAStar.lua:135]:----节点    4    1
+[Log]21:31:09.163-673: [Scene/Fight/FightAStar.lua:135]:----节点    5    2
+[Log]21:31:09.164-673: [Scene/Fight/FightAStar.lua:135]:----节点    3    1
+[Log]21:31:09.165-673: [Scene/Fight/FightAStar.lua:135]:----节点    5    1
+[Log]21:31:09.166-673: [Scene/Fight/FightAStar.lua:135]:----节点    2    1
+[Log]21:31:09.167-673: [Scene/Fight/FightAStar.lua:135]:----节点    2    2
+[Log]21:31:09.168-673: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:09.169-673: [Scene/Fight/FightAStar.lua:135]:----节点    1    2
+[Log]21:31:09.170-673: [Scene/Fight/FightAStar.lua:135]:----节点    1    3
+[Log]21:31:09.171-673: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:09.657-708: [Scene/Fight/CardAiAction.lua:76]:----移动    3    3    哪吒
+[Log]21:31:09.858-723: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]21:31:09.859-723: [Common/tools.lua:50]:-------------当前探索起点    3    3    1
+[Log]21:31:09.860-723: [Scene/Fight/FightAStar.lua:135]:----节点    3    4
+[Log]21:31:09.862-723: [Scene/Fight/FightAStar.lua:135]:----节点    4    3
+[Log]21:31:09.864-723: [Scene/Fight/FightAStar.lua:135]:----节点    3    5
+[Log]21:31:09.865-723: [Scene/Fight/FightAStar.lua:135]:----节点    3    6
+[Log]21:31:09.866-723: [Scene/Fight/FightAStar.lua:135]:----节点    2    5
+[Log]21:31:09.867-723: [Scene/Fight/FightAStar.lua:135]:----节点    4    5
+[Log]21:31:09.868-723: [Scene/Fight/FightAStar.lua:135]:----节点    2    6
+[Log]21:31:09.869-723: [Scene/Fight/FightAStar.lua:135]:----节点    1    5
+[Log]21:31:09.870-723: [Scene/Fight/FightAStar.lua:135]:----节点    1    6
+[Log]21:31:09.871-723: [Scene/Fight/FightAStar.lua:135]:----节点    2    6
+[Log]21:31:09.872-723: [Scene/Fight/FightAStar.lua:135]:----节点    3    6
+[Log]21:31:09.873-723: [Scene/Fight/FightAStar.lua:135]:----节点    4    6
+[Log]21:31:09.874-723: [Scene/Fight/FightAStar.lua:135]:----节点    4    5
+[Log]21:31:09.875-723: [Scene/Fight/FightAStar.lua:135]:----节点    5    6
+[Log]21:31:09.876-723: [Scene/Fight/FightAStar.lua:135]:----节点    5    5
+[Log]21:31:09.877-723: [Scene/Fight/FightAStar.lua:135]:----节点    5    6
+[Log]21:31:09.878-723: [Scene/Fight/FightAStar.lua:135]:----节点    5    4
+[Log]21:31:09.879-723: [Scene/Fight/FightAStar.lua:135]:----节点    6    5
+[Log]21:31:09.880-723: [Scene/Fight/FightAStar.lua:135]:----节点    5    3
+[Log]21:31:09.881-723: [Scene/Fight/FightAStar.lua:135]:----节点    6    4
+[Log]21:31:09.882-723: [Scene/Fight/FightAStar.lua:135]:----节点    5    2
+[Log]21:31:09.883-723: [Scene/Fight/FightAStar.lua:135]:----节点    4    3
+[Log]21:31:09.884-723: [Scene/Fight/FightAStar.lua:135]:----节点    6    3
+[Log]21:31:09.885-723: [Scene/Fight/FightAStar.lua:135]:----节点    4    2
+[Log]21:31:09.885-723: [Scene/Fight/FightAStar.lua:135]:----节点    4    1
+[Log]21:31:09.886-723: [Scene/Fight/FightAStar.lua:135]:----节点    5    2
+[Log]21:31:09.887-723: [Scene/Fight/FightAStar.lua:135]:----节点    3    1
+[Log]21:31:09.888-723: [Scene/Fight/FightAStar.lua:135]:----节点    5    1
+[Log]21:31:09.889-723: [Scene/Fight/FightAStar.lua:135]:----节点    2    1
+[Log]21:31:09.890-723: [Scene/Fight/FightAStar.lua:135]:----节点    2    2
+[Log]21:31:09.891-723: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:09.892-723: [Scene/Fight/FightAStar.lua:135]:----节点    1    2
+[Log]21:31:09.893-723: [Scene/Fight/FightAStar.lua:135]:----节点    1    3
+[Log]21:31:09.894-723: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:10.359-757: [Scene/Fight/CardAiAction.lua:76]:----移动    3    4    哪吒
+[Log]21:31:10.570-772: [Common/tools.lua:50]:---寻路    3    4    1    3
+[Log]21:31:10.572-772: [Common/tools.lua:50]:-------------当前探索起点    3    4    1
+[Log]21:31:10.573-772: [Scene/Fight/FightAStar.lua:135]:----节点    3    5
+[Log]21:31:10.574-772: [Scene/Fight/FightAStar.lua:135]:----节点    3    3
+[Log]21:31:10.575-772: [Scene/Fight/FightAStar.lua:135]:----节点    4    3
+[Log]21:31:10.576-772: [Scene/Fight/FightAStar.lua:135]:----节点    4    2
+[Log]21:31:10.577-772: [Scene/Fight/FightAStar.lua:135]:----节点    5    3
+[Log]21:31:10.578-772: [Scene/Fight/FightAStar.lua:135]:----节点    4    1
+[Log]21:31:10.579-772: [Scene/Fight/FightAStar.lua:135]:----节点    5    2
+[Log]21:31:10.580-772: [Scene/Fight/FightAStar.lua:135]:----节点    3    1
+[Log]21:31:10.581-772: [Scene/Fight/FightAStar.lua:135]:----节点    5    1
+[Log]21:31:10.582-772: [Scene/Fight/FightAStar.lua:135]:----节点    2    1
+[Log]21:31:10.582-772: [Scene/Fight/FightAStar.lua:135]:----节点    2    2
+[Log]21:31:10.584-772: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:10.586-772: [Scene/Fight/FightAStar.lua:135]:----节点    1    2
+[Log]21:31:10.587-772: [Scene/Fight/FightAStar.lua:135]:----节点    1    3
+[Log]21:31:10.589-772: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:11.73-808: [Scene/Fight/CardAiAction.lua:76]:----移动    3    3    哪吒
+[Log]21:31:11.288-823: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]21:31:11.289-823: [Common/tools.lua:50]:-------------当前探索起点    3    3    1
+[Log]21:31:11.290-823: [Scene/Fight/FightAStar.lua:135]:----节点    3    4
+[Log]21:31:11.291-823: [Scene/Fight/FightAStar.lua:135]:----节点    4    3
+[Log]21:31:11.292-823: [Scene/Fight/FightAStar.lua:135]:----节点    3    5
+[Log]21:31:11.293-823: [Scene/Fight/FightAStar.lua:135]:----节点    3    6
+[Log]21:31:11.294-823: [Scene/Fight/FightAStar.lua:135]:----节点    2    5
+[Log]21:31:11.294-823: [Scene/Fight/FightAStar.lua:135]:----节点    4    5
+[Log]21:31:11.295-823: [Scene/Fight/FightAStar.lua:135]:----节点    2    6
+[Log]21:31:11.297-823: [Scene/Fight/FightAStar.lua:135]:----节点    1    5
+[Log]21:31:11.298-823: [Scene/Fight/FightAStar.lua:135]:----节点    1    6
+[Log]21:31:11.299-823: [Scene/Fight/FightAStar.lua:135]:----节点    2    6
+[Log]21:31:11.300-823: [Scene/Fight/FightAStar.lua:135]:----节点    3    6
+[Log]21:31:11.301-823: [Scene/Fight/FightAStar.lua:135]:----节点    4    6
+[Log]21:31:11.302-823: [Scene/Fight/FightAStar.lua:135]:----节点    4    5
+[Log]21:31:11.302-823: [Scene/Fight/FightAStar.lua:135]:----节点    5    6
+[Log]21:31:11.304-823: [Scene/Fight/FightAStar.lua:135]:----节点    5    5
+[Log]21:31:11.305-823: [Scene/Fight/FightAStar.lua:135]:----节点    5    6
+[Log]21:31:11.306-823: [Scene/Fight/FightAStar.lua:135]:----节点    5    4
+[Log]21:31:11.308-823: [Scene/Fight/FightAStar.lua:135]:----节点    6    5
+[Log]21:31:11.309-823: [Scene/Fight/FightAStar.lua:135]:----节点    5    3
+[Log]21:31:11.310-823: [Scene/Fight/FightAStar.lua:135]:----节点    6    4
+[Log]21:31:11.311-823: [Scene/Fight/FightAStar.lua:135]:----节点    5    2
+[Log]21:31:11.312-823: [Scene/Fight/FightAStar.lua:135]:----节点    4    3
+[Log]21:31:11.313-823: [Scene/Fight/FightAStar.lua:135]:----节点    6    3
+[Log]21:31:11.313-823: [Scene/Fight/FightAStar.lua:135]:----节点    4    2
+[Log]21:31:11.315-823: [Scene/Fight/FightAStar.lua:135]:----节点    4    1
+[Log]21:31:11.316-823: [Scene/Fight/FightAStar.lua:135]:----节点    5    2
+[Log]21:31:11.317-823: [Scene/Fight/FightAStar.lua:135]:----节点    3    1
+[Log]21:31:11.318-823: [Scene/Fight/FightAStar.lua:135]:----节点    5    1
+[Log]21:31:11.319-823: [Scene/Fight/FightAStar.lua:135]:----节点    2    1
+[Log]21:31:11.320-823: [Scene/Fight/FightAStar.lua:135]:----节点    2    2
+[Log]21:31:11.321-823: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:11.322-823: [Scene/Fight/FightAStar.lua:135]:----节点    1    2
+[Log]21:31:11.323-823: [Scene/Fight/FightAStar.lua:135]:----节点    1    3
+[Log]21:31:11.325-823: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:11.789-856: [Scene/Fight/CardAiAction.lua:76]:----移动    3    4    哪吒
+[Log]21:31:12.0-871: [Common/tools.lua:50]:---寻路    3    4    1    3
+[Log]21:31:12.1-871: [Common/tools.lua:50]:-------------当前探索起点    3    4    1
+[Log]21:31:12.2-871: [Scene/Fight/FightAStar.lua:135]:----节点    3    5
+[Log]21:31:12.3-871: [Scene/Fight/FightAStar.lua:135]:----节点    3    3
+[Log]21:31:12.4-871: [Scene/Fight/FightAStar.lua:135]:----节点    4    3
+[Log]21:31:12.5-871: [Scene/Fight/FightAStar.lua:135]:----节点    4    2
+[Log]21:31:12.7-871: [Scene/Fight/FightAStar.lua:135]:----节点    5    3
+[Log]21:31:12.8-871: [Scene/Fight/FightAStar.lua:135]:----节点    4    1
+[Log]21:31:12.9-871: [Scene/Fight/FightAStar.lua:135]:----节点    5    2
+[Log]21:31:12.10-871: [Scene/Fight/FightAStar.lua:135]:----节点    3    1
+[Log]21:31:12.11-871: [Scene/Fight/FightAStar.lua:135]:----节点    5    1
+[Log]21:31:12.12-871: [Scene/Fight/FightAStar.lua:135]:----节点    2    1
+[Log]21:31:12.13-871: [Scene/Fight/FightAStar.lua:135]:----节点    2    2
+[Log]21:31:12.14-871: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]21:31:12.15-871: [Scene/Fight/FightAStar.lua:135]:----节点    1    2
+[Log]21:31:12.16-871: [Scene/Fight/FightAStar.lua:135]:----节点    1    3
+[Log]21:31:12.17-871: [Scene/Fight/FightAStar.lua:135]:----节点    1    1
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]21:31:12.182-0: Lua function Network.Unload not exists
+[Log]21:31:12.191-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

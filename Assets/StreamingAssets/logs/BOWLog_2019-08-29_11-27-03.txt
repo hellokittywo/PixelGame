@@ -1,0 +1,11 @@
+﻿[Log]OutLog Start
+[Exception]LuaException: Scene/Fight/FightScene:44: attempt to perform arithmetic on local 'place' (a nil value)
+stack traceback:
+	Scene/Fight/FightScene:44: in function 'GetPos'
+	Data/CardInfo:25: in function 'ctor'
+	Common/functions:169: in function 'new'
+	Scene/Fight/FightScene:39: in function 'InitMonster'
+	Scene/Fight/FightScene:17: in function 'Init'
+	Main.lua:27: in function <Main.lua:16>
+[Log]游戏暂停！
+[Log]OutLog Finish

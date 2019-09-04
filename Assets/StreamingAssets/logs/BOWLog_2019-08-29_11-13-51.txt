@@ -1,0 +1,18 @@
+﻿[Log]OutLog Start
+[Log]11:13:47.900-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x1A4EF6C0
+[Log]11:13:47.904-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x38AB14A8
+[Exception]LuaException: UI/Fight/FightView:51: bad argument #1 to 'pairs' (table expected, got nil)
+stack traceback:
+	[C]: in function 'pairs'
+	UI/Fight/FightView:51: in function 'InitCard'
+	UI/Fight/FightView:22: in function 'InitView'
+	UI/Fight/FightView:12: in function 'InitPanel'
+	UI/BaseView:15: in function 'Awake'
+	UI/Fight/FightCtrl:13: in function 'OnCreate'
+	UI/BaseCtrl:26: in function <UI/BaseCtrl:25>
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]11:13:51.96-0: Lua function Network.Unload not exists
+[Log]11:13:51.104-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

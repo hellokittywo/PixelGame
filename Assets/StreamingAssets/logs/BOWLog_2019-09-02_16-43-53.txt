@@ -1,0 +1,283 @@
+﻿[Log]OutLog Start
+[Log]16:43:11.47-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x34871D80
+[Log]16:43:11.52-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x348437C0
+[Log]游戏暂停！
+[Log]游戏暂停！
+[Log]16:43:46.211-649: [Scene/Fight/CardAiAction.lua:54]:----target2222    6
+[Log]16:43:46.214-649: [Scene/Fight/CardAiAction.lua:56]:30    1
+[Log]16:43:46.216-649: [Scene/Fight/CardAiAction.lua:56]:29    1
+[Log]16:43:46.218-649: [Scene/Fight/CardAiAction.lua:56]:17    1
+[Log]16:43:46.220-649: [Scene/Fight/CardAiAction.lua:56]:42    1
+[Log]16:43:46.222-649: [Scene/Fight/CardAiAction.lua:56]:41    1
+[Log]16:43:46.224-649: [Scene/Fight/CardAiAction.lua:56]:18    1
+[Log]16:43:46.227-649: [Scene/Fight/CardAiAction.lua:58]:-------------------------------------
+[Log]16:43:46.700-678: [Scene/Fight/CardAiAction.lua:86]:------移动    哪吒    36
+[Log]16:43:46.701-678: [Scene/Fight/CardAiAction.lua:88]:30
+[Log]16:43:46.702-678: [Scene/Fight/CardAiAction.lua:88]:29
+[Log]16:43:46.703-678: [Scene/Fight/CardAiAction.lua:88]:42
+[Log]16:43:46.704-678: [Scene/Fight/CardAiAction.lua:88]:41
+[Log]16:43:46.705-678: [Scene/Fight/CardAiAction.lua:88]:18
+[Log]16:43:46.705-678: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:46.706-678: [Scene/Fight/CardAiAction.lua:86]:------移动    孙悟空    11
+[Log]16:43:46.707-678: [Scene/Fight/CardAiAction.lua:88]:3
+[Log]16:43:46.708-678: [Scene/Fight/CardAiAction.lua:88]:30
+[Log]16:43:46.709-678: [Scene/Fight/CardAiAction.lua:88]:29
+[Log]16:43:46.710-678: [Scene/Fight/CardAiAction.lua:88]:17
+[Log]16:43:46.710-678: [Scene/Fight/CardAiAction.lua:88]:41
+[Log]16:43:46.711-678: [Scene/Fight/CardAiAction.lua:88]:18
+[Log]16:43:46.712-678: [Scene/Fight/CardAiAction.lua:88]:36
+[Log]16:43:46.713-678: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:46.715-678: [Scene/Fight/CardAiAction.lua:86]:------移动    唐僧    12
+[Log]16:43:46.716-678: [Scene/Fight/CardAiAction.lua:88]:3
+[Log]16:43:46.717-678: [Scene/Fight/CardAiAction.lua:88]:30
+[Log]16:43:46.718-678: [Scene/Fight/CardAiAction.lua:88]:29
+[Log]16:43:46.719-678: [Scene/Fight/CardAiAction.lua:88]:11
+[Log]16:43:46.720-678: [Scene/Fight/CardAiAction.lua:88]:41
+[Log]16:43:46.721-678: [Scene/Fight/CardAiAction.lua:88]:18
+[Log]16:43:46.722-678: [Scene/Fight/CardAiAction.lua:88]:36
+[Log]16:43:46.722-678: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:46.724-678: [Scene/Fight/CardAiAction.lua:86]:------移动    猪八戒    23
+[Log]16:43:46.725-678: [Scene/Fight/CardAiAction.lua:88]:3
+[Log]16:43:46.725-678: [Scene/Fight/CardAiAction.lua:88]:30
+[Log]16:43:46.726-678: [Scene/Fight/CardAiAction.lua:88]:29
+[Log]16:43:46.728-678: [Scene/Fight/CardAiAction.lua:88]:11
+[Log]16:43:46.728-678: [Scene/Fight/CardAiAction.lua:88]:41
+[Log]16:43:46.729-678: [Scene/Fight/CardAiAction.lua:88]:12
+[Log]16:43:46.730-678: [Scene/Fight/CardAiAction.lua:88]:36
+[Log]16:43:46.731-678: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:46.732-678: [Scene/Fight/CardAiAction.lua:86]:------移动    白龙马    24
+[Log]16:43:46.733-678: [Scene/Fight/CardAiAction.lua:88]:23
+[Log]16:43:46.733-678: [Scene/Fight/CardAiAction.lua:88]:30
+[Log]16:43:46.734-678: [Scene/Fight/CardAiAction.lua:88]:12
+[Log]16:43:46.735-678: [Scene/Fight/CardAiAction.lua:88]:11
+[Log]16:43:46.736-678: [Scene/Fight/CardAiAction.lua:88]:41
+[Log]16:43:46.737-678: [Scene/Fight/CardAiAction.lua:88]:3
+[Log]16:43:46.738-678: [Scene/Fight/CardAiAction.lua:88]:36
+[Log]16:43:46.738-678: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:46.740-678: [Scene/Fight/CardAiAction.lua:86]:------移动    沙悟净    35
+[Log]16:43:46.741-678: [Scene/Fight/CardAiAction.lua:88]:23
+[Log]16:43:46.741-678: [Scene/Fight/CardAiAction.lua:88]:3
+[Log]16:43:46.742-678: [Scene/Fight/CardAiAction.lua:88]:12
+[Log]16:43:46.743-678: [Scene/Fight/CardAiAction.lua:88]:11
+[Log]16:43:46.745-678: [Scene/Fight/CardAiAction.lua:88]:41
+[Log]16:43:46.746-678: [Scene/Fight/CardAiAction.lua:88]:24
+[Log]16:43:46.747-678: [Scene/Fight/CardAiAction.lua:88]:36
+[Log]16:43:46.748-678: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:46.749-678: [Scene/Fight/CardAiAction.lua:86]:------移动    孙悟空    9
+[Log]16:43:46.750-678: [Scene/Fight/CardAiAction.lua:88]:23
+[Log]16:43:46.751-678: [Scene/Fight/CardAiAction.lua:88]:3
+[Log]16:43:46.752-678: [Scene/Fight/CardAiAction.lua:88]:12
+[Log]16:43:46.753-678: [Scene/Fight/CardAiAction.lua:88]:11
+[Log]16:43:46.754-678: [Scene/Fight/CardAiAction.lua:88]:35
+[Log]16:43:46.755-678: [Scene/Fight/CardAiAction.lua:88]:24
+[Log]16:43:46.755-678: [Scene/Fight/CardAiAction.lua:88]:36
+[Log]16:43:46.756-678: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:46.913-688: [Scene/Fight/CardAiAction.lua:54]:----target2222    4
+[Log]16:43:46.914-688: [Scene/Fight/CardAiAction.lua:56]:23    1
+[Log]16:43:46.914-688: [Scene/Fight/CardAiAction.lua:56]:12    1
+[Log]16:43:46.915-688: [Scene/Fight/CardAiAction.lua:56]:11    1
+[Log]16:43:46.916-688: [Scene/Fight/CardAiAction.lua:56]:35    1
+[Log]16:43:46.917-688: [Scene/Fight/CardAiAction.lua:56]:24    1
+[Log]16:43:46.918-688: [Scene/Fight/CardAiAction.lua:56]:36    1
+[Log]16:43:46.919-688: [Scene/Fight/CardAiAction.lua:58]:-------------------------------------
+[Log]16:43:47.429-719: [Scene/Fight/CardAiAction.lua:86]:------移动    哪吒    30
+[Log]16:43:47.430-719: [Scene/Fight/CardAiAction.lua:88]:23
+[Log]16:43:47.431-719: [Scene/Fight/CardAiAction.lua:88]:12
+[Log]16:43:47.432-719: [Scene/Fight/CardAiAction.lua:88]:35
+[Log]16:43:47.432-719: [Scene/Fight/CardAiAction.lua:88]:24
+[Log]16:43:47.433-719: [Scene/Fight/CardAiAction.lua:88]:36
+[Log]16:43:47.434-719: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:47.435-719: [Scene/Fight/CardAiAction.lua:86]:------移动    孙悟空    10
+[Log]16:43:47.436-719: [Scene/Fight/CardAiAction.lua:88]:23
+[Log]16:43:47.437-719: [Scene/Fight/CardAiAction.lua:88]:30
+[Log]16:43:47.438-719: [Scene/Fight/CardAiAction.lua:88]:12
+[Log]16:43:47.439-719: [Scene/Fight/CardAiAction.lua:88]:11
+[Log]16:43:47.439-719: [Scene/Fight/CardAiAction.lua:88]:9
+[Log]16:43:47.440-719: [Scene/Fight/CardAiAction.lua:88]:35
+[Log]16:43:47.441-719: [Scene/Fight/CardAiAction.lua:88]:24
+[Log]16:43:47.442-719: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:47.443-719: [Scene/Fight/CardAiAction.lua:86]:------移动    唐僧    6
+[Log]16:43:47.444-719: [Scene/Fight/CardAiAction.lua:88]:23
+[Log]16:43:47.445-719: [Scene/Fight/CardAiAction.lua:88]:30
+[Log]16:43:47.447-719: [Scene/Fight/CardAiAction.lua:88]:12
+[Log]16:43:47.447-719: [Scene/Fight/CardAiAction.lua:88]:9
+[Log]16:43:47.448-719: [Scene/Fight/CardAiAction.lua:88]:35
+[Log]16:43:47.449-719: [Scene/Fight/CardAiAction.lua:88]:10
+[Log]16:43:47.450-719: [Scene/Fight/CardAiAction.lua:88]:24
+[Log]16:43:47.451-719: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:47.452-719: [Scene/Fight/CardAiAction.lua:86]:------移动    猪八戒    17
+[Log]16:43:47.453-719: [Scene/Fight/CardAiAction.lua:88]:23
+[Log]16:43:47.454-719: [Scene/Fight/CardAiAction.lua:88]:30
+[Log]16:43:47.454-719: [Scene/Fight/CardAiAction.lua:88]:9
+[Log]16:43:47.455-719: [Scene/Fight/CardAiAction.lua:88]:35
+[Log]16:43:47.456-719: [Scene/Fight/CardAiAction.lua:88]:24
+[Log]16:43:47.457-719: [Scene/Fight/CardAiAction.lua:88]:10
+[Log]16:43:47.458-719: [Scene/Fight/CardAiAction.lua:88]:6
+[Log]16:43:47.458-719: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:47.459-719: [Scene/Fight/CardAiAction.lua:86]:------移动    白龙马    18
+[Log]16:43:47.460-719: [Scene/Fight/CardAiAction.lua:88]:35
+[Log]16:43:47.461-719: [Scene/Fight/CardAiAction.lua:88]:30
+[Log]16:43:47.462-719: [Scene/Fight/CardAiAction.lua:88]:9
+[Log]16:43:47.463-719: [Scene/Fight/CardAiAction.lua:88]:17
+[Log]16:43:47.465-719: [Scene/Fight/CardAiAction.lua:88]:24
+[Log]16:43:47.466-719: [Scene/Fight/CardAiAction.lua:88]:10
+[Log]16:43:47.467-719: [Scene/Fight/CardAiAction.lua:88]:6
+[Log]16:43:47.468-719: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:47.469-719: [Scene/Fight/CardAiAction.lua:86]:------移动    沙悟净    29
+[Log]16:43:47.470-719: [Scene/Fight/CardAiAction.lua:88]:35
+[Log]16:43:47.470-719: [Scene/Fight/CardAiAction.lua:88]:30
+[Log]16:43:47.471-719: [Scene/Fight/CardAiAction.lua:88]:18
+[Log]16:43:47.472-719: [Scene/Fight/CardAiAction.lua:88]:17
+[Log]16:43:47.473-719: [Scene/Fight/CardAiAction.lua:88]:9
+[Log]16:43:47.474-719: [Scene/Fight/CardAiAction.lua:88]:10
+[Log]16:43:47.474-719: [Scene/Fight/CardAiAction.lua:88]:6
+[Log]16:43:47.475-719: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:47.630-729: [Scene/Fight/CardAiAction.lua:54]:----target2222    5
+[Log]16:43:47.631-729: [Scene/Fight/CardAiAction.lua:56]:30    1
+[Log]16:43:47.632-729: [Scene/Fight/CardAiAction.lua:56]:18    1
+[Log]16:43:47.633-729: [Scene/Fight/CardAiAction.lua:56]:17    1
+[Log]16:43:47.634-729: [Scene/Fight/CardAiAction.lua:56]:29    1
+[Log]16:43:47.635-729: [Scene/Fight/CardAiAction.lua:56]:10    1
+[Log]16:43:47.635-729: [Scene/Fight/CardAiAction.lua:56]:6    1
+[Log]16:43:47.636-729: [Scene/Fight/CardAiAction.lua:58]:-------------------------------------
+[Log]16:43:48.143-760: [Scene/Fight/CardAiAction.lua:86]:------移动    哪吒    24
+[Log]16:43:48.146-760: [Scene/Fight/CardAiAction.lua:88]:30
+[Log]16:43:48.148-760: [Scene/Fight/CardAiAction.lua:88]:18
+[Log]16:43:48.150-760: [Scene/Fight/CardAiAction.lua:88]:17
+[Log]16:43:48.151-760: [Scene/Fight/CardAiAction.lua:88]:29
+[Log]16:43:48.153-760: [Scene/Fight/CardAiAction.lua:88]:10
+[Log]16:43:48.154-760: [Scene/Fight/CardAiAction.lua:88]:6
+[Log]16:43:48.156-760: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:48.157-760: [Scene/Fight/CardAiAction.lua:86]:------移动    唐僧    5
+[Log]16:43:48.158-760: [Scene/Fight/CardAiAction.lua:88]:9
+[Log]16:43:48.159-760: [Scene/Fight/CardAiAction.lua:88]:29
+[Log]16:43:48.160-760: [Scene/Fight/CardAiAction.lua:88]:18
+[Log]16:43:48.161-760: [Scene/Fight/CardAiAction.lua:88]:17
+[Log]16:43:48.162-760: [Scene/Fight/CardAiAction.lua:88]:24
+[Log]16:43:48.163-760: [Scene/Fight/CardAiAction.lua:88]:10
+[Log]16:43:48.164-760: [Scene/Fight/CardAiAction.lua:88]:6
+[Log]16:43:48.165-760: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:48.166-760: [Scene/Fight/CardAiAction.lua:86]:------移动    猪八戒    16
+[Log]16:43:48.167-760: [Scene/Fight/CardAiAction.lua:88]:9
+[Log]16:43:48.168-760: [Scene/Fight/CardAiAction.lua:88]:5
+[Log]16:43:48.169-760: [Scene/Fight/CardAiAction.lua:88]:18
+[Log]16:43:48.170-760: [Scene/Fight/CardAiAction.lua:88]:17
+[Log]16:43:48.170-760: [Scene/Fight/CardAiAction.lua:88]:29
+[Log]16:43:48.171-760: [Scene/Fight/CardAiAction.lua:88]:10
+[Log]16:43:48.172-760: [Scene/Fight/CardAiAction.lua:88]:24
+[Log]16:43:48.173-760: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:48.174-760: [Scene/Fight/CardAiAction.lua:86]:------移动    白龙马    12
+[Log]16:43:48.175-760: [Scene/Fight/CardAiAction.lua:88]:9
+[Log]16:43:48.176-760: [Scene/Fight/CardAiAction.lua:88]:5
+[Log]16:43:48.176-760: [Scene/Fight/CardAiAction.lua:88]:18
+[Log]16:43:48.177-760: [Scene/Fight/CardAiAction.lua:88]:29
+[Log]16:43:48.178-760: [Scene/Fight/CardAiAction.lua:88]:16
+[Log]16:43:48.179-760: [Scene/Fight/CardAiAction.lua:88]:10
+[Log]16:43:48.179-760: [Scene/Fight/CardAiAction.lua:88]:24
+[Log]16:43:48.180-760: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:48.181-760: [Scene/Fight/CardAiAction.lua:86]:------移动    沙悟净    23
+[Log]16:43:48.182-760: [Scene/Fight/CardAiAction.lua:88]:9
+[Log]16:43:48.183-760: [Scene/Fight/CardAiAction.lua:88]:5
+[Log]16:43:48.184-760: [Scene/Fight/CardAiAction.lua:88]:12
+[Log]16:43:48.185-760: [Scene/Fight/CardAiAction.lua:88]:29
+[Log]16:43:48.186-760: [Scene/Fight/CardAiAction.lua:88]:16
+[Log]16:43:48.187-760: [Scene/Fight/CardAiAction.lua:88]:10
+[Log]16:43:48.187-760: [Scene/Fight/CardAiAction.lua:88]:24
+[Log]16:43:48.188-760: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:48.358-771: [Scene/Fight/CardAiAction.lua:54]:----target2222    0
+[Log]16:43:48.359-771: [Scene/Fight/CardAiAction.lua:56]:23    1
+[Log]16:43:48.360-771: [Scene/Fight/CardAiAction.lua:56]:5    1
+[Log]16:43:48.361-771: [Scene/Fight/CardAiAction.lua:56]:12    1
+[Log]16:43:48.362-771: [Scene/Fight/CardAiAction.lua:56]:16    1
+[Log]16:43:48.362-771: [Scene/Fight/CardAiAction.lua:56]:10    1
+[Log]16:43:48.363-771: [Scene/Fight/CardAiAction.lua:56]:24    1
+[Log]16:43:48.364-771: [Scene/Fight/CardAiAction.lua:58]:-------------------------------------
+[Log]16:43:48.872-802: [Scene/Fight/CardAiAction.lua:86]:------移动    唐僧    4
+[Log]16:43:48.873-802: [Scene/Fight/CardAiAction.lua:88]:23
+[Log]16:43:48.874-802: [Scene/Fight/CardAiAction.lua:88]:5
+[Log]16:43:48.875-802: [Scene/Fight/CardAiAction.lua:88]:12
+[Log]16:43:48.875-802: [Scene/Fight/CardAiAction.lua:88]:16
+[Log]16:43:48.876-802: [Scene/Fight/CardAiAction.lua:88]:10
+[Log]16:43:48.877-802: [Scene/Fight/CardAiAction.lua:88]:24
+[Log]16:43:48.878-802: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:48.879-802: [Scene/Fight/CardAiAction.lua:54]:----target2222    0
+[Log]16:43:48.880-802: [Scene/Fight/CardAiAction.lua:56]:23    1
+[Log]16:43:48.880-802: [Scene/Fight/CardAiAction.lua:56]:12    1
+[Log]16:43:48.881-802: [Scene/Fight/CardAiAction.lua:56]:4    1
+[Log]16:43:48.882-802: [Scene/Fight/CardAiAction.lua:56]:16    1
+[Log]16:43:48.883-802: [Scene/Fight/CardAiAction.lua:56]:10    1
+[Log]16:43:48.884-802: [Scene/Fight/CardAiAction.lua:56]:24    1
+[Log]16:43:48.885-802: [Scene/Fight/CardAiAction.lua:58]:-------------------------------------
+[Log]16:43:49.378-832: [Scene/Fight/CardAiAction.lua:54]:----target2222    0
+[Log]16:43:49.380-832: [Scene/Fight/CardAiAction.lua:56]:23    1
+[Log]16:43:49.381-832: [Scene/Fight/CardAiAction.lua:56]:12    1
+[Log]16:43:49.381-832: [Scene/Fight/CardAiAction.lua:56]:4    1
+[Log]16:43:49.383-832: [Scene/Fight/CardAiAction.lua:56]:16    1
+[Log]16:43:49.384-832: [Scene/Fight/CardAiAction.lua:56]:10    1
+[Log]16:43:49.385-832: [Scene/Fight/CardAiAction.lua:56]:24    1
+[Log]16:43:49.386-832: [Scene/Fight/CardAiAction.lua:58]:-------------------------------------
+[Log]16:43:49.386-832: [Scene/Fight/CardAiAction.lua:86]:------移动    沙悟净    22
+[Log]16:43:49.387-832: [Scene/Fight/CardAiAction.lua:88]:23
+[Log]16:43:49.388-832: [Scene/Fight/CardAiAction.lua:88]:12
+[Log]16:43:49.389-832: [Scene/Fight/CardAiAction.lua:88]:4
+[Log]16:43:49.390-832: [Scene/Fight/CardAiAction.lua:88]:16
+[Log]16:43:49.390-832: [Scene/Fight/CardAiAction.lua:88]:10
+[Log]16:43:49.392-832: [Scene/Fight/CardAiAction.lua:88]:24
+[Log]16:43:49.392-832: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:49.883-862: [Scene/Fight/CardAiAction.lua:54]:----target2222    0
+[Log]16:43:49.885-862: [Scene/Fight/CardAiAction.lua:56]:22    1
+[Log]16:43:49.886-862: [Scene/Fight/CardAiAction.lua:56]:12    1
+[Log]16:43:49.887-862: [Scene/Fight/CardAiAction.lua:56]:4    1
+[Log]16:43:49.887-862: [Scene/Fight/CardAiAction.lua:56]:16    1
+[Log]16:43:49.889-862: [Scene/Fight/CardAiAction.lua:56]:10    1
+[Log]16:43:49.889-862: [Scene/Fight/CardAiAction.lua:56]:24    1
+[Log]16:43:49.890-862: [Scene/Fight/CardAiAction.lua:58]:-------------------------------------
+[Log]16:43:50.99-875: [Scene/Fight/CardAiAction.lua:86]:------移动    沙悟净    21
+[Log]16:43:50.99-875: [Scene/Fight/CardAiAction.lua:88]:22
+[Log]16:43:50.100-875: [Scene/Fight/CardAiAction.lua:88]:12
+[Log]16:43:50.101-875: [Scene/Fight/CardAiAction.lua:88]:4
+[Log]16:43:50.102-875: [Scene/Fight/CardAiAction.lua:88]:16
+[Log]16:43:50.103-875: [Scene/Fight/CardAiAction.lua:88]:10
+[Log]16:43:50.104-875: [Scene/Fight/CardAiAction.lua:88]:24
+[Log]16:43:50.105-875: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:50.396-893: [Scene/Fight/CardAiAction.lua:54]:----target2222    0
+[Log]16:43:50.397-893: [Scene/Fight/CardAiAction.lua:56]:21    1
+[Log]16:43:50.398-893: [Scene/Fight/CardAiAction.lua:56]:12    1
+[Log]16:43:50.399-893: [Scene/Fight/CardAiAction.lua:56]:4    1
+[Log]16:43:50.400-893: [Scene/Fight/CardAiAction.lua:56]:16    1
+[Log]16:43:50.401-893: [Scene/Fight/CardAiAction.lua:56]:10    1
+[Log]16:43:50.402-893: [Scene/Fight/CardAiAction.lua:56]:24    1
+[Log]16:43:50.403-893: [Scene/Fight/CardAiAction.lua:58]:-------------------------------------
+[Log]16:43:50.827-919: [Scene/Fight/CardAiAction.lua:86]:------移动    沙悟净    15
+[Log]16:43:50.828-919: [Scene/Fight/CardAiAction.lua:88]:21
+[Log]16:43:50.829-919: [Scene/Fight/CardAiAction.lua:88]:12
+[Log]16:43:50.830-919: [Scene/Fight/CardAiAction.lua:88]:4
+[Log]16:43:50.831-919: [Scene/Fight/CardAiAction.lua:88]:16
+[Log]16:43:50.832-919: [Scene/Fight/CardAiAction.lua:88]:10
+[Log]16:43:50.833-919: [Scene/Fight/CardAiAction.lua:88]:24
+[Log]16:43:50.834-919: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:50.910-924: [Scene/Fight/CardAiAction.lua:54]:----target2222    0
+[Log]16:43:50.911-924: [Scene/Fight/CardAiAction.lua:56]:15    1
+[Log]16:43:50.912-924: [Scene/Fight/CardAiAction.lua:56]:12    1
+[Log]16:43:50.913-924: [Scene/Fight/CardAiAction.lua:56]:4    1
+[Log]16:43:50.914-924: [Scene/Fight/CardAiAction.lua:56]:16    1
+[Log]16:43:50.916-924: [Scene/Fight/CardAiAction.lua:56]:10    1
+[Log]16:43:50.918-924: [Scene/Fight/CardAiAction.lua:56]:24    1
+[Log]16:43:50.918-924: [Scene/Fight/CardAiAction.lua:58]:-------------------------------------
+[Log]16:43:51.424-955: [Scene/Fight/CardAiAction.lua:86]:------移动    哪吒    23
+[Log]16:43:51.425-955: [Scene/Fight/CardAiAction.lua:88]:15
+[Log]16:43:51.425-955: [Scene/Fight/CardAiAction.lua:88]:12
+[Log]16:43:51.426-955: [Scene/Fight/CardAiAction.lua:88]:4
+[Log]16:43:51.428-955: [Scene/Fight/CardAiAction.lua:88]:16
+[Log]16:43:51.428-955: [Scene/Fight/CardAiAction.lua:88]:10
+[Log]16:43:51.429-955: [Scene/Fight/CardAiAction.lua:88]:24
+[Log]16:43:51.431-955: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:43:51.432-955: [Scene/Fight/CardAiAction.lua:54]:----target2222    0
+[Log]16:43:51.432-955: [Scene/Fight/CardAiAction.lua:56]:23    1
+[Log]16:43:51.434-955: [Scene/Fight/CardAiAction.lua:56]:16    1
+[Log]16:43:51.434-955: [Scene/Fight/CardAiAction.lua:56]:12    1
+[Log]16:43:51.436-955: [Scene/Fight/CardAiAction.lua:56]:15    1
+[Log]16:43:51.436-955: [Scene/Fight/CardAiAction.lua:56]:4    1
+[Log]16:43:51.437-955: [Scene/Fight/CardAiAction.lua:56]:10    1
+[Log]16:43:51.437-955: [Scene/Fight/CardAiAction.lua:58]:-------------------------------------
+[Log]OutLog Finish

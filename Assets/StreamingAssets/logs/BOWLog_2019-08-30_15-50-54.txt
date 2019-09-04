@@ -1,0 +1,19 @@
+﻿[Log]OutLog Start
+[Log]15:50:44.441-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x3847A4E8
+[Log]15:50:44.447-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x38458728
+[Log]15:50:52.112-454: [Common/tools.lua:50]:---寻路    4    5    1    1
+[Exception]LuaException: Scene/Fight/CardAiAction:62: attempt to get length of field 'pathLis' (a nil value)
+stack traceback:
+	Scene/Fight/CardAiAction:62: in function 'MoveAction'
+	Scene/Fight/CardAiAction:53: in function 'callBack'
+	Scene/Fight/FightAStar:25: in function 'GetPath'
+	Scene/Fight/FightAStar:14: in function 'GetPathList'
+	Scene/Fight/CardAiAction:51: in function 'StartAI'
+	Scene/Fight/FightScene:83: in function 'StartFight'
+	UI/Fight/FightView:81: in function <UI/Fight/FightView:79>
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]15:50:54.340-0: Lua function Network.Unload not exists
+[Log]15:50:54.347-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

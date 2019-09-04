@@ -1,0 +1,130 @@
+﻿[Log]OutLog Start
+[Log]15:46:56.440-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x388872D0
+[Log]15:46:56.448-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x38866648
+[Log]15:47:05.846-513: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:05.849-513: [Common/tools.lua:50]:---寻路    6    4    1    1
+[Log]15:47:05.852-513: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:05.854-513: [Common/tools.lua:50]:---寻路    9    6    1    1
+[Log]15:47:05.856-513: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:05.858-513: [Common/tools.lua:50]:---寻路    3    6    1    1
+[Log]15:47:05.861-513: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:05.863-513: [Common/tools.lua:50]:---寻路    5    6    1    1
+[Log]15:47:05.865-513: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:05.867-513: [Common/tools.lua:50]:---寻路    7    6    1    1
+[Log]15:47:05.870-513: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:05.873-513: [Common/tools.lua:50]:---寻路    6    5    1    1
+[Log]15:47:05.876-513: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:05.879-513: [Common/tools.lua:50]:---寻路    1    1    3    6
+[Log]15:47:06.335-541: [Scene/Fight/CardAiAction.lua:62]:----移动    5    4    28
+[Log]15:47:06.337-541: [Scene/Fight/CardAiAction.lua:62]:----移动    8    6    48
+[Log]15:47:06.339-541: [Scene/Fight/CardAiAction.lua:62]:----移动    3    5    17
+[Log]15:47:06.340-541: [Scene/Fight/CardAiAction.lua:62]:----移动    5    5    29
+[Log]15:47:06.341-541: [Scene/Fight/CardAiAction.lua:62]:----移动    7    5    41
+[Log]15:47:06.342-541: [Scene/Fight/CardAiAction.lua:62]:----移动    5    5    29
+[Log]15:47:06.343-541: [Scene/Fight/CardAiAction.lua:62]:----移动    1    2    2
+[Log]15:47:06.551-554: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:06.554-554: [Common/tools.lua:50]:---寻路    5    4    1    2
+[Log]15:47:06.557-554: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:06.559-554: [Common/tools.lua:50]:---寻路    8    6    1    2
+[Log]15:47:06.561-554: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:06.562-554: [Common/tools.lua:50]:---寻路    3    5    1    2
+[Log]15:47:06.564-554: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:06.565-554: [Common/tools.lua:50]:---寻路    5    5    1    2
+[Log]15:47:06.566-554: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:06.566-554: [Common/tools.lua:50]:---寻路    7    5    1    2
+[Log]15:47:06.568-554: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:06.569-554: [Common/tools.lua:50]:---寻路    5    5    1    2
+[Log]15:47:06.570-554: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:06.571-554: [Common/tools.lua:50]:---寻路    1    2    3    5
+[Log]15:47:07.56-584: [Scene/Fight/CardAiAction.lua:62]:----移动    4    4    22
+[Log]15:47:07.58-584: [Scene/Fight/CardAiAction.lua:62]:----移动    7    6    42
+[Log]15:47:07.59-584: [Scene/Fight/CardAiAction.lua:62]:----移动    3    4    16
+[Log]15:47:07.60-584: [Scene/Fight/CardAiAction.lua:62]:----移动    4    5    23
+[Log]15:47:07.61-584: [Scene/Fight/CardAiAction.lua:62]:----移动    6    5    35
+[Log]15:47:07.61-584: [Scene/Fight/CardAiAction.lua:62]:----移动    4    5    23
+[Log]15:47:07.62-584: [Scene/Fight/CardAiAction.lua:62]:----移动    1    3    3
+[Log]15:47:07.272-597: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:07.273-597: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]15:47:07.274-597: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:07.275-597: [Common/tools.lua:50]:---寻路    7    6    1    3
+[Log]15:47:07.276-597: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:07.277-597: [Common/tools.lua:50]:---寻路    3    4    1    3
+[Log]15:47:07.278-597: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:07.279-597: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]15:47:07.280-597: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:07.281-597: [Common/tools.lua:50]:---寻路    6    5    1    3
+[Log]15:47:07.282-597: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:07.282-597: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]15:47:07.283-597: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:07.284-597: [Common/tools.lua:50]:---寻路    1    3    3    4
+[Log]15:47:07.789-628: [Scene/Fight/CardAiAction.lua:62]:----移动    4    3    21
+[Log]15:47:07.790-628: [Scene/Fight/CardAiAction.lua:62]:----移动    6    6    36
+[Log]15:47:07.791-628: [Scene/Fight/CardAiAction.lua:62]:----移动    2    4    10
+[Log]15:47:07.792-628: [Scene/Fight/CardAiAction.lua:62]:----移动    3    5    17
+[Log]15:47:07.792-628: [Scene/Fight/CardAiAction.lua:62]:----移动    5    5    29
+[Log]15:47:07.794-628: [Scene/Fight/CardAiAction.lua:62]:----移动    3    5    17
+[Log]15:47:07.794-628: [Scene/Fight/CardAiAction.lua:62]:----移动    2    3    9
+[Log]15:47:08.4-641: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:08.5-641: [Common/tools.lua:50]:---寻路    4    3    2    3
+[Log]15:47:08.6-641: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:08.7-641: [Common/tools.lua:50]:---寻路    6    6    2    3
+[Log]15:47:08.8-641: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    1
+[Log]15:47:08.10-641: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:08.11-641: [Common/tools.lua:50]:---寻路    3    5    2    3
+[Log]15:47:08.11-641: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:08.12-641: [Common/tools.lua:50]:---寻路    5    5    2    3
+[Log]15:47:08.13-641: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:08.14-641: [Common/tools.lua:50]:---寻路    3    5    2    3
+[Log]15:47:08.15-641: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    1
+[Log]15:47:08.517-672: [Scene/Fight/CardAiAction.lua:62]:----移动    3    3    15
+[Log]15:47:08.518-672: [Scene/Fight/CardAiAction.lua:62]:----移动    5    6    30
+[Log]15:47:08.519-672: [Scene/Fight/CardAiAction.lua:62]:----移动    3    4    16
+[Log]15:47:08.520-672: [Scene/Fight/CardAiAction.lua:62]:----移动    4    5    23
+[Log]15:47:08.521-672: [Scene/Fight/CardAiAction.lua:62]:----移动    3    4    16
+[Log]15:47:08.732-685: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    1
+[Log]15:47:08.733-685: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:08.734-685: [Common/tools.lua:50]:---寻路    5    6    2    3
+[Log]15:47:08.735-685: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    1
+[Log]15:47:08.736-685: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:08.737-685: [Common/tools.lua:50]:---寻路    4    5    2    3
+[Log]15:47:08.738-685: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    1
+[Log]15:47:09.246-716: [Scene/Fight/CardAiAction.lua:62]:----移动    5    5    29
+[Log]15:47:09.247-716: [Scene/Fight/CardAiAction.lua:62]:----移动    4    4    22
+[Log]15:47:09.450-728: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:09.451-728: [Common/tools.lua:50]:---寻路    5    5    2    3
+[Log]15:47:09.452-728: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:09.453-728: [Common/tools.lua:50]:---寻路    4    4    2    3
+[Log]15:47:09.964-759: [Scene/Fight/CardAiAction.lua:62]:----移动    4    5    23
+[Log]15:47:09.965-759: [Scene/Fight/CardAiAction.lua:62]:----移动    4    3    21
+[Log]15:47:10.179-772: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:10.180-772: [Common/tools.lua:50]:---寻路    4    5    2    3
+[Log]15:47:10.181-772: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:47:10.182-772: [Common/tools.lua:50]:---寻路    4    3    2    3
+[Log]15:47:10.693-803: [Scene/Fight/CardAiAction.lua:62]:----移动    3    5    17
+[Log]15:47:10.693-803: [Scene/Fight/CardAiAction.lua:62]:----移动    4    2    20
+[Log]15:47:10.908-816: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Exception]LuaException: event:171: Scene/Fight/CardAiAction:47: attempt to index local 'target' (a nil value)
+stack traceback:
+	Scene/Fight/CardAiAction:47: in function 'StartAI'
+	UI/Fight/FightView:75: in function 'callback'
+	Common/tools:1378: in function 'func'
+	System/Timer:58: in function <System/Timer:49>
+	[C]: in function 'f'
+	event:166: in function 'UpdateBeat'
+	event:203: in function <event:201>
+[Log]15:47:10.924-817: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Exception]LuaException: event:171: Scene/Fight/CardAiAction:47: attempt to index local 'target' (a nil value)
+stack traceback:
+	Scene/Fight/CardAiAction:47: in function 'StartAI'
+	UI/Fight/FightView:75: in function 'callback'
+	Common/tools:1378: in function 'func'
+	System/Timer:58: in function <System/Timer:49>
+	[C]: in function 'f'
+	event:166: in function 'UpdateBeat'
+	event:203: in function <event:201>
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]15:47:19.953-0: Lua function Network.Unload not exists
+[Log]15:47:19.961-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

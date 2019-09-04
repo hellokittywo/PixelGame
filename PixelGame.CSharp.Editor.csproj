@@ -1,0 +1,626 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BE7A5471-4346-8A44-0EC9-6D9F36C4D1E9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Unity Full v3.5</TargetFrameworkProfile>
+    <CompilerResponseFile></CompilerResponseFile>
+    <UnityProjectType>Editor:5</UnityProjectType>
+    <UnityBuildTarget>Android:13</UnityBuildTarget>
+    <UnityVersion>5.6.4f1</UnityVersion>
+    <RootNamespace></RootNamespace>
+    <LangVersion Condition=" '$(VisualStudioVersion)' != '10.0' ">4</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Debug\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_4;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_ANDROID;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_VR;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;UNITY_PRO_LICENSE;UNITY_HAS_GOOGLEVR</DefineConstants>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Release\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Release\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_4;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_ANDROID;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_VR;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;UNITY_PRO_LICENSE;UNITY_HAS_GOOGLEVR</DefineConstants>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="Boo.Lang" />
+    <Reference Include="UnityScript.Lang" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>Library\UnityAssemblies\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Advertisements">
+      <HintPath>Library\UnityAssemblies\UnityEditor.Advertisements.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>Library\UnityAssemblies\UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Networking">
+      <HintPath>Library\UnityAssemblies\UnityEditor.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.TestRunner">
+      <HintPath>Library\UnityAssemblies\UnityEditor.TestRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TestRunner">
+      <HintPath>Library\UnityAssemblies\UnityEngine.TestRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>Library\UnityAssemblies\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.TreeEditor">
+      <HintPath>Library\UnityAssemblies\UnityEditor.TreeEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Analytics">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Analytics">
+      <HintPath>Library\UnityAssemblies\UnityEditor.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.HoloLens">
+      <HintPath>Library\UnityAssemblies\UnityEditor.HoloLens.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.HoloLens">
+      <HintPath>Library\UnityAssemblies\UnityEngine.HoloLens.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Purchasing">
+      <HintPath>Library\UnityAssemblies\UnityEditor.Purchasing.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.VR">
+      <HintPath>Library\UnityAssemblies\UnityEditor.VR.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VR">
+      <HintPath>Library\UnityAssemblies\UnityEngine.VR.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Graphs">
+      <HintPath>Library\UnityAssemblies\UnityEditor.Graphs.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Android.Extensions">
+      <HintPath>Library\UnityAssemblies\UnityEditor.Android.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.WindowsStandalone.Extensions">
+      <HintPath>Library\UnityAssemblies\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
+      <HintPath>Library\UnityAssemblies\SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
+    </Reference>
+    <Reference Include="CString">
+      <HintPath>Assets\Plugins\CString.dll</HintPath>
+    </Reference>
+    <Reference Include="Debugger">
+      <HintPath>Assets\Plugins\Debugger.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <HintPath>Assets\Plugins\GZip\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="protobuf-net">
+      <HintPath>Assets\Plugins\Server\protobuf-net.dll</HintPath>
+    </Reference>
+    <Reference Include="zlib.net">
+      <HintPath>Assets\Plugins\Server\zlib.net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="PixelGame.CSharp.csproj">
+      <Project>{D89C1FC2-951E-01FA-6D66-A3ADD8147834}</Project>
+      <Name>PixelGame.CSharp</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\Editor\APPWindow.cs" />
+    <Compile Include="Assets\Editor\AssetBundlesAll.cs" />
+    <Compile Include="Assets\Editor\AssetLuaCode.cs" />
+    <Compile Include="Assets\Editor\CreateLuaUtil.cs" />
+    <Compile Include="Assets\Editor\HotupdateView.cs" />
+    <Compile Include="Assets\Editor\Plist.cs.cs" />
+    <Compile Include="Assets\LuaFramework\Editor\CustomSettings.cs" />
+    <Compile Include="Assets\LuaFramework\Editor\Packager.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\ActiveAnimationEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\BMFontReader.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\ComponentSelector.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\EventDelegateDrawer.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\EventDelegateEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\FreeType.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\NGUIContextMenu.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\NGUIEditorExtensions.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\NGUIEditorTools.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\NGUIHandles.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\NGUIHelp.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\NGUIJson.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\NGUIMenu.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\NGUISelectionTools.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\NGUISettings.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\NGUISnap.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\NGUITransformInspector.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\PropertyBindingEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\PropertyReferenceDrawer.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\SpriteSelector.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\TweenAlphaEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\TweenColorEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\TweenFOVEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\TweenHeightEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\TweenOrthoSizeEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\TweenPositionEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\TweenRotationEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\TweenScaleEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\TweenTransformEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\TweenVolumeEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\TweenWidthEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UI2DSpriteEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIAnchorEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIAtlasInspector.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIAtlasMaker.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIBasicSpriteEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIButtonColorEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIButtonEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIButtonKeysEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIButtonMessageEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UICameraEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UICameraTool.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UICreateNewUIWizard.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UICreateWidgetWizard.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIDragObjectEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIDrawCallInspector.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIDrawCallViewer.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIEventTriggerEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIFontInspector.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIFontMaker.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIForwardEventsEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIGridEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIImageButtonInspector.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIInputEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIKeyNavigationEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UILabelInspector.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UILocalizeEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIPanelInspector.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIPanelTool.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIPlayAnimationEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIPlayTweenEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIPopupListInspector.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIPrefabTool.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIProgressBarEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIRectEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIRootEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIScrollBarEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIScrollViewEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UISliderEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UISnapshotPointEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UISpriteAnimationInspector.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UISpriteInspector.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIStretchEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UITableEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UITextureInspector.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UITexturePacker.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIToggleInspector.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UITweenerEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIWidgetContainerEditor.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIWidgetInspector.cs" />
+    <Compile Include="Assets\LuaFramework\NGUI\Scripts\Editor\UIWrapContentEditor.cs" />
+    <Compile Include="Assets\LuaFramework\ToLua\Editor\Extend\ToLua_LuaInterface_EventObject.cs" />
+    <Compile Include="Assets\LuaFramework\ToLua\Editor\Extend\ToLua_LuaInterface_LuaConstructor.cs" />
+    <Compile Include="Assets\LuaFramework\ToLua\Editor\Extend\ToLua_LuaInterface_LuaField.cs" />
+    <Compile Include="Assets\LuaFramework\ToLua\Editor\Extend\ToLua_LuaInterface_LuaMethod.cs" />
+    <Compile Include="Assets\LuaFramework\ToLua\Editor\Extend\ToLua_LuaInterface_LuaProperty.cs" />
+    <Compile Include="Assets\LuaFramework\ToLua\Editor\Extend\ToLua_System_Delegate.cs" />
+    <Compile Include="Assets\LuaFramework\ToLua\Editor\Extend\ToLua_System_Enum.cs" />
+    <Compile Include="Assets\LuaFramework\ToLua\Editor\Extend\ToLua_System_Object.cs" />
+    <Compile Include="Assets\LuaFramework\ToLua\Editor\Extend\ToLua_System_String.cs" />
+    <Compile Include="Assets\LuaFramework\ToLua\Editor\Extend\ToLua_System_Type.cs" />
+    <Compile Include="Assets\LuaFramework\ToLua\Editor\Extend\ToLua_UnityEngine_GameObject.cs" />
+    <Compile Include="Assets\LuaFramework\ToLua\Editor\Extend\ToLua_UnityEngine_Input.cs" />
+    <Compile Include="Assets\LuaFramework\ToLua\Editor\Extend\ToLua_UnityEngine_Object.cs" />
+    <Compile Include="Assets\LuaFramework\ToLua\Editor\Extend\ToLua_UnityEngine_RectTransform.cs" />
+    <Compile Include="Assets\LuaFramework\ToLua\Editor\ToLuaExport.cs" />
+    <Compile Include="Assets\LuaFramework\ToLua\Editor\ToLuaMenu.cs" />
+    <Compile Include="Assets\LuaFramework\ToLua\Editor\ToLuaTree.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\LuaFramework\NGUI\ReadMe - 3.8.2.txt" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Premultiplied Colored (TextureClip).shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 1.shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 2.shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 3.shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Premultiplied Colored.shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Text (TextureClip).shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Text 1.shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Text 2.shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Text 3.shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Text.shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed) (TextureClip).shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Transparent Colored (TextureClip).shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Transparent Colored 1.shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Transparent Colored 2.shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Transparent Colored 3.shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Transparent Colored.shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Transparent Masked 1.shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Transparent Masked 2.shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Transparent Masked 3.shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Transparent Masked.shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Transparent Packed 1.shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Transparent Packed 2.shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Transparent Packed 3.shader" />
+    <None Include="Assets\LuaFramework\NGUI\Resources\Shaders\Unlit - Transparent Packed.shader" />
+    <None Include="Assets\LuaFramework\ToLua\readme.txt" />
+    <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+    <None Include="Assets\Plugins\Server\protobuf-net.xml" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_08-37-44.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_08-38-24.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_08-39-26.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_08-39-48.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_08-43-04.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_08-49-40.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_08-52-05.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_08-52-39.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_08-52-58.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_08-53-44.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_10-07-15.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_10-22-50.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_10-23-51.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_10-23-59.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_10-26-02.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_10-26-30.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_10-26-59.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_10-28-05.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_10-29-30.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_10-30-29.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_10-31-40.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_10-34-15.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_10-35-03.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_11-12-10.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_11-12-21.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_11-13-51.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_11-14-52.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_11-18-05.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_11-27-03.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_11-27-21.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_11-29-46.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_11-29-53.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_11-30-27.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_11-31-36.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_11-32-11.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_11-32-20.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_11-40-50.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_12-52-44.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_12-57-01.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_12-59-24.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_12-59-43.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_15-17-18.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_15-18-30.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_15-22-54.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_15-31-24.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_15-31-31.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_15-33-00.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_15-38-49.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_15-38-55.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_15-39-31.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_15-40-37.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_15-52-58.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_15-53-12.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_15-56-26.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_15-57-37.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_15-59-03.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_15-59-31.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_16-00-23.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_16-03-42.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_16-04-01.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_16-20-58.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_16-21-34.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_16-22-14.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_16-22-53.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_16-24-17.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_16-57-26.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_16-58-13.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_16-58-31.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-00-23.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-00-50.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-03-06.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-04-12.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-04-52.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-06-09.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-09-22.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-13-42.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-13-52.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-14-36.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-22-14.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-22-31.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-39-11.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-39-44.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-40-16.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-40-45.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-41-11.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-42-07.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-42-39.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-43-02.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-43-17.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-46-25.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-29_17-50-12.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_08-35-56.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_08-37-54.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_08-39-42.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_08-41-39.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_08-42-19.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_08-43-24.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_08-44-50.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_09-20-23.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_09-21-31.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_09-23-00.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_09-26-14.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_09-26-30.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_09-31-12.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_09-34-48.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_09-35-03.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_09-35-59.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_09-36-31.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_09-36-59.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_09-37-55.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_09-41-28.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_09-41-37.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_10-08-44.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_10-09-52.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_10-10-26.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_10-11-29.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_10-21-35.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_10-23-34.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_10-35-11.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_10-37-17.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_10-38-05.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_10-41-52.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_10-42-01.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_10-43-00.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_11-01-30.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_11-02-35.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_11-03-28.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_11-07-14.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_11-08-23.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_11-11-10.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_11-17-07.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_11-18-53.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_11-22-12.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_11-22-50.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_11-41-33.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_12-47-16.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_12-47-32.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_12-48-10.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_12-49-01.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-07-51.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-11-10.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-14-24.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-15-59.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-17-48.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-19-53.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-22-20.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-25-16.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-25-51.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-26-45.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-29-08.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-39-20.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-45-51.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-46-10.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-47-19.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-48-02.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-49-49.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-50-06.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-50-54.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-51-23.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-53-23.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-54-01.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-54-33.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_15-55-02.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_16-49-37.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_16-51-24.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_16-52-08.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_16-53-22.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-07-23.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-08-53.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-09-05.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-09-27.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-13-56.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-15-55.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-19-01.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-19-18.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-20-35.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-20-49.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-21-18.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-21-29.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-21-38.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-21-52.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-22-01.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-22-12.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-22-33.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-22-45.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-22-54.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-23-09.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-25-59.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-30-11.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-30-20.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-31-38.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-32-39.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-33-02.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-34-05.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-35-02.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-36-04.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-36-17.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-38-06.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-38-55.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-41-34.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-41-56.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-42-12.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-42-42.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-44-05.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-44-23.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-46-26.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-47-51.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-48-12.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-50-33.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-30_23-53-48.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_12-38-54.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_12-39-14.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_12-43-25.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_12-48-10.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_12-49-03.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_12-55-01.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_12-55-15.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_12-59-47.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_13-00-45.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_13-01-10.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_13-21-19.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_13-21-42.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_13-25-47.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_13-27-37.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_13-32-59.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_13-41-04.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_13-42-48.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_13-43-01.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_13-47-10.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_14-10-52.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_14-13-31.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_14-25-40.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_14-42-25.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_14-58-45.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_15-00-07.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_15-01-24.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_15-02-10.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_15-03-21.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_15-07-37.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_15-08-37.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_15-10-08.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_15-10-39.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_15-12-40.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_15-15-34.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_21-05-56.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_21-20-38.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_21-21-37.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_21-21-49.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_21-21-56.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_21-22-42.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_21-23-23.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_21-24-47.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_21-25-37.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_21-28-04.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_21-28-28.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_21-29-55.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_21-30-56.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_21-31-12.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_21-57-28.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_22-00-17.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_22-00-46.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_22-01-50.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_22-02-53.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_22-03-25.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_22-04-00.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_22-04-32.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_22-05-03.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_22-09-14.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_22-10-55.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-08-31_22-10-59.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_09-49-39.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_09-51-22.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_09-52-29.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_09-52-45.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_09-57-32.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_09-57-44.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_10-06-08.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_10-06-52.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_10-08-24.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_10-09-36.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_10-10-20.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_10-22-21.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_10-23-04.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_10-23-28.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_10-24-44.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_10-26-07.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_10-26-30.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_11-11-21.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_11-40-45.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_11-41-35.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_11-42-45.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_11-43-06.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_11-43-47.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_11-44-05.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_11-44-43.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_11-45-18.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_11-49-31.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_15-52-54.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_15-53-21.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_15-54-14.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-11-24.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-12-12.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-12-43.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-15-35.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-16-17.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-18-55.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-20-10.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-20-25.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-25-06.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-32-38.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-36-21.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-36-33.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-37-58.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-38-34.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-38-52.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-39-06.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-41-05.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-41-31.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-42-08.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-43-08.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-43-53.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-46-57.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-53-22.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-58-02.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-58-12.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-58-50.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_16-59-25.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_17-00-14.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_17-00-24.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_17-00-32.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_17-00-41.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_17-00-50.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_17-09-49.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_17-09-58.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_17-10-08.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_17-10-18.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_17-10-50.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_17-13-27.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_17-14-18.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_17-15-21.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_17-52-49.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_17-54-09.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_17-54-19.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_17-58-05.txt" />
+    <None Include="Assets\StreamingAssets\logs\BOWLog_2019-09-02_17-59-26.txt" />
+    <None Include="Assets\StreamingAssets\logs\outLog.txt" />
+    <None Include="Assets\StreamingAssets\versions.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2013\UnityVS.CSharp.targets" />
+</Project>

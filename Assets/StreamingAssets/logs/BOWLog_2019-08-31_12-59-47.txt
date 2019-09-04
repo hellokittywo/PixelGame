@@ -1,0 +1,11 @@
+﻿[Log]OutLog Start
+[Log]12:58:10.335-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x14CF7318
+[Log]12:58:10.340-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x14CFA7C0
+[Exception]LuaException: UI/Fight/FightView:147: attempt to index a nil value
+stack traceback:
+	UI/Fight/FightView:147: in function 'RemoveMyCardItem'
+	UI/Fight/FightView:216: in function <UI/Fight/FightView:192>
+[Log]游戏暂停！
+[Log]游戏暂停！
+[Log]游戏暂停！
+[Log]OutLog Finish

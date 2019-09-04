@@ -1,0 +1,12 @@
+﻿[Log]OutLog Start
+[Log]13:21:12.456-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x14CE72A8
+[Log]13:21:12.461-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x9C43B0
+[Log]13:21:16.441-239: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Exception]LuaException: Scene/Fight/FightAStar:103: attempt to concatenate global 'index' (a nil value)
+stack traceback:
+	Scene/Fight/FightAStar:103: in function 'FindPath'
+	Scene/Fight/FightAStar:13: in function 'GetPathList'
+	Scene/Fight/CardAiAction:51: in function 'StartAI'
+	Scene/Fight/FightScene:87: in function 'StartFight'
+	UI/Fight/FightView:83: in function <UI/Fight/FightView:81>
+[Log]OutLog Finish

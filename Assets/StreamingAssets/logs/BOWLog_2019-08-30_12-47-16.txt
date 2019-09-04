@@ -1,0 +1,18 @@
+﻿[Log]OutLog Start
+[Log]12:47:13.441-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x38968A40
+[Log]12:47:13.447-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x28238910
+[Exception]LuaException: invalid arguments to method: LuaFramework.LuaBehaviour.AddClick
+stack traceback:
+	[C]: in function 'AddClick'
+	UI/Fight/FightView:44: in function 'InitEvent'
+	UI/Fight/FightView:32: in function 'InitView'
+	UI/Fight/FightView:13: in function 'InitPanel'
+	UI/BaseView:15: in function 'Awake'
+	UI/Fight/FightCtrl:13: in function 'OnCreate'
+	UI/BaseCtrl:26: in function <UI/BaseCtrl:25>
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]12:47:16.718-0: Lua function Network.Unload not exists
+[Log]12:47:16.727-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

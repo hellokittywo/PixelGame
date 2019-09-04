@@ -1,0 +1,18 @@
+﻿[Log]OutLog Start
+[Log]10:21:59.648-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x28033F48
+[Exception]LuaException: UI/Fight/FightView:36: '<name>' expected near ','
+stack traceback:
+	[C]: at 0x613c2c60
+	[C]: in function 'require'
+	UI/Fight/FightCtrl:7: in function 'ctor'
+	Common/functions:169: in function 'new'
+	Manager/CtrlManager:39: in function 'CreateCtrl'
+	Manager/CtrlManager:68: in function 'openPanel'
+	Scene/Fight/FightScene:31: in function 'Init'
+	Main.lua:27: in function <Main.lua:16>
+[Log]游戏暂停！
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]10:22:50.309-0: Lua function Network.Unload not exists
+[Exception]NullReferenceException: Object reference not set to an instance of an object
+[Log]OutLog Finish

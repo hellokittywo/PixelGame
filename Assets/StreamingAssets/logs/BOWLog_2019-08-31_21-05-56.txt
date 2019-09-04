@@ -1,0 +1,185 @@
+﻿[Log]OutLog Start
+[Log]15:15:37.639-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x1653B9E8
+[Log]15:15:37.644-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x15B139C8
+[Log]15:15:39.419-100: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]15:15:39.422-100: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]15:15:39.424-100: [Common/tools.lua:50]:1-------------当前探索结点    哪吒    4    5    0    0    3    parent:nil
+[Log]15:15:39.426-100: [Common/tools.lua:50]:2-------------当前探索结点    哪吒    3    5    1    8    3    parent:    4    5
+[Log]15:15:39.429-100: [Common/tools.lua:50]:3-------------当前探索结点    哪吒    3    4    1    5    1    parent:    3    5
+[Log]15:15:39.432-100: [Common/tools.lua:50]:4-------------当前探索结点    哪吒    3    3    1    4    1    parent:    3    4
+[Log]15:15:39.435-100: [Common/tools.lua:50]:5-------------当前探索结点    哪吒    4    3    1    9    2    parent:    3    3
+[Log]15:15:39.437-100: [Common/tools.lua:50]:6-------------当前探索结点    哪吒    4    2    1    10    2    parent:    4    3
+[Log]15:15:39.439-100: [Common/tools.lua:50]:7-------------当前探索结点    哪吒    4    1    1    13    2    parent:    4    2
+[Log]15:15:39.441-100: [Common/tools.lua:50]:8-------------当前探索结点    哪吒    3    1    1    8    1    parent:    4    1
+[Log]15:15:39.444-100: [Common/tools.lua:50]:9-------------当前探索结点    哪吒    2    1    1    5    2    parent:    3    1
+[Log]15:15:39.446-100: [Common/tools.lua:50]:10-------------当前探索结点    哪吒    2    2    1    2    1    parent:    2    1
+[Log]15:15:39.448-100: [Common/tools.lua:50]:11-------------当前探索结点    哪吒    1    2    1    1    2    parent:    2    2
+[Log]15:15:39.452-100: [Scene/Fight/FightAStar.lua:16]:---寻道路了吗    table:0x15154958
+[Log]15:15:39.455-100: [Scene/Fight/CardAiAction.lua:53]:----target2222    10
+[Log]15:15:39.456-100: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]15:15:39.459-100: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]15:15:39.461-100: [Common/tools.lua:50]:1-------------当前探索结点    沙悟净    4    4    0    0    3    parent:nil
+[Log]15:15:39.464-100: [Common/tools.lua:50]:2-------------当前探索结点    沙悟净    3    4    1    5    2    parent:    4    4
+[Log]15:15:39.467-100: [Common/tools.lua:50]:3-------------当前探索结点    沙悟净    3    3    1    4    1    parent:    3    4
+[Log]15:15:39.469-100: [Common/tools.lua:50]:4-------------当前探索结点    沙悟净    4    3    1    9    2    parent:    3    3
+[Log]15:15:39.471-100: [Common/tools.lua:50]:5-------------当前探索结点    沙悟净    4    2    1    10    2    parent:    4    3
+[Log]15:15:39.474-100: [Common/tools.lua:50]:6-------------当前探索结点    沙悟净    4    1    1    13    2    parent:    4    2
+[Log]15:15:39.476-100: [Common/tools.lua:50]:7-------------当前探索结点    沙悟净    3    1    1    8    1    parent:    4    1
+[Log]15:15:39.479-100: [Common/tools.lua:50]:8-------------当前探索结点    沙悟净    2    1    1    5    2    parent:    3    1
+[Log]15:15:39.481-100: [Common/tools.lua:50]:9-------------当前探索结点    沙悟净    2    2    1    2    1    parent:    2    1
+[Log]15:15:39.484-100: [Common/tools.lua:50]:10-------------当前探索结点    沙悟净    1    2    1    1    2    parent:    2    2
+[Log]15:15:39.487-100: [Scene/Fight/FightAStar.lua:16]:---寻道路了吗    table:0x151349E8
+[Log]15:15:39.489-100: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]15:15:39.491-100: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]15:15:39.493-100: [Common/tools.lua:50]:1-------------当前探索结点    猪八戒    3    2    0    0    4    parent:nil
+[Log]15:15:39.496-100: [Common/tools.lua:50]:2-------------当前探索结点    猪八戒    2    2    1    2    2    parent:    3    2
+[Log]15:15:39.498-100: [Common/tools.lua:50]:3-------------当前探索结点    猪八戒    1    2    1    1    2    parent:    2    2
+[Log]15:15:39.501-100: [Scene/Fight/FightAStar.lua:16]:---寻道路了吗    table:0x165217C0
+[Log]15:15:39.907-125: [Scene/Fight/CardAiAction.lua:76]:----移动    3    5    哪吒
+[Log]15:15:40.122-138: [Common/tools.lua:50]:---寻路    3    5    1    3
+[Log]15:15:40.123-138: [Common/tools.lua:50]:-------------当前探索起点    3    5    1
+[Log]15:15:40.124-138: [Common/tools.lua:50]:1-------------当前探索结点    哪吒    3    5    0    0    3    parent:nil
+[Log]15:15:40.125-138: [Common/tools.lua:50]:2-------------当前探索结点    哪吒    2    5    1    5    2    parent:    3    5
+[Log]15:15:40.127-138: [Common/tools.lua:50]:3-------------当前探索结点    哪吒    1    5    1    4    1    parent:    2    5
+[Log]15:15:40.129-138: [Common/tools.lua:50]:4-------------当前探索结点    哪吒    1    6    1    9    1    parent:    1    5
+[Log]15:15:40.130-138: [Common/tools.lua:50]:5-------------当前探索结点    哪吒    2    6    1    10    1    parent:    1    6
+[Log]15:15:40.130-138: [Common/tools.lua:50]:6-------------当前探索结点    哪吒    3    6    1    13    1    parent:    2    6
+[Log]15:15:40.131-138: [Common/tools.lua:50]:7-------------当前探索结点    哪吒    4    6    1    18    2    parent:    3    6
+[Log]15:15:40.133-138: [Common/tools.lua:50]:8-------------当前探索结点    哪吒    4    5    1    13    2    parent:    4    6
+[Log]15:15:40.134-138: [Common/tools.lua:50]:9-------------当前探索结点    哪吒    4    4    1    10    2    parent:    4    5
+[Log]15:15:40.135-138: [Common/tools.lua:50]:10-------------当前探索结点    哪吒    4    3    1    9    3    parent:    4    4
+[Log]15:15:40.136-138: [Common/tools.lua:50]:11-------------当前探索结点    哪吒    3    3    1    4    1    parent:    4    3
+[Log]15:15:40.137-138: [Common/tools.lua:50]:12-------------当前探索结点    哪吒    3    2    1    5    2    parent:    3    3
+[Log]15:15:40.139-138: [Common/tools.lua:50]:13-------------当前探索结点    哪吒    3    1    1    8    2    parent:    3    2
+[Log]15:15:40.139-138: [Common/tools.lua:50]:14-------------当前探索结点    哪吒    2    1    1    5    1    parent:    3    1
+[Log]15:15:40.141-138: [Common/tools.lua:50]:15-------------当前探索结点    哪吒    1    1    1    4    1    parent:    2    1
+[Log]15:15:40.141-138: [Common/tools.lua:50]:16-------------当前探索结点    哪吒    1    2    1    1    1    parent:    1    1
+[Log]15:15:40.142-138: [Scene/Fight/FightAStar.lua:16]:---寻道路了吗    table:0x15B12620
+[Log]15:15:40.143-138: [Scene/Fight/CardAiAction.lua:53]:----target2222    15
+[Log]15:15:40.144-138: [Common/tools.lua:50]:---寻路    3    4    1    3
+[Log]15:15:40.145-138: [Common/tools.lua:50]:-------------当前探索起点    3    4    1
+[Log]15:15:40.146-138: [Common/tools.lua:50]:1-------------当前探索结点    沙悟净    3    4    0    0    2    parent:nil
+[Log]15:15:40.147-138: [Common/tools.lua:50]:2-------------当前探索结点    沙悟净    3    3    1    4    2    parent:    3    4
+[Log]15:15:40.148-138: [Common/tools.lua:50]:3-------------当前探索结点    沙悟净    3    2    1    5    2    parent:    3    3
+[Log]15:15:40.150-138: [Common/tools.lua:50]:4-------------当前探索结点    沙悟净    3    1    1    8    2    parent:    3    2
+[Log]15:15:40.151-138: [Common/tools.lua:50]:5-------------当前探索结点    沙悟净    2    1    1    5    1    parent:    3    1
+[Log]15:15:40.152-138: [Common/tools.lua:50]:6-------------当前探索结点    沙悟净    1    1    1    4    1    parent:    2    1
+[Log]15:15:40.153-138: [Common/tools.lua:50]:7-------------当前探索结点    沙悟净    1    2    1    1    1    parent:    1    1
+[Log]15:15:40.153-138: [Scene/Fight/FightAStar.lua:16]:---寻道路了吗    table:0x1516C380
+[Log]15:15:40.628-168: [Scene/Fight/CardAiAction.lua:76]:----移动    2    5    哪吒
+[Log]15:15:40.844-181: [Common/tools.lua:50]:---寻路    2    5    1    3
+[Log]15:15:40.845-181: [Common/tools.lua:50]:-------------当前探索起点    2    5    1
+[Log]15:15:40.846-181: [Common/tools.lua:50]:1-------------当前探索结点    哪吒    2    5    0    0    3    parent:nil
+[Log]15:15:40.847-181: [Common/tools.lua:50]:2-------------当前探索结点    哪吒    1    5    1    4    1    parent:    2    5
+[Log]15:15:40.848-181: [Common/tools.lua:50]:3-------------当前探索结点    哪吒    1    6    1    9    1    parent:    1    5
+[Log]15:15:40.848-181: [Common/tools.lua:50]:4-------------当前探索结点    哪吒    2    6    1    10    1    parent:    1    6
+[Log]15:15:40.850-181: [Common/tools.lua:50]:5-------------当前探索结点    哪吒    3    6    1    13    2    parent:    2    6
+[Log]15:15:40.851-181: [Common/tools.lua:50]:6-------------当前探索结点    哪吒    3    5    1    8    2    parent:    3    6
+[Log]15:15:40.852-181: [Common/tools.lua:50]:7-------------当前探索结点    哪吒    3    4    1    5    1    parent:    3    5
+[Log]15:15:40.853-181: [Common/tools.lua:50]:8-------------当前探索结点    哪吒    4    4    1    10    3    parent:    3    4
+[Log]15:15:40.854-181: [Common/tools.lua:50]:9-------------当前探索结点    哪吒    4    3    1    9    2    parent:    4    4
+[Log]15:15:40.855-181: [Common/tools.lua:50]:10-------------当前探索结点    哪吒    4    2    1    10    3    parent:    4    3
+[Log]15:15:40.857-181: [Common/tools.lua:50]:11-------------当前探索结点    哪吒    3    2    1    5    1    parent:    4    2
+[Log]15:15:40.859-181: [Common/tools.lua:50]:12-------------当前探索结点    哪吒    3    1    1    8    2    parent:    3    2
+[Log]15:15:40.860-181: [Common/tools.lua:50]:13-------------当前探索结点    哪吒    2    1    1    5    1    parent:    3    1
+[Log]15:15:40.861-181: [Common/tools.lua:50]:14-------------当前探索结点    哪吒    1    1    1    4    1    parent:    2    1
+[Log]15:15:40.862-181: [Common/tools.lua:50]:15-------------当前探索结点    哪吒    1    2    1    1    1    parent:    1    1
+[Log]15:15:40.863-181: [Scene/Fight/FightAStar.lua:16]:---寻道路了吗    table:0x15219360
+[Log]15:15:40.864-181: [Scene/Fight/CardAiAction.lua:53]:----target2222    14
+[Log]15:15:40.865-181: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]15:15:40.866-181: [Common/tools.lua:50]:-------------当前探索起点    3    3    1
+[Log]15:15:40.867-181: [Common/tools.lua:50]:1-------------当前探索结点    沙悟净    3    3    0    0    3    parent:nil
+[Log]15:15:40.873-181: [Common/tools.lua:50]:2-------------当前探索结点    沙悟净    3    4    1    5    2    parent:    3    3
+[Log]15:15:40.874-181: [Common/tools.lua:50]:3-------------当前探索结点    沙悟净    3    5    1    8    2    parent:    3    4
+[Log]15:15:40.875-181: [Common/tools.lua:50]:4-------------当前探索结点    沙悟净    3    6    1    13    2    parent:    3    5
+[Log]15:15:40.876-181: [Common/tools.lua:50]:5-------------当前探索结点    沙悟净    2    6    1    10    1    parent:    3    6
+[Log]15:15:40.877-181: [Common/tools.lua:50]:6-------------当前探索结点    沙悟净    1    6    1    9    1    parent:    2    6
+[Log]15:15:40.878-181: [Scene/Fight/FightAStar.lua:16]:---寻道路了吗    nil
+[Log]15:15:41.346-213: [Scene/Fight/CardAiAction.lua:76]:----移动    1    5    哪吒
+[Log]15:15:41.347-213: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]15:15:41.348-213: [Common/tools.lua:50]:-------------当前探索起点    3    3    1
+[Log]15:15:41.349-213: [Common/tools.lua:50]:1-------------当前探索结点    沙悟净    3    3    0    0    3    parent:nil
+[Log]15:15:41.351-213: [Common/tools.lua:50]:2-------------当前探索结点    沙悟净    3    4    1    5    2    parent:    3    3
+[Log]15:15:41.352-213: [Common/tools.lua:50]:3-------------当前探索结点    沙悟净    3    5    1    8    3    parent:    3    4
+[Log]15:15:41.352-213: [Common/tools.lua:50]:4-------------当前探索结点    沙悟净    2    5    1    5    1    parent:    3    5
+[Log]15:15:41.353-213: [Common/tools.lua:50]:5-------------当前探索结点    沙悟净    2    6    1    10    2    parent:    2    5
+[Log]15:15:41.354-213: [Scene/Fight/FightAStar.lua:16]:---寻道路了吗    nil
+[Log]15:15:41.561-226: [Common/tools.lua:50]:---寻路    1    5    1    3
+[Log]15:15:41.562-226: [Common/tools.lua:50]:-------------当前探索起点    1    5    1
+[Log]15:15:41.563-226: [Common/tools.lua:50]:1-------------当前探索结点    哪吒    1    5    0    0    2    parent:nil
+[Log]15:15:41.564-226: [Common/tools.lua:50]:2-------------当前探索结点    哪吒    2    5    1    5    2    parent:    1    5
+[Log]15:15:41.565-226: [Common/tools.lua:50]:3-------------当前探索结点    哪吒    3    5    1    8    3    parent:    2    5
+[Log]15:15:41.566-226: [Common/tools.lua:50]:4-------------当前探索结点    哪吒    3    4    1    5    1    parent:    3    5
+[Log]15:15:41.567-226: [Common/tools.lua:50]:5-------------当前探索结点    哪吒    4    4    1    10    3    parent:    3    4
+[Log]15:15:41.568-226: [Common/tools.lua:50]:6-------------当前探索结点    哪吒    4    3    1    9    2    parent:    4    4
+[Log]15:15:41.569-226: [Common/tools.lua:50]:7-------------当前探索结点    哪吒    4    2    1    10    3    parent:    4    3
+[Log]15:15:41.570-226: [Common/tools.lua:50]:8-------------当前探索结点    哪吒    3    2    1    5    1    parent:    4    2
+[Log]15:15:41.571-226: [Common/tools.lua:50]:9-------------当前探索结点    哪吒    3    1    1    8    2    parent:    3    2
+[Log]15:15:41.572-226: [Common/tools.lua:50]:10-------------当前探索结点    哪吒    2    1    1    5    1    parent:    3    1
+[Log]15:15:41.573-226: [Common/tools.lua:50]:11-------------当前探索结点    哪吒    1    1    1    4    1    parent:    2    1
+[Log]15:15:41.573-226: [Common/tools.lua:50]:12-------------当前探索结点    哪吒    1    2    1    1    1    parent:    1    1
+[Log]15:15:41.574-226: [Scene/Fight/FightAStar.lua:16]:---寻道路了吗    table:0x15B0F790
+[Log]15:15:41.575-226: [Scene/Fight/CardAiAction.lua:53]:----target2222    11
+[Log]15:15:41.848-243: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]15:15:41.849-243: [Common/tools.lua:50]:-------------当前探索起点    3    3    1
+[Log]15:15:41.850-243: [Common/tools.lua:50]:1-------------当前探索结点    沙悟净    3    3    0    0    3    parent:nil
+[Log]15:15:41.851-243: [Common/tools.lua:50]:2-------------当前探索结点    沙悟净    3    4    1    5    2    parent:    3    3
+[Log]15:15:41.852-243: [Common/tools.lua:50]:3-------------当前探索结点    沙悟净    3    5    1    8    3    parent:    3    4
+[Log]15:15:41.853-243: [Common/tools.lua:50]:4-------------当前探索结点    沙悟净    2    5    1    5    1    parent:    3    5
+[Log]15:15:41.854-243: [Common/tools.lua:50]:5-------------当前探索结点    沙悟净    2    6    1    10    2    parent:    2    5
+[Log]15:15:41.856-243: [Scene/Fight/FightAStar.lua:16]:---寻道路了吗    nil
+[Log]15:15:42.62-256: [Scene/Fight/CardAiAction.lua:76]:----移动    2    5    哪吒
+[Log]15:15:42.265-269: [Common/tools.lua:50]:---寻路    2    5    1    3
+[Log]15:15:42.266-269: [Common/tools.lua:50]:-------------当前探索起点    2    5    1
+[Log]15:15:42.267-269: [Common/tools.lua:50]:1-------------当前探索结点    哪吒    2    5    0    0    3    parent:nil
+[Log]15:15:42.268-269: [Common/tools.lua:50]:2-------------当前探索结点    哪吒    1    5    1    4    1    parent:    2    5
+[Log]15:15:42.269-269: [Common/tools.lua:50]:3-------------当前探索结点    哪吒    1    6    1    9    1    parent:    1    5
+[Log]15:15:42.271-269: [Common/tools.lua:50]:4-------------当前探索结点    哪吒    2    6    1    10    1    parent:    1    6
+[Log]15:15:42.272-269: [Common/tools.lua:50]:5-------------当前探索结点    哪吒    3    6    1    13    2    parent:    2    6
+[Log]15:15:42.273-269: [Common/tools.lua:50]:6-------------当前探索结点    哪吒    3    5    1    8    2    parent:    3    6
+[Log]15:15:42.274-269: [Common/tools.lua:50]:7-------------当前探索结点    哪吒    3    4    1    5    1    parent:    3    5
+[Log]15:15:42.275-269: [Common/tools.lua:50]:8-------------当前探索结点    哪吒    4    4    1    10    3    parent:    3    4
+[Log]15:15:42.277-269: [Common/tools.lua:50]:9-------------当前探索结点    哪吒    4    3    1    9    2    parent:    4    4
+[Log]15:15:42.278-269: [Common/tools.lua:50]:10-------------当前探索结点    哪吒    4    2    1    10    3    parent:    4    3
+[Log]15:15:42.279-269: [Common/tools.lua:50]:11-------------当前探索结点    哪吒    3    2    1    5    1    parent:    4    2
+[Log]15:15:42.280-269: [Common/tools.lua:50]:12-------------当前探索结点    哪吒    3    1    1    8    2    parent:    3    2
+[Log]15:15:42.281-269: [Common/tools.lua:50]:13-------------当前探索结点    哪吒    2    1    1    5    1    parent:    3    1
+[Log]15:15:42.282-269: [Common/tools.lua:50]:14-------------当前探索结点    哪吒    1    1    1    4    1    parent:    2    1
+[Log]15:15:42.283-269: [Common/tools.lua:50]:15-------------当前探索结点    哪吒    1    2    1    1    1    parent:    1    1
+[Log]15:15:42.284-269: [Scene/Fight/FightAStar.lua:16]:---寻道路了吗    table:0x16558018
+[Log]15:15:42.285-269: [Scene/Fight/CardAiAction.lua:53]:----target2222    14
+[Log]15:15:42.361-275: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]15:15:42.362-275: [Common/tools.lua:50]:-------------当前探索起点    3    3    1
+[Log]15:15:42.363-275: [Common/tools.lua:50]:1-------------当前探索结点    沙悟净    3    3    0    0    3    parent:nil
+[Log]15:15:42.364-275: [Common/tools.lua:50]:2-------------当前探索结点    沙悟净    3    4    1    5    2    parent:    3    3
+[Log]15:15:42.365-275: [Common/tools.lua:50]:3-------------当前探索结点    沙悟净    3    5    1    8    2    parent:    3    4
+[Log]15:15:42.366-275: [Common/tools.lua:50]:4-------------当前探索结点    沙悟净    3    6    1    13    2    parent:    3    5
+[Log]15:15:42.367-275: [Common/tools.lua:50]:5-------------当前探索结点    沙悟净    2    6    1    10    1    parent:    3    6
+[Log]15:15:42.368-275: [Common/tools.lua:50]:6-------------当前探索结点    沙悟净    1    6    1    9    1    parent:    2    6
+[Log]15:15:42.370-275: [Scene/Fight/FightAStar.lua:16]:---寻道路了吗    nil
+[Log]15:15:42.778-301: [Scene/Fight/CardAiAction.lua:76]:----移动    1    5    哪吒
+[Log]15:15:42.861-306: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]15:15:42.862-306: [Common/tools.lua:50]:-------------当前探索起点    3    3    1
+[Log]15:15:42.864-306: [Common/tools.lua:50]:1-------------当前探索结点    沙悟净    3    3    0    0    3    parent:nil
+[Log]15:15:42.864-306: [Common/tools.lua:50]:2-------------当前探索结点    沙悟净    3    4    1    5    2    parent:    3    3
+[Log]15:15:42.865-306: [Common/tools.lua:50]:3-------------当前探索结点    沙悟净    3    5    1    8    3    parent:    3    4
+[Log]15:15:42.867-306: [Common/tools.lua:50]:4-------------当前探索结点    沙悟净    2    5    1    5    1    parent:    3    5
+[Log]15:15:42.868-306: [Common/tools.lua:50]:5-------------当前探索结点    沙悟净    2    6    1    10    2    parent:    2    5
+[Log]15:15:42.869-306: [Scene/Fight/FightAStar.lua:16]:---寻道路了吗    nil
+[Log]15:15:42.980-314: [Common/tools.lua:50]:---寻路    1    5    1    3
+[Log]15:15:42.982-314: [Common/tools.lua:50]:-------------当前探索起点    1    5    1
+[Log]15:15:42.983-314: [Common/tools.lua:50]:1-------------当前探索结点    哪吒    1    5    0    0    2    parent:nil
+[Log]15:15:42.985-314: [Common/tools.lua:50]:2-------------当前探索结点    哪吒    2    5    1    5    2    parent:    1    5
+[Log]15:15:42.986-314: [Common/tools.lua:50]:3-------------当前探索结点    哪吒    3    5    1    8    3    parent:    2    5
+[Log]15:15:42.987-314: [Common/tools.lua:50]:4-------------当前探索结点    哪吒    3    4    1    5    1    parent:    3    5
+[Log]15:15:42.988-314: [Common/tools.lua:50]:5-------------当前探索结点    哪吒    4    4    1    10    3    parent:    3    4
+[Log]15:15:42.989-314: [Common/tools.lua:50]:6-------------当前探索结点    哪吒    4    3    1    9    2    parent:    4    4
+[Log]15:15:42.989-314: [Common/tools.lua:50]:7-------------当前探索结点    哪吒    4    2    1    10    3    parent:    4    3
+[Log]15:15:43.4-314: [Common/tools.lua:50]:8-------------当前探索结点    哪吒    3    2    1    5    1    parent:    4    2
+[Log]15:15:43.5-314: [Common/tools.lua:50]:9-------------当前探索结点    哪吒    3    1    1    8    2    parent:    3    2
+[Log]15:15:43.6-314: [Common/tools.lua:50]:10-------------当前探索结点    哪吒    2    1    1    5    1    parent:    3    1
+[Log]15:15:43.7-314: [Common/tools.lua:50]:11-------------当前探索结点    哪吒    1    1    1    4    1    parent:    2    1
+[Log]15:15:43.8-314: [Common/tools.lua:50]:12-------------当前探索结点    哪吒    1    2    1    1    1    parent:    1    1
+[Log]15:15:43.9-314: [Scene/Fight/FightAStar.lua:16]:---寻道路了吗    table:0x171D2128
+[Log]15:15:43.10-314: [Scene/Fight/CardAiAction.lua:53]:----target2222    11
+[Log]OutLog Finish

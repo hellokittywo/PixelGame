@@ -1,0 +1,54 @@
+﻿[Log]OutLog Start
+[Log]23:06:56.607-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x382BA420
+[Log]23:06:56.618-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x3A3150A8
+[Log]23:07:13.399-981: [Scene/Fight/CardAiAction.lua:66]:----移动    4    4    唐僧
+[Log]23:07:13.403-981: [Scene/Fight/CardAiAction.lua:66]:----移动    3    4    孙悟空
+[Log]23:07:13.404-981: [Scene/Fight/CardAiAction.lua:66]:----移动    5    4    沙悟净
+[Log]23:07:13.405-981: [Scene/Fight/CardAiAction.lua:66]:----移动    2    6    哪吒
+[Log]23:07:13.407-981: [Scene/Fight/CardAiAction.lua:66]:----移动    6    6    白龙马
+[Log]23:07:13.408-981: [Scene/Fight/CardAiAction.lua:66]:----移动    1    2    孙悟空
+[Log]23:07:14.129-26: [Scene/Fight/CardAiAction.lua:66]:----移动    4    3    唐僧
+[Log]23:07:14.130-26: [Scene/Fight/CardAiAction.lua:66]:----移动    3    3    孙悟空
+[Log]23:07:14.132-26: [Scene/Fight/CardAiAction.lua:66]:----移动    5    3    沙悟净
+[Log]23:07:14.133-26: [Scene/Fight/CardAiAction.lua:66]:----移动    2    5    哪吒
+[Log]23:07:14.134-26: [Scene/Fight/CardAiAction.lua:66]:----移动    5    6    白龙马
+[Log]23:07:14.136-26: [Scene/Fight/CardAiAction.lua:66]:----移动    1    3    孙悟空
+[Log]23:07:14.858-70: [Scene/Fight/CardAiAction.lua:66]:----移动    4    4    唐僧
+[Log]23:07:14.860-70: [Scene/Fight/CardAiAction.lua:66]:----移动    2    3    孙悟空
+[Log]23:07:14.862-70: [Scene/Fight/CardAiAction.lua:66]:----移动    5    4    沙悟净
+[Log]23:07:14.864-70: [Scene/Fight/CardAiAction.lua:66]:----移动    2    4    哪吒
+[Log]23:07:14.866-70: [Scene/Fight/CardAiAction.lua:66]:----移动    5    5    白龙马
+[Log]23:07:14.867-70: [Scene/Fight/CardAiAction.lua:66]:----移动    2    3    孙悟空
+[Log]23:07:15.587-114: [Scene/Fight/CardAiAction.lua:66]:----移动    3    4    唐僧
+[Log]23:07:15.588-114: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:07:15.589-114: [Scene/Fight/CardAiAction.lua:66]:----移动    5    3    沙悟净
+[Log]23:07:15.591-114: [Scene/Fight/CardAiAction.lua:66]:----移动    4    5    白龙马
+[Log]23:07:16.100-145: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:07:16.324-158: [Scene/Fight/CardAiAction.lua:66]:----移动    4    3    沙悟净
+[Log]23:07:16.326-158: [Scene/Fight/CardAiAction.lua:66]:----移动    4    4    白龙马
+[Log]23:07:16.605-175: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:07:17.53-202: [Scene/Fight/CardAiAction.lua:66]:----移动    3    3    沙悟净
+[Log]23:07:17.55-202: [Scene/Fight/CardAiAction.lua:66]:----移动    4    5    白龙马
+[Log]23:07:17.120-206: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:07:17.633-237: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:07:17.782-246: [Scene/Fight/CardAiAction.lua:66]:----移动    4    4    白龙马
+[Log]23:07:18.146-268: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:07:18.505-289: [Scene/Fight/CardAiAction.lua:66]:----移动    4    3    白龙马
+[Log]23:07:18.654-298: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:07:19.168-329: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:07:19.234-333: [Scene/Fight/CardAiAction.lua:66]:----移动    4    2    白龙马
+[Log]23:07:19.670-359: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:07:19.952-376: [Scene/Fight/CardAiAction.lua:66]:----移动    3    2    白龙马
+[Log]23:07:20.185-390: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:07:20.698-421: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:07:21.212-452: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:07:21.725-483: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:07:22.238-514: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:07:22.751-545: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:07:23.411-574: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]23:07:23.809-0: Lua function Network.Unload not exists
+[Log]23:07:23.818-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

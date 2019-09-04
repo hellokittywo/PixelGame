@@ -1,0 +1,64 @@
+﻿[Log]OutLog Start
+[Log]13:21:37.112-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x14CC0950
+[Log]13:21:37.117-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x14CDA780
+[Log]13:21:39.597-147: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]13:21:39.602-147: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]13:21:39.604-147: [Common/tools.lua:50]:1-------------当前探索结点    4    4    0    0    4    parent:nil
+[Log]13:21:39.607-147: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    5    3    parent:    4    4
+[Log]13:21:39.610-147: [Common/tools.lua:50]:3-------------当前探索结点    2    4    1    2    1    parent:    3    4
+[Log]13:21:39.613-147: [Common/tools.lua:50]:4-------------当前探索结点    3    3    1    4    2    parent:    3    4
+[Log]13:21:39.615-147: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    3    parent:    2    4
+[Log]13:21:39.618-147: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:21:39.620-147: [Common/tools.lua:50]:7-------------当前探索结点    3    2    1    5    3    parent:    3    3
+[Log]13:21:39.623-147: [Common/tools.lua:50]:8-------------当前探索结点    2    2    1    2    2    parent:    3    2
+[Log]13:21:39.625-147: [Common/tools.lua:50]:9-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:21:40.80-175: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]13:21:40.82-175: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]13:21:40.83-175: [Common/tools.lua:50]:1-------------当前探索结点    4    4    0    0    4    parent:nil
+[Log]13:21:40.84-175: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    5    3    parent:    4    4
+[Log]13:21:40.85-175: [Common/tools.lua:50]:3-------------当前探索结点    2    4    1    2    1    parent:    3    4
+[Log]13:21:40.86-175: [Common/tools.lua:50]:4-------------当前探索结点    3    3    1    4    2    parent:    3    4
+[Log]13:21:40.87-175: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    3    parent:    2    4
+[Log]13:21:40.88-175: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:21:40.89-175: [Common/tools.lua:50]:7-------------当前探索结点    3    2    1    5    3    parent:    3    3
+[Log]13:21:40.90-175: [Common/tools.lua:50]:8-------------当前探索结点    2    2    1    2    2    parent:    3    2
+[Log]13:21:40.91-175: [Common/tools.lua:50]:9-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:21:40.594-206: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]13:21:40.595-206: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]13:21:40.596-206: [Common/tools.lua:50]:1-------------当前探索结点    4    4    0    0    4    parent:nil
+[Log]13:21:40.597-206: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    5    3    parent:    4    4
+[Log]13:21:40.598-206: [Common/tools.lua:50]:3-------------当前探索结点    2    4    1    2    1    parent:    3    4
+[Log]13:21:40.599-206: [Common/tools.lua:50]:4-------------当前探索结点    3    3    1    4    2    parent:    3    4
+[Log]13:21:40.601-206: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    3    parent:    2    4
+[Log]13:21:40.602-206: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:21:40.603-206: [Common/tools.lua:50]:7-------------当前探索结点    3    2    1    5    3    parent:    3    3
+[Log]13:21:40.604-206: [Common/tools.lua:50]:8-------------当前探索结点    2    2    1    2    2    parent:    3    2
+[Log]13:21:40.605-206: [Common/tools.lua:50]:9-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:21:41.93-237: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]13:21:41.94-237: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]13:21:41.95-237: [Common/tools.lua:50]:1-------------当前探索结点    4    4    0    0    4    parent:nil
+[Log]13:21:41.96-237: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    5    3    parent:    4    4
+[Log]13:21:41.97-237: [Common/tools.lua:50]:3-------------当前探索结点    2    4    1    2    1    parent:    3    4
+[Log]13:21:41.98-237: [Common/tools.lua:50]:4-------------当前探索结点    3    3    1    4    2    parent:    3    4
+[Log]13:21:41.100-237: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    3    parent:    2    4
+[Log]13:21:41.100-237: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:21:41.101-237: [Common/tools.lua:50]:7-------------当前探索结点    3    2    1    5    3    parent:    3    3
+[Log]13:21:41.102-237: [Common/tools.lua:50]:8-------------当前探索结点    2    2    1    2    2    parent:    3    2
+[Log]13:21:41.103-237: [Common/tools.lua:50]:9-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:21:41.598-269: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]13:21:41.601-269: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]13:21:41.604-269: [Common/tools.lua:50]:1-------------当前探索结点    4    4    0    0    4    parent:nil
+[Log]13:21:41.607-269: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    5    3    parent:    4    4
+[Log]13:21:41.610-269: [Common/tools.lua:50]:3-------------当前探索结点    2    4    1    2    1    parent:    3    4
+[Log]13:21:41.612-269: [Common/tools.lua:50]:4-------------当前探索结点    3    3    1    4    2    parent:    3    4
+[Log]13:21:41.613-269: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    3    parent:    2    4
+[Log]13:21:41.614-269: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:21:41.615-269: [Common/tools.lua:50]:7-------------当前探索结点    3    2    1    5    3    parent:    3    3
+[Log]13:21:41.616-269: [Common/tools.lua:50]:8-------------当前探索结点    2    2    1    2    2    parent:    3    2
+[Log]13:21:41.619-269: [Common/tools.lua:50]:9-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]13:21:42.16-0: Lua function Network.Unload not exists
+[Log]13:21:42.27-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

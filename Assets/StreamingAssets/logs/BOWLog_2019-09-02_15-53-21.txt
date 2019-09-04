@@ -1,0 +1,30 @@
+﻿[Log]OutLog Start
+[Log]15:53:09.490-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x348B2E98
+[Log]15:53:09.495-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x24028988
+[Log]游戏暂停！
+[Exception]LuaException: UI/Fight/CardItem:47: attempt to index global 'item' (a nil value)
+stack traceback:
+	UI/Fight/CardItem:47: in function 'AttackAction'
+	UI/Fight/FightView:70: in function 'v'
+	eventlib:184: in function 'fire'
+	events:32: in function 'Brocast'
+	Manager/EventsManager:26: in function 'DispatchEvent'
+	Data/CardInfo:230: in function 'AttackAction'
+	Scene/Fight/FightScene:135: in function 'Attack'
+	Scene/Fight/CardAiAction:126: in function <Scene/Fight/CardAiAction:124>
+[Exception]LuaException: UI/Fight/CardItem:47: attempt to index global 'item' (a nil value)
+stack traceback:
+	UI/Fight/CardItem:47: in function 'AttackAction'
+	UI/Fight/FightView:70: in function 'v'
+	eventlib:184: in function 'fire'
+	events:32: in function 'Brocast'
+	Manager/EventsManager:26: in function 'DispatchEvent'
+	Data/CardInfo:230: in function 'AttackAction'
+	Scene/Fight/FightScene:135: in function 'Attack'
+	Scene/Fight/CardAiAction:126: in function <Scene/Fight/CardAiAction:124>
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]15:53:21.446-0: Lua function Network.Unload not exists
+[Log]15:53:21.454-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

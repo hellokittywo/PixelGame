@@ -1,0 +1,35 @@
+﻿[Log]OutLog Start
+[Log]11:22:33.556-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x155FA7B8
+[Log]11:22:33.561-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x155BA100
+[Log]游戏暂停！
+[Log]11:22:35.955-129: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]11:22:35.957-129: [Common/tools.lua:50]:---寻路    2    4    1    1
+[Log]11:22:35.959-129: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]11:22:35.961-129: [Common/tools.lua:50]:---寻路    1    1    2    4
+[Log]11:22:38.440-279: [Scene/Fight/CardAiAction.lua:61]:----移动    2    3    9
+[Log]11:22:38.443-279: [Scene/Fight/CardAiAction.lua:61]:----移动    1    2    2
+[Log]11:22:38.655-292: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    1
+[Log]11:22:38.657-292: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    1
+[Log]11:22:38.822-302: [UI/Fight/CardItem.lua:31]:----雪梨    90
+[Log]11:22:39.815-362: [UI/Fight/CardItem.lua:31]:----雪梨    80
+[Log]11:22:40.827-423: [UI/Fight/CardItem.lua:31]:----雪梨    70
+[Log]11:22:41.821-483: [UI/Fight/CardItem.lua:31]:----雪梨    60
+[Log]11:22:42.814-543: [UI/Fight/CardItem.lua:31]:----雪梨    50
+[Log]11:22:43.825-604: [UI/Fight/CardItem.lua:31]:----雪梨    40
+[Log]11:22:44.820-664: [UI/Fight/CardItem.lua:31]:----雪梨    30
+[Log]11:22:45.814-724: [UI/Fight/CardItem.lua:31]:----雪梨    20
+[Log]11:22:46.824-785: [UI/Fight/CardItem.lua:31]:----雪梨    10
+[Log]11:22:47.819-845: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Exception]LuaException: Scene/Fight/FightAStar:5: attempt to index local 'endN' (a nil value)
+stack traceback:
+	Scene/Fight/FightAStar:5: in function 'GetPathList'
+	Scene/Fight/CardAiAction:47: in function 'StartAI'
+	Scene/Fight/FightScene:120: in function 'Attack'
+	Scene/Fight/CardAiAction:79: in function 'Attack'
+	Scene/Fight/CardAiAction:83: in function <Scene/Fight/CardAiAction:77>
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]11:22:50.393-0: Lua function Network.Unload not exists
+[Log]11:22:50.401-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

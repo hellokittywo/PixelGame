@@ -1,0 +1,17 @@
+﻿[Log]OutLog Start
+[Log]15:50:22.345-2: [Scene/Fight/FightScene.lua:50]:----坐标呢    1    1    1    nil    -590    310
+[Log]15:50:22.348-2: [Scene/Fight/FightScene.lua:50]:----坐标呢    2    1    2    nil    -590    210
+[Log]15:50:22.351-2: [Scene/Fight/FightScene.lua:50]:----坐标呢    3    1    3    nil    -590    110
+[Log]15:50:22.353-2: [Scene/Fight/FightScene.lua:50]:----坐标呢    4    1    4    nil    -590    10
+[Log]15:50:22.355-2: [Scene/Fight/FightScene.lua:50]:----坐标呢    5    1    5    nil    -590    -90
+[Log]15:50:22.357-2: [Scene/Fight/FightScene.lua:50]:----坐标呢    6    1    6    nil    -590    -190
+[Log]15:50:22.362-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x1A4E2E40
+[Log]15:50:22.369-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x1A4FDD28
+[Log]游戏暂停！
+[Log]游戏暂停！
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]15:52:58.830-0: Lua function Network.Unload not exists
+[Log]15:52:58.846-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

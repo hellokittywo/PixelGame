@@ -1,0 +1,18 @@
+﻿[Log]OutLog Start
+[Log]11:02:24.265-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x38AEB420
+[Log]11:02:24.270-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x388A6A40
+[Log]11:02:27.378-179: [Common/tools.lua:50]:---寻路    2    4    1    1
+[Log]11:02:27.381-179: [Common/tools.lua:50]:---寻路    1    1    2    4
+[Log]11:02:29.864-329: [Scene/Fight/CardAiAction.lua:58]:----移动    2    3    15
+[Log]11:02:29.870-329: [Common/tools.lua:50]:---寻路    3    3    1    1
+[Log]11:02:29.874-329: [Scene/Fight/CardAiAction.lua:58]:----移动    1    2    8
+[Log]11:02:29.877-329: [Common/tools.lua:50]:---寻路    2    2    3    3
+[Log]11:02:32.375-480: [Scene/Fight/CardAiAction.lua:58]:----移动    3    2    20
+[Log]11:02:32.376-480: [Common/tools.lua:50]:---寻路    4    2    2    2
+[Log]11:02:32.377-480: [Scene/Fight/CardAiAction.lua:58]:----移动    2    3    15
+[Log]11:02:33.39-520: [UI/Fight/CardItem.lua:31]:----雪梨    90
+[Log]11:02:34.49-581: [UI/Fight/CardItem.lua:31]:----雪梨    80
+[Log]11:02:34.877-631: [Scene/Fight/CardAiAction.lua:58]:----移动    3    2    20
+[Log]11:02:34.879-631: [Common/tools.lua:50]:---寻路    4    2    3    3
+[Log]11:02:35.43-641: [UI/Fight/CardItem.lua:31]:----雪梨    70
+[Log]OutLog Finish

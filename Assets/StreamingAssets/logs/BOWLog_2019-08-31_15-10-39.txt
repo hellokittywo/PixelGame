@@ -1,0 +1,83 @@
+﻿[Log]OutLog Start
+[Log]15:10:11.251-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x14CBCD80
+[Log]15:10:11.256-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x14CB57D8
+[Log]15:10:13.844-151: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]15:10:13.847-151: [Scene/Fight/FightAStar.lua:104]:------节点呢    哪吒    3
+[Log]15:10:13.850-151: [Scene/Fight/CardAiAction.lua:53]:----target2222    1
+[Log]15:10:13.853-151: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]15:10:13.855-151: [Scene/Fight/FightAStar.lua:104]:------节点呢    沙悟净    3
+[Log]15:10:13.858-151: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]15:10:13.861-151: [Scene/Fight/FightAStar.lua:104]:------节点呢    猪八戒    4
+[Log]15:10:14.337-180: [Scene/Fight/CardAiAction.lua:76]:----移动    3    5    哪吒
+[Log]15:10:14.552-193: [Common/tools.lua:50]:---寻路    3    5    1    3
+[Log]15:10:14.553-193: [Scene/Fight/FightAStar.lua:104]:------节点呢    哪吒    3
+[Log]15:10:14.554-193: [Scene/Fight/CardAiAction.lua:53]:----target2222    1
+[Log]15:10:14.556-193: [Common/tools.lua:50]:---寻路    3    4    1    3
+[Log]15:10:14.557-193: [Scene/Fight/FightAStar.lua:104]:------节点呢    沙悟净    2
+[Log]15:10:15.66-225: [Scene/Fight/CardAiAction.lua:76]:----移动    2    5    哪吒
+[Log]15:10:15.281-238: [Common/tools.lua:50]:---寻路    2    5    1    3
+[Log]15:10:15.282-238: [Scene/Fight/FightAStar.lua:104]:------节点呢    哪吒    3
+[Log]15:10:15.296-238: [Scene/Fight/CardAiAction.lua:53]:----target2222    1
+[Log]15:10:15.297-238: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]15:10:15.299-238: [Scene/Fight/FightAStar.lua:104]:------节点呢    沙悟净    3
+[Log]15:10:15.789-269: [Scene/Fight/CardAiAction.lua:76]:----移动    1    5    哪吒
+[Log]15:10:15.992-282: [Common/tools.lua:50]:---寻路    1    5    1    3
+[Log]15:10:15.993-282: [Scene/Fight/FightAStar.lua:104]:------节点呢    哪吒    2
+[Log]15:10:15.994-282: [Scene/Fight/CardAiAction.lua:53]:----target2222    1
+[Log]15:10:15.995-282: [Common/tools.lua:50]:---寻路    3    4    1    3
+[Log]15:10:15.996-282: [Scene/Fight/FightAStar.lua:104]:------节点呢    沙悟净    3
+[Log]15:10:16.504-317: [Scene/Fight/CardAiAction.lua:76]:----移动    2    5    哪吒
+[Log]15:10:16.720-330: [Common/tools.lua:50]:---寻路    2    5    1    3
+[Log]15:10:16.721-330: [Scene/Fight/FightAStar.lua:104]:------节点呢    哪吒    3
+[Log]15:10:16.722-330: [Scene/Fight/CardAiAction.lua:53]:----target2222    1
+[Log]15:10:16.723-330: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]15:10:16.724-330: [Scene/Fight/FightAStar.lua:104]:------节点呢    沙悟净    3
+[Log]15:10:17.226-363: [Scene/Fight/CardAiAction.lua:76]:----移动    1    5    哪吒
+[Log]15:10:17.427-376: [Common/tools.lua:50]:---寻路    1    5    1    3
+[Log]15:10:17.428-376: [Scene/Fight/FightAStar.lua:104]:------节点呢    哪吒    2
+[Log]15:10:17.430-376: [Scene/Fight/CardAiAction.lua:53]:----target2222    1
+[Log]15:10:17.431-376: [Common/tools.lua:50]:---寻路    3    4    1    3
+[Log]15:10:17.431-376: [Scene/Fight/FightAStar.lua:104]:------节点呢    沙悟净    3
+[Log]15:10:17.931-408: [Scene/Fight/CardAiAction.lua:76]:----移动    2    5    哪吒
+[Log]15:10:18.136-422: [Common/tools.lua:50]:---寻路    2    5    1    3
+[Log]15:10:18.137-422: [Scene/Fight/FightAStar.lua:104]:------节点呢    哪吒    3
+[Log]15:10:18.138-422: [Scene/Fight/CardAiAction.lua:53]:----target2222    1
+[Log]15:10:18.139-422: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]15:10:18.140-422: [Scene/Fight/FightAStar.lua:104]:------节点呢    沙悟净    3
+[Log]15:10:18.645-456: [Scene/Fight/CardAiAction.lua:76]:----移动    1    5    哪吒
+[Log]15:10:18.848-469: [Common/tools.lua:50]:---寻路    1    5    1    3
+[Log]15:10:18.849-469: [Scene/Fight/FightAStar.lua:104]:------节点呢    哪吒    2
+[Log]15:10:18.851-469: [Scene/Fight/CardAiAction.lua:53]:----target2222    1
+[Log]15:10:18.852-469: [Common/tools.lua:50]:---寻路    3    4    1    3
+[Log]15:10:18.853-469: [Scene/Fight/FightAStar.lua:104]:------节点呢    沙悟净    3
+[Log]15:10:19.355-502: [Scene/Fight/CardAiAction.lua:76]:----移动    2    5    哪吒
+[Log]15:10:19.557-514: [Common/tools.lua:50]:---寻路    2    5    1    3
+[Log]15:10:19.558-514: [Scene/Fight/FightAStar.lua:104]:------节点呢    哪吒    3
+[Log]15:10:19.559-514: [Scene/Fight/CardAiAction.lua:53]:----target2222    1
+[Log]15:10:19.560-514: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]15:10:19.561-514: [Scene/Fight/FightAStar.lua:104]:------节点呢    沙悟净    3
+[Log]15:10:20.63-547: [Scene/Fight/CardAiAction.lua:76]:----移动    1    5    哪吒
+[Log]15:10:20.279-560: [Common/tools.lua:50]:---寻路    1    5    1    3
+[Log]15:10:20.279-560: [Scene/Fight/FightAStar.lua:104]:------节点呢    哪吒    2
+[Log]15:10:20.281-560: [Scene/Fight/CardAiAction.lua:53]:----target2222    1
+[Log]15:10:20.282-560: [Common/tools.lua:50]:---寻路    3    4    1    3
+[Log]15:10:20.283-560: [Scene/Fight/FightAStar.lua:104]:------节点呢    沙悟净    3
+[Log]15:10:20.785-593: [Scene/Fight/CardAiAction.lua:76]:----移动    2    5    哪吒
+[Log]15:10:20.987-606: [Common/tools.lua:50]:---寻路    2    5    1    3
+[Log]15:10:20.988-606: [Scene/Fight/FightAStar.lua:104]:------节点呢    哪吒    3
+[Log]15:10:20.989-606: [Scene/Fight/CardAiAction.lua:53]:----target2222    1
+[Log]15:10:20.990-606: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]15:10:20.991-606: [Scene/Fight/FightAStar.lua:104]:------节点呢    沙悟净    3
+[Log]15:10:21.491-638: [Scene/Fight/CardAiAction.lua:76]:----移动    1    5    哪吒
+[Log]15:10:21.706-651: [Common/tools.lua:50]:---寻路    1    5    1    3
+[Log]15:10:21.707-651: [Scene/Fight/FightAStar.lua:104]:------节点呢    哪吒    2
+[Log]15:10:21.708-651: [Scene/Fight/CardAiAction.lua:53]:----target2222    1
+[Log]15:10:21.710-651: [Common/tools.lua:50]:---寻路    3    4    1    3
+[Log]15:10:21.711-651: [Scene/Fight/FightAStar.lua:104]:------节点呢    沙悟净    3
+[Log]15:10:22.213-684: [Scene/Fight/CardAiAction.lua:76]:----移动    2    5    哪吒
+[Log]15:10:22.428-697: [Common/tools.lua:50]:---寻路    2    5    1    3
+[Log]15:10:22.429-697: [Scene/Fight/FightAStar.lua:104]:------节点呢    哪吒    3
+[Log]15:10:22.430-697: [Scene/Fight/CardAiAction.lua:53]:----target2222    1
+[Log]15:10:22.431-697: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]15:10:22.433-697: [Scene/Fight/FightAStar.lua:104]:------节点呢    沙悟净    3
+[Log]OutLog Finish

@@ -1,0 +1,22 @@
+﻿[Log]OutLog Start
+[Log]11:27:07.270-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x3B360C88
+[Log]11:27:07.275-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x4253A580
+[Exception]LuaException: UI/Fight/MyCardItem:17: field or property luaBehaviour does not exist
+stack traceback:
+	[C]: in function '__index'
+	UI/Fight/MyCardItem:17: in function 'InitView'
+	UI/Fight/MyCardItem:7: in function 'ctor'
+	Common/functions:169: in function 'new'
+	UI/Fight/FightView:48: in function 'InitCard'
+	UI/Fight/FightView:23: in function 'InitView'
+	UI/Fight/FightView:13: in function 'InitPanel'
+	UI/BaseView:15: in function 'Awake'
+	UI/Fight/FightCtrl:13: in function 'OnCreate'
+	UI/BaseCtrl:26: in function <UI/BaseCtrl:25>
+[Log]游戏暂停！
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]11:27:21.406-0: Lua function Network.Unload not exists
+[Log]11:27:21.415-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

@@ -1,0 +1,31 @@
+﻿[Log]OutLog Start
+[Log]11:41:31.223-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x27A7A7E8
+[Log]11:41:31.228-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x3846D1D8
+[Exception]LuaException: UnityEngine/Vector3:62: attempt to index local 'v' (a nil value)
+stack traceback:
+	UnityEngine/Vector3:62: in function <UnityEngine/Vector3:61>
+	[C]: in function 'Begin'
+	UI/Fight/FightView:201: in function 'v'
+	eventlib:184: in function 'fire'
+	events:32: in function 'Brocast'
+	Manager/EventsManager:26: in function 'DispatchEvent'
+	Data/CardInfo:230: in function 'AttackAction'
+	Scene/Fight/FightScene:135: in function 'Attack'
+	Scene/Fight/CardAiAction:126: in function <Scene/Fight/CardAiAction:124>
+[Exception]LuaException: UnityEngine/Vector3:62: attempt to index local 'v' (a nil value)
+stack traceback:
+	UnityEngine/Vector3:62: in function <UnityEngine/Vector3:61>
+	[C]: in function 'Begin'
+	UI/Fight/FightView:201: in function 'v'
+	eventlib:184: in function 'fire'
+	events:32: in function 'Brocast'
+	Manager/EventsManager:26: in function 'DispatchEvent'
+	Data/CardInfo:230: in function 'AttackAction'
+	Scene/Fight/FightScene:135: in function 'Attack'
+	Scene/Fight/CardAiAction:126: in function <Scene/Fight/CardAiAction:124>
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]11:41:35.199-0: Lua function Network.Unload not exists
+[Log]11:41:35.206-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

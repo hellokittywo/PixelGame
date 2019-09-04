@@ -1,0 +1,4 @@
+﻿[Log]OutLog Start
+[Log]10:27:16.996-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x41FCFCE0
+[Log]10:27:17.1-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x41FADFB0
+[Log]OutLog Finish

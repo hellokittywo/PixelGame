@@ -1,0 +1,33 @@
+﻿[Log]OutLog Start
+[Log]08:38:56.167-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x4672A318
+[Exception]LuaException: UI/Fight/FightView:1: module 'UI.BaseView' not found:
+	no field package.preload['UI.BaseView']
+	no file './UI/BaseView.lua'
+	no file 'D:/Program Files (x86)/Unity5.6.4/Editor/lua/UI/BaseView.lua'
+	no file 'D:/Program Files (x86)/Unity5.6.4/Editor/lua/UI/BaseView/init.lua'
+	no file 'E:/MyGame/PixelGame/Assets/LuaFramework/ToLua/Lua/UI/BaseView.lua'
+	no file 'E:/MyGame/PixelGame/Assets/LuaFramework/Lua/UI/BaseView.lua'
+	no file 'c:/luaframework/lua/UI/BaseView.lua'
+	no file '.\UI\BaseView.dll'
+	no file 'D:\Program Files (x86)\Unity5.6.4\Editor\UI\BaseView.dll'
+	no file 'D:\Program Files (x86)\Unity5.6.4\Editor\loadall.dll'
+	no file '.\UI.dll'
+	no file 'D:\Program Files (x86)\Unity5.6.4\Editor\UI.dll'
+	no file 'D:\Program Files (x86)\Unity5.6.4\Editor\loadall.dll'
+stack traceback:
+	[C]: in function 'require'
+	UI/Fight/FightView:1: in main chunk
+	[C]: in function 'require'
+	UI/Fight/FightCtrl:7: in function 'ctor'
+	Common/functions:169: in function 'new'
+	Manager/CtrlManager:39: in function 'CreateCtrl'
+	Manager/CtrlManager:68: in function 'openPanel'
+	Scene/Fight/FightScene:31: in function 'Init'
+	Main.lua:27: in function <Main.lua:16>
+[Log]游戏暂停！
+[Warning]A meta data file (.meta) exists but its asset 'Assets/LuaFramework/Lua/UI/BasePanel.lua' can't be found. When moving or deleting files outside of Unity, please ensure that the corresponding .meta file is moved or deleted along with it.
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]08:39:26.756-0: Lua function Network.Unload not exists
+[Exception]NullReferenceException: Object reference not set to an instance of an object
+[Log]OutLog Finish

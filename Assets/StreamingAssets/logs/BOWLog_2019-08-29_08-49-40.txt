@@ -1,0 +1,13 @@
+﻿[Log]OutLog Start
+[Log]08:49:30.165-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x42997850
+[Log]08:49:30.168-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x4299ED28
+[Error]资源：Prefabs/Fight/FightView 加载为空
+[Exception]KeyNotFoundException: A Prefab with the name 'FightView' not found. 
+Prefabs=[]
+[Log]游戏暂停！
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]08:49:40.582-0: Lua function Network.Unload not exists
+[Log]08:49:40.593-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

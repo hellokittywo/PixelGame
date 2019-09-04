@@ -1,0 +1,28 @@
+﻿[Log]OutLog Start
+[Log]11:42:56.924-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x3FDA5268
+[Log]11:42:56.931-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x3E61C0B0
+[Log]游戏暂停！
+[Exception]LuaException: UI/Fight/FightView:201: attempt to index field 'localPosition' (a nil value)
+stack traceback:
+	UI/Fight/FightView:201: in function 'v'
+	eventlib:184: in function 'fire'
+	events:32: in function 'Brocast'
+	Manager/EventsManager:26: in function 'DispatchEvent'
+	Data/CardInfo:230: in function 'AttackAction'
+	Scene/Fight/FightScene:135: in function 'Attack'
+	Scene/Fight/CardAiAction:126: in function <Scene/Fight/CardAiAction:124>
+[Exception]LuaException: UI/Fight/FightView:201: attempt to index field 'localPosition' (a nil value)
+stack traceback:
+	UI/Fight/FightView:201: in function 'v'
+	eventlib:184: in function 'fire'
+	events:32: in function 'Brocast'
+	Manager/EventsManager:26: in function 'DispatchEvent'
+	Data/CardInfo:230: in function 'AttackAction'
+	Scene/Fight/FightScene:135: in function 'Attack'
+	Scene/Fight/CardAiAction:126: in function <Scene/Fight/CardAiAction:124>
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]11:43:06.930-0: Lua function Network.Unload not exists
+[Log]11:43:06.938-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

@@ -1,0 +1,17 @@
+﻿[Log]OutLog Start
+[Log]17:52:45.142-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x371B4A68
+[Log]17:52:45.147-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x371B0A50
+[Exception]LuaException: Scene/Fight/FightScene:140: attempt to perform arithmetic on a nil value
+stack traceback:
+	Scene/Fight/FightScene:140: in function 'Attack'
+	Scene/Fight/CardAiAction:126: in function <Scene/Fight/CardAiAction:124>
+[Exception]LuaException: Scene/Fight/FightScene:140: attempt to perform arithmetic on a nil value
+stack traceback:
+	Scene/Fight/FightScene:140: in function 'Attack'
+	Scene/Fight/CardAiAction:126: in function <Scene/Fight/CardAiAction:124>
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]17:52:49.832-0: Lua function Network.Unload not exists
+[Log]17:52:49.840-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

@@ -1,0 +1,9 @@
+﻿[Log]OutLog Start
+[Log]08:42:10.963-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x4C8D3EB8
+[Log]08:42:10.967-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x4C938DD8
+[Error]资源：Prefabs/Fight/FightView 加载为空
+[Exception]KeyNotFoundException: A Prefab with the name 'FightView' not found. 
+Prefabs=[]
+[Log]游戏暂停！
+[Log]游戏暂停！
+[Log]OutLog Finish

@@ -1,0 +1,39 @@
+﻿[Log]OutLog Start
+[Log]16:53:02.189-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x38814400
+[Log]16:53:02.194-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x16F862A8
+[Log]游戏暂停！
+[Log]16:53:16.880-742: [Scene/Fight/CardAiAction.lua:66]:----移动    5    5    白龙马
+[Log]16:53:16.882-742: [Scene/Fight/CardAiAction.lua:66]:----移动    3    4    孙悟空
+[Log]16:53:16.883-742: [Scene/Fight/CardAiAction.lua:66]:----移动    5    5    哪吒
+[Log]16:53:16.884-742: [Scene/Fight/CardAiAction.lua:66]:----移动    4    3    沙悟净
+[Log]16:53:16.898-742: [Scene/Fight/CardAiAction.lua:66]:----移动    2    6    唐僧
+[Log]16:53:16.900-742: [Scene/Fight/CardAiAction.lua:66]:----移动    1    2    孙悟空
+[Log]16:53:17.602-785: [Scene/Fight/CardAiAction.lua:66]:----移动    4    5    白龙马
+[Log]16:53:17.603-785: [Scene/Fight/CardAiAction.lua:66]:----移动    3    3    孙悟空
+[Log]16:53:17.604-785: [Scene/Fight/CardAiAction.lua:66]:----移动    4    5    哪吒
+[Log]16:53:17.605-785: [Scene/Fight/CardAiAction.lua:66]:----移动    3    3    沙悟净
+[Log]16:53:17.605-785: [Scene/Fight/CardAiAction.lua:66]:----移动    2    5    唐僧
+[Log]16:53:17.606-785: [Scene/Fight/CardAiAction.lua:66]:----移动    1    3    孙悟空
+[Log]16:53:18.331-829: [Scene/Fight/CardAiAction.lua:66]:----移动    3    5    白龙马
+[Log]16:53:18.332-829: [Scene/Fight/CardAiAction.lua:66]:----移动    2    3    孙悟空
+[Log]16:53:18.332-829: [Scene/Fight/CardAiAction.lua:66]:----移动    3    5    哪吒
+[Log]16:53:18.334-829: [Scene/Fight/CardAiAction.lua:66]:----移动    2    3    沙悟净
+[Log]16:53:18.334-829: [Scene/Fight/CardAiAction.lua:66]:----移动    2    4    唐僧
+[Log]16:53:18.336-829: [Scene/Fight/CardAiAction.lua:66]:----移动    2    3    孙悟空
+[Log]16:53:19.45-872: [Scene/Fight/CardAiAction.lua:66]:----移动    3    4    白龙马
+[Log]16:53:19.46-872: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]16:53:19.47-872: [Scene/Fight/CardAiAction.lua:66]:----移动    3    4    哪吒
+[Log]16:53:19.48-872: [Scene/Fight/CardAiAction.lua:74]:----走不动    沙悟净
+[Log]16:53:19.559-903: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]16:53:19.570-903: [Scene/Fight/CardAiAction.lua:74]:----走不动    沙悟净
+[Log]16:53:20.70-933: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]16:53:20.70-933: [Scene/Fight/CardAiAction.lua:74]:----走不动    沙悟净
+[Log]16:53:20.583-964: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]16:53:20.584-964: [Scene/Fight/CardAiAction.lua:74]:----走不动    沙悟净
+[Log]16:53:21.97-995: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]16:53:21.98-995: [Scene/Fight/CardAiAction.lua:74]:----走不动    沙悟净
+[Log]16:53:21.610-27: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]16:53:21.611-27: [Scene/Fight/CardAiAction.lua:74]:----走不动    沙悟净
+[Log]16:53:22.124-58: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]16:53:22.125-58: [Scene/Fight/CardAiAction.lua:74]:----走不动    沙悟净
+[Log]OutLog Finish

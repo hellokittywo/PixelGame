@@ -1,0 +1,54 @@
+﻿[Log]OutLog Start
+[Log]12:48:42.653-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x16726CC8
+[Log]12:48:42.658-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x16728970
+[Log]12:48:45.154-137: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]12:48:45.157-137: [Common/tools.lua:50]:---寻路    5    6    1    1
+[Log]12:48:45.160-137: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]12:48:45.162-137: [Common/tools.lua:50]:---寻路    1    1    5    6
+[Log]12:48:45.644-166: [Scene/Fight/CardAiAction.lua:61]:----移动    5    5    29
+[Log]12:48:45.646-166: [Scene/Fight/CardAiAction.lua:61]:----移动    1    2    2
+[Log]12:48:45.859-179: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]12:48:45.860-179: [Common/tools.lua:50]:---寻路    5    5    1    2
+[Log]12:48:45.861-179: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]12:48:45.862-179: [Common/tools.lua:50]:---寻路    1    2    5    5
+[Log]12:48:46.372-210: [Scene/Fight/CardAiAction.lua:61]:----移动    4    5    23
+[Log]12:48:46.375-210: [Scene/Fight/CardAiAction.lua:61]:----移动    2    2    8
+[Log]12:48:46.587-223: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]12:48:46.588-223: [Common/tools.lua:50]:---寻路    4    5    2    2
+[Log]12:48:46.589-223: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]12:48:46.590-223: [Common/tools.lua:50]:---寻路    2    2    4    5
+[Log]12:48:47.101-254: [Scene/Fight/CardAiAction.lua:61]:----移动    4    4    22
+[Log]12:48:47.102-254: [Scene/Fight/CardAiAction.lua:61]:----移动    2    3    9
+[Log]12:48:47.317-267: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]12:48:47.317-267: [Common/tools.lua:50]:---寻路    4    4    2    3
+[Log]12:48:47.318-267: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]12:48:47.319-267: [Common/tools.lua:50]:---寻路    2    3    4    4
+[Log]12:48:47.831-298: [Scene/Fight/CardAiAction.lua:61]:----移动    3    4    16
+[Log]12:48:47.832-298: [Scene/Fight/CardAiAction.lua:61]:----移动    3    3    15
+[Log]12:48:48.50-311: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    1
+[Log]12:48:48.55-311: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    1
+[Log]12:48:48.380-331: [UI/Fight/CardItem.lua:31]:----雪梨    90
+[Log]12:48:49.373-391: [UI/Fight/CardItem.lua:31]:----雪梨    80
+[Log]12:48:50.385-452: [UI/Fight/CardItem.lua:31]:----雪梨    70
+[Log]12:48:51.378-512: [UI/Fight/CardItem.lua:31]:----雪梨    60
+[Log]12:48:52.388-573: [UI/Fight/CardItem.lua:31]:----雪梨    50
+[Log]12:48:53.382-633: [UI/Fight/CardItem.lua:31]:----雪梨    40
+[Log]12:48:54.378-693: [UI/Fight/CardItem.lua:31]:----雪梨    30
+[Log]12:48:55.387-754: [UI/Fight/CardItem.lua:31]:----雪梨    20
+[Log]12:48:56.381-814: [UI/Fight/CardItem.lua:31]:----雪梨    10
+[Exception]LuaException: UI/Fight/FightView:171: field or property text does not exist
+stack traceback:
+	[C]: in function '__newindex'
+	UI/Fight/FightView:171: in function 'v'
+	eventlib:184: in function 'fire'
+	events:32: in function 'Brocast'
+	Manager/EventsManager:24: in function 'DispatchEvent'
+	Scene/Fight/FightScene:125: in function 'Attack'
+	Scene/Fight/CardAiAction:79: in function 'Attack'
+	Scene/Fight/CardAiAction:83: in function <Scene/Fight/CardAiAction:77>
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]12:49:01.79-0: Lua function Network.Unload not exists
+[Log]12:49:01.88-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

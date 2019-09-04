@@ -1,0 +1,35 @@
+﻿[Log]OutLog Start
+[Log]23:15:20.753-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x180AE7E0
+[Log]23:15:20.758-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x18088618
+[Log]23:15:33.131-732: [Scene/Fight/CardAiAction.lua:69]:----移动    4    4    唐僧
+[Log]23:15:33.134-732: [Scene/Fight/CardAiAction.lua:69]:----移动    3    4    孙悟空
+[Log]23:15:33.136-732: [Scene/Fight/CardAiAction.lua:69]:----移动    2    6    沙悟净
+[Log]23:15:33.137-732: [Scene/Fight/CardAiAction.lua:69]:----移动    5    4    猪八戒
+[Log]23:15:33.138-732: [Scene/Fight/CardAiAction.lua:69]:----移动    6    6    哪吒
+[Log]23:15:33.861-776: [Scene/Fight/CardAiAction.lua:69]:----移动    4    3    唐僧
+[Log]23:15:33.862-776: [Scene/Fight/CardAiAction.lua:69]:----移动    3    3    孙悟空
+[Log]23:15:33.863-776: [Scene/Fight/CardAiAction.lua:69]:----移动    2    5    沙悟净
+[Log]23:15:33.865-776: [Scene/Fight/CardAiAction.lua:69]:----移动    5    3    猪八戒
+[Log]23:15:33.866-776: [Scene/Fight/CardAiAction.lua:69]:----移动    6    5    哪吒
+[Log]23:15:34.590-820: [Scene/Fight/CardAiAction.lua:69]:----移动    4    2    唐僧
+[Log]23:15:34.591-820: [Scene/Fight/CardAiAction.lua:69]:----移动    3    2    孙悟空
+[Log]23:15:34.592-820: [Scene/Fight/CardAiAction.lua:69]:----移动    2    4    沙悟净
+[Log]23:15:34.593-820: [Scene/Fight/CardAiAction.lua:69]:----移动    5    2    猪八戒
+[Log]23:15:34.594-820: [Scene/Fight/CardAiAction.lua:69]:----移动    5    5    哪吒
+[Log]23:15:35.318-864: [Scene/Fight/CardAiAction.lua:69]:----移动    4    1    唐僧
+[Log]23:15:35.319-864: [Scene/Fight/CardAiAction.lua:69]:----移动    2    2    孙悟空
+[Log]23:15:35.320-864: [Scene/Fight/CardAiAction.lua:69]:----移动    2    3    沙悟净
+[Log]23:15:35.321-864: [Scene/Fight/CardAiAction.lua:69]:----移动    5    1    猪八戒
+[Log]23:15:35.322-864: [Scene/Fight/CardAiAction.lua:69]:----移动    5    4    哪吒
+[Log]23:15:36.47-908: [Scene/Fight/CardAiAction.lua:69]:----移动    3    1    唐僧
+[Log]23:15:36.48-908: [Scene/Fight/CardAiAction.lua:69]:----移动    1    3    沙悟净
+[Log]23:15:36.49-908: [Scene/Fight/CardAiAction.lua:69]:----移动    5    2    猪八戒
+[Log]23:15:36.50-908: [Scene/Fight/CardAiAction.lua:69]:----移动    4    4    哪吒
+[Log]23:15:36.776-952: [Scene/Fight/CardAiAction.lua:69]:----移动    2    1    唐僧
+[Log]23:15:36.778-952: [Scene/Fight/CardAiAction.lua:69]:----移动    1    2    沙悟净
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]23:15:55.967-0: Lua function Network.Unload not exists
+[Log]23:15:55.974-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

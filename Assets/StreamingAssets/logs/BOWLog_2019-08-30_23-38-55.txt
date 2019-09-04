@@ -1,0 +1,16 @@
+﻿[Log]OutLog Start
+[Log]23:38:49.214-2: [Data/CardInfo.lua:30]:----血量    1600
+[Log]23:38:49.216-2: [Data/CardInfo.lua:30]:----血量    1200
+[Log]23:38:49.218-2: [Data/CardInfo.lua:30]:----血量    2000
+[Log]23:38:49.219-2: [Data/CardInfo.lua:30]:----血量    1300
+[Log]23:38:49.221-2: [Data/CardInfo.lua:30]:----血量    1500
+[Log]23:38:49.223-2: [Data/CardInfo.lua:30]:----血量    1400
+[Log]23:38:49.231-2: [Data/CardInfo.lua:30]:----血量    1600
+[Log]23:38:49.235-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x9BB3E0
+[Log]23:38:49.239-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x9C4398
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]23:38:55.577-0: Lua function Network.Unload not exists
+[Log]23:38:55.599-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

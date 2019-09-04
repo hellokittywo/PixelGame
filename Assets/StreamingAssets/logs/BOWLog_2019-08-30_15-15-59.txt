@@ -1,0 +1,38 @@
+﻿[Log]OutLog Start
+[Log]15:14:33.357-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x282200F8
+[Log]15:14:33.363-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x1672F6F0
+[Log]游戏暂停！
+[Log]15:14:43.687-243: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:14:43.689-243: [Common/tools.lua:50]:---寻路    5    6    1    1
+[Log]15:14:43.691-243: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:14:43.693-243: [Common/tools.lua:50]:---寻路    1    1    5    6
+[Log]15:14:44.184-273: [Scene/Fight/CardAiAction.lua:61]:----移动    5    5    29
+[Log]15:14:44.186-273: [Scene/Fight/CardAiAction.lua:61]:----移动    1    2    2
+[Log]15:14:44.399-286: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:14:44.400-286: [Common/tools.lua:50]:---寻路    5    5    1    2
+[Log]15:14:44.401-286: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:14:44.402-286: [Common/tools.lua:50]:---寻路    1    2    5    5
+[Log]15:14:44.912-317: [Scene/Fight/CardAiAction.lua:61]:----移动    4    5    23
+[Log]15:14:44.913-317: [Scene/Fight/CardAiAction.lua:61]:----移动    2    2    8
+[Log]15:14:45.129-330: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:14:45.132-330: [Common/tools.lua:50]:---寻路    4    5    2    2
+[Log]15:14:45.135-330: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:14:45.136-330: [Common/tools.lua:50]:---寻路    2    2    4    5
+[Log]15:14:45.641-361: [Scene/Fight/CardAiAction.lua:61]:----移动    4    4    22
+[Log]15:14:45.642-361: [Scene/Fight/CardAiAction.lua:61]:----移动    2    3    9
+[Log]15:14:45.856-374: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:14:45.857-374: [Common/tools.lua:50]:---寻路    4    4    2    3
+[Log]15:14:45.858-374: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:14:45.859-374: [Common/tools.lua:50]:---寻路    2    3    4    4
+[Log]15:14:46.370-405: [Scene/Fight/CardAiAction.lua:61]:----移动    3    4    16
+[Log]15:14:46.371-405: [Scene/Fight/CardAiAction.lua:61]:----移动    3    3    15
+[Log]15:14:46.571-417: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    1
+[Log]15:14:46.573-417: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    1
+[Log]游戏暂停！
+[Log]游戏暂停！
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]15:15:59.639-0: Lua function Network.Unload not exists
+[Log]15:15:59.647-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

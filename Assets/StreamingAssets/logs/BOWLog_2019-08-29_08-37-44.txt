@@ -1,0 +1,8 @@
+﻿[Log]OutLog Start
+[Log]游戏暂停！
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]08:37:44.650-0: Lua function Network.Unload not exists
+[Log]08:37:44.660-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

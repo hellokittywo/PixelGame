@@ -1,0 +1,24 @@
+﻿[Log]OutLog Start
+[Exception]LuaException: UI/Fight/FightCtrl:1: module 'UI.BaseCtrl' not found:
+	no field package.preload['UI.BaseCtrl']
+	no file './UI/BaseCtrl.lua'
+	no file 'D:/Program Files (x86)/Unity5.6.4/Editor/lua/UI/BaseCtrl.lua'
+	no file 'D:/Program Files (x86)/Unity5.6.4/Editor/lua/UI/BaseCtrl/init.lua'
+	no file 'E:/MyGame/PixelGame/Assets/LuaFramework/ToLua/Lua/UI/BaseCtrl.lua'
+	no file 'E:/MyGame/PixelGame/Assets/LuaFramework/Lua/UI/BaseCtrl.lua'
+	no file 'c:/luaframework/lua/UI/BaseCtrl.lua'
+	no file '.\UI\BaseCtrl.dll'
+	no file 'D:\Program Files (x86)\Unity5.6.4\Editor\UI\BaseCtrl.dll'
+	no file 'D:\Program Files (x86)\Unity5.6.4\Editor\loadall.dll'
+	no file '.\UI.dll'
+	no file 'D:\Program Files (x86)\Unity5.6.4\Editor\UI.dll'
+	no file 'D:\Program Files (x86)\Unity5.6.4\Editor\loadall.dll'
+stack traceback:
+	[C]: in function 'require'
+	UI/Fight/FightCtrl:1: in main chunk
+	[C]: in function 'require'
+	Manager/CtrlManager:39: in function 'CreateCtrl'
+	Manager/CtrlManager:68: in function 'openPanel'
+	Scene/Fight/FightScene:31: in function 'Init'
+	Main.lua:27: in function <Main.lua:16>
+[Log]OutLog Finish

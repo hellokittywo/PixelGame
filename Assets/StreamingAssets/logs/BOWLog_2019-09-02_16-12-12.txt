@@ -1,0 +1,53 @@
+﻿[Log]OutLog Start
+[Log]16:11:40.946-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x37498D00
+[Log]16:11:40.951-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x374A9AE0
+[Log]游戏暂停！
+[Log]游戏暂停！
+[Exception]LuaException: UI/Fight/HurtEffectItem:17: attempt to index global 'info' (a nil value)
+stack traceback:
+	UI/Fight/HurtEffectItem:17: in function 'InitView'
+	UI/Fight/HurtEffectItem:6: in function 'ctor'
+	Common/functions:169: in function 'new'
+	Scene/Fight/HurtEffect:5: in function 'ShowHurt'
+	UI/Fight/CardItem:30: in function 'HurtAction'
+	UI/Fight/FightView:65: in function 'v'
+	eventlib:184: in function 'fire'
+	events:32: in function 'Brocast'
+	Manager/EventsManager:26: in function 'DispatchEvent'
+	Data/CardInfo:242: in function 'BeAttack'
+	Scene/Fight/FightScene:139: in function 'Attack'
+	Scene/Fight/CardAiAction:126: in function <Scene/Fight/CardAiAction:124>
+[Exception]LuaException: UI/Fight/HurtEffectItem:17: attempt to index global 'info' (a nil value)
+stack traceback:
+	UI/Fight/HurtEffectItem:17: in function 'InitView'
+	UI/Fight/HurtEffectItem:6: in function 'ctor'
+	Common/functions:169: in function 'new'
+	Scene/Fight/HurtEffect:5: in function 'ShowHurt'
+	UI/Fight/CardItem:30: in function 'HurtAction'
+	UI/Fight/FightView:65: in function 'v'
+	eventlib:184: in function 'fire'
+	events:32: in function 'Brocast'
+	Manager/EventsManager:26: in function 'DispatchEvent'
+	Data/CardInfo:242: in function 'BeAttack'
+	Scene/Fight/FightScene:139: in function 'Attack'
+	Scene/Fight/CardAiAction:126: in function <Scene/Fight/CardAiAction:124>
+[Exception]LuaException: UI/Fight/HurtEffectItem:17: attempt to index global 'info' (a nil value)
+stack traceback:
+	UI/Fight/HurtEffectItem:17: in function 'InitView'
+	UI/Fight/HurtEffectItem:6: in function 'ctor'
+	Common/functions:169: in function 'new'
+	Scene/Fight/HurtEffect:5: in function 'ShowHurt'
+	UI/Fight/CardItem:30: in function 'HurtAction'
+	UI/Fight/FightView:65: in function 'v'
+	eventlib:184: in function 'fire'
+	events:32: in function 'Brocast'
+	Manager/EventsManager:26: in function 'DispatchEvent'
+	Data/CardInfo:242: in function 'BeAttack'
+	Scene/Fight/FightScene:139: in function 'Attack'
+	Scene/Fight/CardAiAction:126: in function <Scene/Fight/CardAiAction:124>
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]16:12:12.550-0: Lua function Network.Unload not exists
+[Log]16:12:12.558-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

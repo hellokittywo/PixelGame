@@ -1,0 +1,22 @@
+﻿[Log]OutLog Start
+[Log]10:25:13.456-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x3E5B5578
+[Log]10:25:13.460-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x3E61E078
+[Log]10:25:20.193-397: [UI/Fight/CardItem.lua:38]:-----卡牌222-----
+[Log]10:25:21.187-457: [UI/Fight/CardItem.lua:38]:-----卡牌222-----
+[Log]10:25:21.188-457: [UI/Fight/CardItem.lua:38]:-----卡牌222-----
+[Log]10:25:21.189-457: [UI/Fight/CardItem.lua:38]:-----卡牌222-----
+[Log]10:25:22.197-518: [UI/Fight/CardItem.lua:38]:-----卡牌222-----
+[Log]10:25:22.199-518: [UI/Fight/CardItem.lua:38]:-----卡牌222-----
+[Log]10:25:22.200-518: [UI/Fight/CardItem.lua:38]:-----卡牌222-----
+[Log]10:25:23.191-578: [UI/Fight/CardItem.lua:38]:-----卡牌222-----
+[Log]10:25:23.192-578: [UI/Fight/CardItem.lua:38]:-----卡牌222-----
+[Log]10:25:23.193-578: [UI/Fight/CardItem.lua:38]:-----卡牌222-----
+[Log]10:25:23.194-578: [UI/Fight/CardItem.lua:38]:-----卡牌222-----
+[Log]10:25:24.185-638: [UI/Fight/CardItem.lua:38]:-----卡牌222-----
+[Log]10:25:24.186-638: [UI/Fight/CardItem.lua:35]:-----卡牌111-----
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]10:26:07.943-0: Lua function Network.Unload not exists
+[Log]10:26:07.953-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

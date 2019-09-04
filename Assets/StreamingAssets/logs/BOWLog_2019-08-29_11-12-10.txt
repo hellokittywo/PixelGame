@@ -1,0 +1,18 @@
+﻿[Log]OutLog Start
+[Exception]LuaException: Manager/CardManager:62: attempt to compare two nil values
+stack traceback:
+	Manager/CardManager:62: in function <Manager/CardManager:61>
+	[C]: in function 'sort'
+	Manager/CardManager:61: in function 'SortList'
+	Manager/CardManager:14: in function 'InitData'
+	Data/PlayerInfo:10: in function 'InitData'
+	Manager/PlayerManager:37: in function 'InitNewPlayer'
+	Manager/PlayerManager:22: in function 'Init'
+	Main.lua:23: in function <Main.lua:16>
+[Log]游戏暂停！
+[Log]游戏暂停！
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]11:12:10.107-0: Lua function Network.Unload not exists
+[Exception]NullReferenceException: Object reference not set to an instance of an object
+[Log]OutLog Finish

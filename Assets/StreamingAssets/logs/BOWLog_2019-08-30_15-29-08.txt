@@ -1,0 +1,74 @@
+﻿[Log]OutLog Start
+[Log]15:29:01.803-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x15AF3768
+[Log]15:29:01.808-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x16651920
+[Log]15:29:03.762-110: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:29:03.765-110: [Common/tools.lua:50]:---寻路    3    5    1    1
+[Log]15:29:03.767-110: [Common/tools.lua:50]:1-------------当前探索结点    3    5    0    0    4    parent:nil
+[Log]15:29:03.769-110: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    13    3    parent:    3    5
+[Log]15:29:03.771-110: [Common/tools.lua:50]:3-------------当前探索结点    3    3    1    8    3    parent:    3    4
+[Log]15:29:03.774-110: [Common/tools.lua:50]:4-------------当前探索结点    3    2    1    5    3    parent:    3    3
+[Log]15:29:03.776-110: [Common/tools.lua:50]:5-------------当前探索结点    2    2    1    2    3    parent:    3    2
+[Log]15:29:03.790-110: [Common/tools.lua:50]:6-------------当前探索结点    2    1    1    1    3    parent:    2    2
+[Log]15:29:03.792-110: [Common/tools.lua:50]:7-------------当前探索结点    1    1    1    0    3    parent:    2    1
+[Log]15:29:03.794-110: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:29:03.795-110: [Common/tools.lua:50]:---寻路    1    1    3    5
+[Log]15:29:03.797-110: [Common/tools.lua:50]:1-------------当前探索结点    1    1    0    0    4    parent:nil
+[Log]15:29:03.799-110: [Common/tools.lua:50]:2-------------当前探索结点    1    2    1    13    3    parent:    1    1
+[Log]15:29:03.801-110: [Common/tools.lua:50]:3-------------当前探索结点    1    3    1    8    3    parent:    1    2
+[Log]15:29:03.803-110: [Common/tools.lua:50]:4-------------当前探索结点    1    4    1    5    3    parent:    1    3
+[Log]15:29:03.806-110: [Common/tools.lua:50]:5-------------当前探索结点    2    4    1    2    3    parent:    1    4
+[Log]15:29:03.808-110: [Common/tools.lua:50]:6-------------当前探索结点    2    5    1    1    3    parent:    2    4
+[Log]15:29:03.810-110: [Common/tools.lua:50]:7-------------当前探索结点    3    5    1    0    3    parent:    2    5
+[Log]15:29:04.249-137: [Scene/Fight/CardAiAction.lua:62]:----移动    3    4    16
+[Log]15:29:04.251-137: [Scene/Fight/CardAiAction.lua:62]:----移动    1    2    2
+[Log]15:29:04.463-150: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:29:04.464-150: [Common/tools.lua:50]:---寻路    3    4    1    2
+[Log]15:29:04.465-150: [Common/tools.lua:50]:1-------------当前探索结点    3    4    0    0    4    parent:nil
+[Log]15:29:04.466-150: [Common/tools.lua:50]:2-------------当前探索结点    3    3    1    5    3    parent:    3    4
+[Log]15:29:04.466-150: [Common/tools.lua:50]:3-------------当前探索结点    2    3    1    2    3    parent:    3    3
+[Log]15:29:04.467-150: [Common/tools.lua:50]:4-------------当前探索结点    2    2    1    1    3    parent:    2    3
+[Log]15:29:04.468-150: [Common/tools.lua:50]:5-------------当前探索结点    1    2    1    0    3    parent:    2    2
+[Log]15:29:04.469-150: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:29:04.470-150: [Common/tools.lua:50]:---寻路    1    2    3    4
+[Log]15:29:04.471-150: [Common/tools.lua:50]:1-------------当前探索结点    1    2    0    0    4    parent:nil
+[Log]15:29:04.471-150: [Common/tools.lua:50]:2-------------当前探索结点    1    3    1    5    3    parent:    1    2
+[Log]15:29:04.472-150: [Common/tools.lua:50]:3-------------当前探索结点    2    3    1    2    3    parent:    1    3
+[Log]15:29:04.473-150: [Common/tools.lua:50]:4-------------当前探索结点    2    4    1    1    3    parent:    2    3
+[Log]15:29:04.474-150: [Common/tools.lua:50]:5-------------当前探索结点    3    4    1    0    3    parent:    2    4
+[Log]15:29:04.967-180: [Scene/Fight/CardAiAction.lua:62]:----移动    3    3    15
+[Log]15:29:04.968-180: [Scene/Fight/CardAiAction.lua:62]:----移动    1    3    3
+[Log]15:29:05.184-193: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:29:05.185-193: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]15:29:05.186-193: [Common/tools.lua:50]:1-------------当前探索结点    3    3    0    0    4    parent:nil
+[Log]15:29:05.187-193: [Common/tools.lua:50]:2-------------当前探索结点    2    3    1    1    3    parent:    3    3
+[Log]15:29:05.188-193: [Common/tools.lua:50]:3-------------当前探索结点    1    3    1    0    3    parent:    2    3
+[Log]15:29:05.188-193: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:29:05.189-193: [Common/tools.lua:50]:---寻路    1    3    3    3
+[Log]15:29:05.190-193: [Common/tools.lua:50]:1-------------当前探索结点    1    3    0    0    4    parent:nil
+[Log]15:29:05.191-193: [Common/tools.lua:50]:2-------------当前探索结点    2    3    1    1    3    parent:    1    3
+[Log]15:29:05.191-193: [Common/tools.lua:50]:3-------------当前探索结点    3    3    1    0    3    parent:    2    3
+[Log]15:29:05.697-224: [Scene/Fight/CardAiAction.lua:62]:----移动    2    3    9
+[Log]15:29:05.698-224: [Scene/Fight/CardAiAction.lua:62]:----移动    2    3    9
+[Log]15:29:05.912-237: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:29:05.913-237: [Common/tools.lua:50]:---寻路    2    3    2    3
+[Log]15:29:05.914-237: [Common/tools.lua:50]:1-------------当前探索结点    2    3    0    0    4    parent:nil
+[Log]15:29:05.916-237: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:29:05.916-237: [Common/tools.lua:50]:---寻路    2    3    2    3
+[Log]15:29:05.917-237: [Common/tools.lua:50]:1-------------当前探索结点    2    3    0    0    4    parent:nil
+[Exception]LuaException: event:171: Scene/Fight/FightScene:70: attempt to index local 'data' (a nil value)
+stack traceback:
+	Scene/Fight/FightScene:70: in function 'GetPosByXY'
+	Scene/Fight/CardAiAction:61: in function 'func'
+	System/Timer:58: in function <System/Timer:49>
+	[C]: in function 'f'
+	event:166: in function 'UpdateBeat'
+	event:203: in function <event:201>
+[Exception]LuaException: event:171: Scene/Fight/FightScene:70: attempt to index local 'data' (a nil value)
+stack traceback:
+	Scene/Fight/FightScene:70: in function 'GetPosByXY'
+	Scene/Fight/CardAiAction:61: in function 'func'
+	System/Timer:58: in function <System/Timer:49>
+	[C]: in function 'f'
+	event:166: in function 'UpdateBeat'
+	event:203: in function <event:201>
+[Log]OutLog Finish

@@ -1,0 +1,30 @@
+﻿[Log]OutLog Start
+[Log]23:15:58.642-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x180AE7E0
+[Log]23:15:58.647-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x18088618
+[Log]23:16:09.242-626: [Scene/Fight/CardAiAction.lua:69]:----移动    4    4    猪八戒
+[Log]23:16:09.246-626: [Scene/Fight/CardAiAction.lua:69]:----移动    3    4    孙悟空
+[Log]23:16:09.247-626: [Scene/Fight/CardAiAction.lua:69]:----移动    2    6    唐僧
+[Log]23:16:09.249-626: [Scene/Fight/CardAiAction.lua:69]:----移动    5    4    沙悟净
+[Log]23:16:09.250-626: [Scene/Fight/CardAiAction.lua:69]:----移动    6    6    哪吒
+[Log]23:16:09.971-670: [Scene/Fight/CardAiAction.lua:69]:----移动    4    3    猪八戒
+[Log]23:16:09.973-670: [Scene/Fight/CardAiAction.lua:69]:----移动    3    3    孙悟空
+[Log]23:16:09.974-670: [Scene/Fight/CardAiAction.lua:69]:----移动    2    5    唐僧
+[Log]23:16:09.975-670: [Scene/Fight/CardAiAction.lua:69]:----移动    5    3    沙悟净
+[Log]23:16:09.975-670: [Scene/Fight/CardAiAction.lua:69]:----移动    6    5    哪吒
+[Log]23:16:10.699-714: [Scene/Fight/CardAiAction.lua:69]:----移动    4    2    猪八戒
+[Log]23:16:10.702-714: [Scene/Fight/CardAiAction.lua:69]:----移动    3    2    孙悟空
+[Log]23:16:10.704-714: [Scene/Fight/CardAiAction.lua:69]:----移动    2    4    唐僧
+[Log]23:16:10.707-714: [Scene/Fight/CardAiAction.lua:69]:----移动    5    2    沙悟净
+[Log]23:16:10.710-714: [Scene/Fight/CardAiAction.lua:69]:----移动    5    5    哪吒
+[Log]23:16:11.414-757: [Scene/Fight/CardAiAction.lua:69]:----移动    4    1    猪八戒
+[Log]23:16:11.416-757: [Scene/Fight/CardAiAction.lua:69]:----移动    2    2    孙悟空
+[Log]23:16:11.417-757: [Scene/Fight/CardAiAction.lua:69]:----移动    2    3    唐僧
+[Log]23:16:11.418-757: [Scene/Fight/CardAiAction.lua:69]:----移动    5    1    沙悟净
+[Log]23:16:11.419-757: [Scene/Fight/CardAiAction.lua:69]:----移动    5    4    哪吒
+[Log]23:16:12.143-801: [Scene/Fight/CardAiAction.lua:69]:----移动    3    1    猪八戒
+[Log]23:16:12.144-801: [Scene/Fight/CardAiAction.lua:69]:----移动    1    3    唐僧
+[Log]23:16:12.145-801: [Scene/Fight/CardAiAction.lua:69]:----移动    5    2    沙悟净
+[Log]23:16:12.146-801: [Scene/Fight/CardAiAction.lua:69]:----移动    4    4    哪吒
+[Log]23:16:12.872-845: [Scene/Fight/CardAiAction.lua:69]:----移动    2    1    猪八戒
+[Log]23:16:12.875-845: [Scene/Fight/CardAiAction.lua:69]:----移动    1    2    唐僧
+[Log]OutLog Finish

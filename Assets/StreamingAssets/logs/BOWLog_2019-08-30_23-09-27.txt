@@ -1,0 +1,55 @@
+﻿[Log]OutLog Start
+[Log]23:09:08.188-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x3A2C42B0
+[Log]23:09:08.194-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x3A2F1808
+[Log]23:09:17.57-522: [Scene/Fight/CardAiAction.lua:66]:----移动    4    4    沙悟净
+[Log]23:09:17.255-534: [Scene/Fight/CardAiAction.lua:66]:----移动    3    4    孙悟空
+[Log]23:09:17.455-546: [Scene/Fight/CardAiAction.lua:66]:----移动    3    6    哪吒
+[Log]23:09:17.653-558: [Scene/Fight/CardAiAction.lua:66]:----移动    5    4    白龙马
+[Log]23:09:17.785-566: [Scene/Fight/CardAiAction.lua:66]:----移动    4    3    沙悟净
+[Log]23:09:17.851-570: [Scene/Fight/CardAiAction.lua:66]:----移动    6    6    唐僧
+[Log]23:09:17.984-578: [Scene/Fight/CardAiAction.lua:66]:----移动    3    3    孙悟空
+[Log]23:09:18.50-582: [Scene/Fight/CardAiAction.lua:66]:----移动    6    4    猪八戒
+[Log]23:09:18.182-590: [Scene/Fight/CardAiAction.lua:66]:----移动    3    5    哪吒
+[Log]23:09:18.249-594: [Scene/Fight/CardAiAction.lua:66]:----移动    1    2    孙悟空
+[Log]23:09:18.382-602: [Scene/Fight/CardAiAction.lua:66]:----移动    5    3    白龙马
+[Log]23:09:18.515-610: [Scene/Fight/CardAiAction.lua:66]:----移动    4    2    沙悟净
+[Log]23:09:18.580-614: [Scene/Fight/CardAiAction.lua:66]:----移动    6    5    唐僧
+[Log]23:09:18.713-622: [Scene/Fight/CardAiAction.lua:66]:----移动    3    2    孙悟空
+[Log]23:09:18.780-626: [Scene/Fight/CardAiAction.lua:66]:----移动    6    3    猪八戒
+[Log]23:09:18.913-634: [Scene/Fight/CardAiAction.lua:66]:----移动    3    4    哪吒
+[Log]23:09:18.978-638: [Scene/Fight/CardAiAction.lua:66]:----移动    2    2    孙悟空
+[Log]23:09:19.111-646: [Scene/Fight/CardAiAction.lua:66]:----移动    4    3    白龙马
+[Log]23:09:19.242-654: [Scene/Fight/CardAiAction.lua:66]:----移动    4    3    沙悟净
+[Log]23:09:19.309-658: [Scene/Fight/CardAiAction.lua:66]:----移动    5    5    唐僧
+[Log]23:09:19.442-666: [Scene/Fight/CardAiAction.lua:66]:----移动    2    2    孙悟空
+[Log]23:09:19.508-670: [Scene/Fight/CardAiAction.lua:66]:----移动    6    2    猪八戒
+[Log]23:09:19.641-678: [Scene/Fight/CardAiAction.lua:66]:----移动    3    3    哪吒
+[Log]23:09:19.840-690: [Scene/Fight/CardAiAction.lua:66]:----移动    3    3    白龙马
+[Log]23:09:19.972-698: [Scene/Fight/CardAiAction.lua:66]:----移动    3    3    沙悟净
+[Log]23:09:20.27-701: [Scene/Fight/CardAiAction.lua:66]:----移动    5    4    唐僧
+[Log]23:09:20.160-709: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:09:20.227-713: [Scene/Fight/CardAiAction.lua:66]:----移动    5    2    猪八戒
+[Log]23:09:20.661-739: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:09:20.743-744: [Scene/Fight/CardAiAction.lua:66]:----移动    4    4    唐僧
+[Log]23:09:20.942-756: [Scene/Fight/CardAiAction.lua:66]:----移动    4    2    猪八戒
+[Log]23:09:21.174-770: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:09:21.473-788: [Scene/Fight/CardAiAction.lua:66]:----移动    3    4    唐僧
+[Log]23:09:21.671-800: [Scene/Fight/CardAiAction.lua:66]:----移动    3    2    猪八戒
+[Log]23:09:21.687-801: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:09:22.201-832: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:09:22.203-832: [Scene/Fight/CardAiAction.lua:66]:----移动    2    4    唐僧
+[Log]23:09:22.715-863: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:09:22.930-876: [Scene/Fight/CardAiAction.lua:66]:----移动    2    3    唐僧
+[Log]23:09:23.228-894: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:09:23.742-925: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:09:24.255-956: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:09:24.769-987: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:09:25.283-19: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:09:25.797-50: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]23:09:26.314-81: [Scene/Fight/CardAiAction.lua:74]:----走不动    孙悟空
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]23:09:27.71-0: Lua function Network.Unload not exists
+[Log]23:09:27.79-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

@@ -1,0 +1,15 @@
+﻿[Log]OutLog Start
+[Log]11:44:32.765-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x3B4F4B10
+[Log]11:44:32.770-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x3E5B5930
+[Log]11:44:37.522-277: [UI/Fight/FightView.lua:201]:----啊哈哈    孙悟空    table:0x3E61C570    table:0x3E5E2AA8
+[Log]11:44:37.529-277: [UI/Fight/FightView.lua:201]:----啊哈哈    孙悟空    table:0x3E61C570    table:0x3E5ED088
+[Log]11:44:37.530-277: [UI/Fight/FightView.lua:201]:----啊哈哈    孙悟空    table:0x3E61C570    table:0x3E557A70
+[Log]11:44:37.531-277: [UI/Fight/FightView.lua:201]:----啊哈哈    白龙马    table:0x3E5FB6F8    table:0x3E547D40
+[Log]11:44:37.534-277: [UI/Fight/FightView.lua:201]:----啊哈哈    孙悟空    table:0x3E61C570    table:0x3B4E2140
+[Log]11:44:38.520-337: [UI/Fight/FightView.lua:201]:----啊哈哈    孙悟空    table:0x3E61C570    table:0x3E648FA0
+[Log]11:44:38.521-337: [UI/Fight/FightView.lua:201]:----啊哈哈    孙悟空    table:0x3E61C570    table:0x3E649AB8
+[Log]11:44:38.522-337: [UI/Fight/FightView.lua:201]:----啊哈哈    孙悟空    table:0x3E61C570    table:0x3E64A5D0
+[Log]11:44:38.523-337: [UI/Fight/FightView.lua:201]:----啊哈哈    猪八戒    table:0x3E5B01D0    table:0x3E64B0E8
+[Log]11:44:38.525-337: [UI/Fight/FightView.lua:201]:----啊哈哈    孙悟空    table:0x3E61C570    table:0x3E64BC40
+[Log]11:44:39.513-397: [UI/Fight/FightView.lua:201]:----啊哈哈    孙悟空    table:0x3E61C570    table:0x3FDA7530
+[Log]OutLog Finish

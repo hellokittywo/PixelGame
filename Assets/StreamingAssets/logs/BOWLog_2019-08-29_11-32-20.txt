@@ -1,0 +1,11 @@
+﻿[Log]OutLog Start
+[Log]11:32:14.331-2: [Scene/Fight/FightScene.lua:49]:----坐标呢    1    0    0    1    -1870    310
+[Log]11:32:14.333-2: [Scene/Fight/FightScene.lua:49]:----坐标呢    2    0    0    2    -1770    310
+[Log]11:32:14.335-2: [Scene/Fight/FightScene.lua:49]:----坐标呢    3    0    0    3    -1670    310
+[Log]11:32:14.337-2: [Scene/Fight/FightScene.lua:49]:----坐标呢    4    0    0    4    -1570    310
+[Log]11:32:14.340-2: [Scene/Fight/FightScene.lua:49]:----坐标呢    5    0    0    5    -1470    310
+[Log]11:32:14.342-2: [Scene/Fight/FightScene.lua:49]:----坐标呢    6    0    0    6    -1370    310
+[Log]11:32:14.346-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x18533698
+[Log]11:32:14.352-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x18548638
+[Log]游戏暂停！
+[Log]OutLog Finish

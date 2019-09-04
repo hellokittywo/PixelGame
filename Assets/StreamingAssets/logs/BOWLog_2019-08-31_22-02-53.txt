@@ -1,0 +1,48 @@
+﻿[Log]OutLog Start
+[Log]22:01:53.287-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x15217EC8
+[Log]22:01:53.292-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x152074C0
+[Log]22:01:55.945-175: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]22:01:55.948-175: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]22:01:55.951-175: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]22:01:55.953-175: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]22:01:55.956-175: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]22:01:55.958-175: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]22:01:56.444-210: [Scene/Fight/CardAiAction.lua:76]:----移动    3    5    哪吒
+[Log]22:01:56.655-225: [Common/tools.lua:50]:---寻路    3    5    1    3
+[Log]22:01:56.655-225: [Common/tools.lua:50]:-------------当前探索起点    3    5    1
+[Log]22:01:56.657-225: [Common/tools.lua:50]:---寻路    4    3    1    3
+[Log]22:01:56.658-225: [Common/tools.lua:50]:-------------当前探索起点    4    3    1
+[Log]22:01:57.165-262: [Scene/Fight/CardAiAction.lua:76]:----移动    3    4    哪吒
+[Log]22:01:57.375-277: [Common/tools.lua:50]:---寻路    3    4    1    3
+[Log]22:01:57.376-277: [Common/tools.lua:50]:-------------当前探索起点    3    4    1
+[Log]22:01:57.378-277: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]22:01:57.379-277: [Common/tools.lua:50]:-------------当前探索起点    3    3    1
+[Log]22:01:57.884-314: [Scene/Fight/CardAiAction.lua:76]:----移动    4    4    哪吒
+[Log]22:01:58.86-330: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]22:01:58.87-330: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]22:01:58.88-330: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]22:01:58.89-330: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]22:01:58.586-366: [Scene/Fight/CardAiAction.lua:76]:----移动    4    3    哪吒
+[Log]22:01:58.798-381: [Common/tools.lua:50]:---寻路    4    3    1    3
+[Log]22:01:58.799-381: [Common/tools.lua:50]:-------------当前探索起点    4    3    1
+[Log]22:01:58.801-381: [Common/tools.lua:50]:---寻路    3    1    1    3
+[Log]22:01:58.802-381: [Common/tools.lua:50]:-------------当前探索起点    3    1    1
+[Log]22:01:59.298-418: [Common/tools.lua:50]:---寻路    4    3    1    3
+[Log]22:01:59.299-418: [Common/tools.lua:50]:-------------当前探索起点    4    3    1
+[Log]22:01:59.499-434: [Common/tools.lua:50]:---寻路    2    1    1    3
+[Log]22:01:59.500-434: [Common/tools.lua:50]:-------------当前探索起点    2    1    1
+[Log]22:01:59.801-457: [Common/tools.lua:50]:---寻路    4    3    1    3
+[Log]22:01:59.803-457: [Common/tools.lua:50]:-------------当前探索起点    4    3    1
+[Log]22:02:00.219-487: [Common/tools.lua:50]:---寻路    1    1    1    3
+[Log]22:02:00.222-487: [Common/tools.lua:50]:-------------当前探索起点    1    1    1
+[Log]22:02:00.305-493: [Common/tools.lua:50]:---寻路    4    3    1    3
+[Log]22:02:00.306-493: [Common/tools.lua:50]:-------------当前探索起点    4    3    1
+[Log]22:02:00.821-534: [Common/tools.lua:50]:---寻路    4    3    1    3
+[Log]22:02:00.823-534: [Common/tools.lua:50]:-------------当前探索起点    4    3    1
+[Log]22:02:01.336-571: [Common/tools.lua:50]:---寻路    4    3    1    3
+[Log]22:02:01.339-571: [Common/tools.lua:50]:-------------当前探索起点    4    3    1
+[Log]22:02:01.849-608: [Common/tools.lua:50]:---寻路    4    3    1    3
+[Log]22:02:01.850-608: [Common/tools.lua:50]:-------------当前探索起点    4    3    1
+[Log]22:02:02.360-644: [Common/tools.lua:50]:---寻路    4    3    1    3
+[Log]22:02:02.363-644: [Common/tools.lua:50]:-------------当前探索起点    4    3    1
+[Log]OutLog Finish

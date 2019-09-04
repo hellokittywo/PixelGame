@@ -1,0 +1,186 @@
+﻿[Log]OutLog Start
+[Log]10:37:43.604-2: [Common/tools.lua:50]:----坐标呢    1    1    1    nil    -590    310
+[Log]10:37:43.608-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x3885F1E8
+[Log]10:37:43.613-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x38A1DDC0
+[Log]游戏暂停！
+[Log]10:37:43.755-3: [Common/tools.lua:50]:----坐标呢    1    1    1    nil    -590    310
+[Log]10:37:43.757-3: [Common/tools.lua:50]:----坐标呢    2    1    2    nil    -590    210
+[Log]10:37:43.760-3: [Common/tools.lua:50]:----坐标呢    3    1    3    nil    -590    110
+[Log]10:37:43.762-3: [Common/tools.lua:50]:----坐标呢    4    1    4    nil    -590    10
+[Log]10:37:43.765-3: [Common/tools.lua:50]:----坐标呢    5    1    5    nil    -590    -90
+[Log]10:37:43.768-3: [Common/tools.lua:50]:----坐标呢    6    1    6    nil    -590    -190
+[Log]10:37:43.770-3: [Common/tools.lua:50]:----坐标呢    7    2    1    nil    -490    310
+[Log]10:37:43.772-3: [Common/tools.lua:50]:----坐标呢    8    2    2    nil    -490    210
+[Log]10:37:43.776-3: [Common/tools.lua:50]:----坐标呢    9    2    3    nil    -490    110
+[Log]10:37:43.778-3: [Common/tools.lua:50]:----坐标呢    10    2    4    nil    -490    10
+[Log]10:37:43.781-3: [Common/tools.lua:50]:----坐标呢    11    2    5    nil    -490    -90
+[Log]10:37:43.801-3: [Common/tools.lua:50]:----坐标呢    12    2    6    nil    -490    -190
+[Log]10:37:43.803-3: [Common/tools.lua:50]:----坐标呢    13    3    1    nil    -390    310
+[Log]10:37:43.806-3: [Common/tools.lua:50]:----坐标呢    14    3    2    nil    -390    210
+[Log]10:37:43.817-3: [Common/tools.lua:50]:----坐标呢    15    3    3    nil    -390    110
+[Log]10:37:43.824-3: [Common/tools.lua:50]:----坐标呢    16    3    4    nil    -390    10
+[Log]10:37:43.827-3: [Common/tools.lua:50]:----坐标呢    17    3    5    nil    -390    -90
+[Log]10:37:43.831-3: [Common/tools.lua:50]:----坐标呢    18    3    6    nil    -390    -190
+[Log]10:37:43.833-3: [Common/tools.lua:50]:----坐标呢    19    4    1    nil    -290    310
+[Log]10:37:43.837-3: [Common/tools.lua:50]:----坐标呢    20    4    2    nil    -290    210
+[Log]10:37:43.840-3: [Common/tools.lua:50]:----坐标呢    21    4    3    nil    -290    110
+[Log]10:37:43.842-3: [Common/tools.lua:50]:----坐标呢    22    4    4    nil    -290    10
+[Log]10:37:43.845-3: [Common/tools.lua:50]:----坐标呢    23    4    5    nil    -290    -90
+[Log]10:37:43.847-3: [Common/tools.lua:50]:----坐标呢    24    4    6    nil    -290    -190
+[Log]10:37:43.850-3: [Common/tools.lua:50]:----坐标呢    25    5    1    nil    -190    310
+[Log]10:37:43.852-3: [Common/tools.lua:50]:----坐标呢    26    5    2    nil    -190    210
+[Log]10:37:43.855-3: [Common/tools.lua:50]:----坐标呢    27    5    3    nil    -190    110
+[Log]10:37:43.857-3: [Common/tools.lua:50]:----坐标呢    28    5    4    nil    -190    10
+[Log]10:37:43.860-3: [Common/tools.lua:50]:----坐标呢    29    5    5    nil    -190    -90
+[Log]10:37:43.863-3: [Common/tools.lua:50]:----坐标呢    30    5    6    nil    -190    -190
+[Log]10:37:43.865-3: [Common/tools.lua:50]:----坐标呢    31    6    1    nil    -90    310
+[Log]10:37:43.868-3: [Common/tools.lua:50]:----坐标呢    32    6    2    nil    -90    210
+[Log]10:37:43.870-3: [Common/tools.lua:50]:----坐标呢    33    6    3    nil    -90    110
+[Log]10:37:43.873-3: [Common/tools.lua:50]:----坐标呢    34    6    4    nil    -90    10
+[Log]10:37:43.875-3: [Common/tools.lua:50]:----坐标呢    35    6    5    nil    -90    -90
+[Log]10:37:43.877-3: [Common/tools.lua:50]:----坐标呢    36    6    6    nil    -90    -190
+[Log]10:37:43.879-3: [Common/tools.lua:50]:----坐标呢    37    7    1    nil    10    310
+[Log]10:37:43.881-3: [Common/tools.lua:50]:----坐标呢    38    7    2    nil    10    210
+[Log]10:37:43.883-3: [Common/tools.lua:50]:----坐标呢    39    7    3    nil    10    110
+[Log]10:37:43.885-3: [Common/tools.lua:50]:----坐标呢    40    7    4    nil    10    10
+[Log]10:37:43.887-3: [Common/tools.lua:50]:----坐标呢    41    7    5    nil    10    -90
+[Log]10:37:43.889-3: [Common/tools.lua:50]:----坐标呢    42    7    6    nil    10    -190
+[Log]10:37:43.891-3: [Common/tools.lua:50]:----坐标呢    43    8    1    nil    110    310
+[Log]10:37:43.893-3: [Common/tools.lua:50]:----坐标呢    44    8    2    nil    110    210
+[Log]10:37:43.895-3: [Common/tools.lua:50]:----坐标呢    45    8    3    nil    110    110
+[Log]10:37:43.898-3: [Common/tools.lua:50]:----坐标呢    46    8    4    nil    110    10
+[Log]10:37:43.899-3: [Common/tools.lua:50]:----坐标呢    47    8    5    nil    110    -90
+[Log]10:37:43.902-3: [Common/tools.lua:50]:----坐标呢    48    8    6    nil    110    -190
+[Log]10:37:43.904-3: [Common/tools.lua:50]:----坐标呢    49    9    1    nil    210    310
+[Log]10:37:43.905-3: [Common/tools.lua:50]:----坐标呢    50    9    2    nil    210    210
+[Log]10:37:43.907-3: [Common/tools.lua:50]:----坐标呢    51    9    3    nil    210    110
+[Log]10:37:43.909-3: [Common/tools.lua:50]:----坐标呢    52    9    4    nil    210    10
+[Log]10:37:43.911-3: [Common/tools.lua:50]:----坐标呢    53    9    5    nil    210    -90
+[Log]10:37:43.913-3: [Common/tools.lua:50]:----坐标呢    54    9    6    nil    210    -190
+[Log]10:37:43.916-3: [Common/tools.lua:50]:----坐标呢    55    10    1    nil    310    310
+[Log]10:37:43.918-3: [Common/tools.lua:50]:----坐标呢    56    10    2    nil    310    210
+[Log]10:37:43.920-3: [Common/tools.lua:50]:----坐标呢    57    10    3    nil    310    110
+[Log]10:37:43.922-3: [Common/tools.lua:50]:----坐标呢    58    10    4    nil    310    10
+[Log]10:37:43.925-3: [Common/tools.lua:50]:----坐标呢    59    10    5    nil    310    -90
+[Log]10:37:43.927-3: [Common/tools.lua:50]:----坐标呢    60    10    6    nil    310    -190
+[Log]10:37:43.931-3: [Common/tools.lua:50]:----坐标呢    61    11    1    nil    410    310
+[Log]10:37:43.933-3: [Common/tools.lua:50]:----坐标呢    62    11    2    nil    410    210
+[Log]10:37:43.935-3: [Common/tools.lua:50]:----坐标呢    63    11    3    nil    410    110
+[Log]10:37:43.937-3: [Common/tools.lua:50]:----坐标呢    64    11    4    nil    410    10
+[Log]10:37:43.939-3: [Common/tools.lua:50]:----坐标呢    65    11    5    nil    410    -90
+[Log]10:37:43.941-3: [Common/tools.lua:50]:----坐标呢    66    11    6    nil    410    -190
+[Log]10:37:43.943-3: [Common/tools.lua:50]:----坐标呢    67    12    1    nil    510    310
+[Log]10:37:43.945-3: [Common/tools.lua:50]:----坐标呢    68    12    2    nil    510    210
+[Log]10:37:43.947-3: [Common/tools.lua:50]:----坐标呢    69    12    3    nil    510    110
+[Log]10:37:43.949-3: [Common/tools.lua:50]:----坐标呢    70    12    4    nil    510    10
+[Log]10:37:43.951-3: [Common/tools.lua:50]:----坐标呢    71    12    5    nil    510    -90
+[Log]10:37:43.953-3: [Common/tools.lua:50]:----坐标呢    72    12    6    nil    510    -190
+[Log]10:37:43.955-3: [Common/tools.lua:50]:----坐标呢    73    13    1    nil    610    310
+[Log]10:37:43.957-3: [Common/tools.lua:50]:----坐标呢    74    13    2    nil    610    210
+[Log]10:37:43.960-3: [Common/tools.lua:50]:----坐标呢    75    13    3    nil    610    110
+[Log]10:37:43.962-3: [Common/tools.lua:50]:----坐标呢    76    13    4    nil    610    10
+[Log]10:37:43.964-3: [Common/tools.lua:50]:----坐标呢    77    13    5    nil    610    -90
+[Log]10:37:43.966-3: [Common/tools.lua:50]:----坐标呢    78    13    6    nil    610    -190
+[Log]10:37:43.968-3: [Common/tools.lua:50]:----坐标呢    79    14    1    nil    710    310
+[Log]10:37:43.980-3: [Common/tools.lua:50]:----坐标呢    80    14    2    nil    710    210
+[Log]10:37:43.982-3: [Common/tools.lua:50]:----坐标呢    81    14    3    nil    710    110
+[Log]10:37:43.984-3: [Common/tools.lua:50]:----坐标呢    82    14    4    nil    710    10
+[Log]10:37:43.986-3: [Common/tools.lua:50]:----坐标呢    83    14    5    nil    710    -90
+[Log]10:37:43.988-3: [Common/tools.lua:50]:----坐标呢    84    14    6    nil    710    -190
+[Log]10:37:43.990-3: [Common/tools.lua:50]:----坐标呢    85    15    1    nil    810    310
+[Log]10:37:43.992-3: [Common/tools.lua:50]:----坐标呢    86    15    2    nil    810    210
+[Log]10:37:43.995-3: [Common/tools.lua:50]:----坐标呢    87    15    3    nil    810    110
+[Log]10:37:43.997-3: [Common/tools.lua:50]:----坐标呢    88    15    4    nil    810    10
+[Log]10:37:43.999-3: [Common/tools.lua:50]:----坐标呢    89    15    5    nil    810    -90
+[Log]10:37:44.1-3: [Common/tools.lua:50]:----坐标呢    90    15    6    nil    810    -190
+[Log]10:37:44.3-3: [Common/tools.lua:50]:----坐标呢    91    16    1    nil    910    310
+[Log]10:37:44.5-3: [Common/tools.lua:50]:----坐标呢    92    16    2    nil    910    210
+[Log]10:37:44.7-3: [Common/tools.lua:50]:----坐标呢    93    16    3    nil    910    110
+[Log]10:37:44.9-3: [Common/tools.lua:50]:----坐标呢    94    16    4    nil    910    10
+[Log]10:37:44.11-3: [Common/tools.lua:50]:----坐标呢    95    16    5    nil    910    -90
+[Log]10:37:44.14-3: [Common/tools.lua:50]:----坐标呢    96    16    6    nil    910    -190
+[Log]10:37:44.16-3: [Common/tools.lua:50]:----坐标呢    97    17    1    nil    1010    310
+[Log]10:37:44.17-3: [Common/tools.lua:50]:----坐标呢    98    17    2    nil    1010    210
+[Log]10:37:44.19-3: [Common/tools.lua:50]:----坐标呢    99    17    3    nil    1010    110
+[Log]10:37:44.21-3: [Common/tools.lua:50]:----坐标呢    100    17    4    nil    1010    10
+[Log]10:37:44.25-3: [Common/tools.lua:50]:----坐标呢    101    17    5    nil    1010    -90
+[Log]10:37:44.29-3: [Common/tools.lua:50]:----坐标呢    102    17    6    nil    1010    -190
+[Log]10:37:44.31-3: [Common/tools.lua:50]:----坐标呢    103    18    1    nil    1110    310
+[Log]10:37:44.33-3: [Common/tools.lua:50]:----坐标呢    104    18    2    nil    1110    210
+[Log]10:37:44.36-3: [Common/tools.lua:50]:----坐标呢    105    18    3    nil    1110    110
+[Log]10:37:44.40-3: [Common/tools.lua:50]:----坐标呢    106    18    4    nil    1110    10
+[Log]10:37:44.42-3: [Common/tools.lua:50]:----坐标呢    107    18    5    nil    1110    -90
+[Log]10:37:44.44-3: [Common/tools.lua:50]:----坐标呢    108    18    6    nil    1110    -190
+[Log]10:37:44.46-3: [Common/tools.lua:50]:----坐标呢    109    19    1    nil    1210    310
+[Log]10:37:44.48-3: [Common/tools.lua:50]:----坐标呢    110    19    2    nil    1210    210
+[Log]10:37:44.50-3: [Common/tools.lua:50]:----坐标呢    111    19    3    nil    1210    110
+[Log]10:37:44.52-3: [Common/tools.lua:50]:----坐标呢    112    19    4    nil    1210    10
+[Log]10:37:44.54-3: [Common/tools.lua:50]:----坐标呢    113    19    5    nil    1210    -90
+[Log]10:37:44.56-3: [Common/tools.lua:50]:----坐标呢    114    19    6    nil    1210    -190
+[Log]10:37:44.59-3: [Common/tools.lua:50]:----坐标呢    115    20    1    nil    1310    310
+[Log]10:37:44.61-3: [Common/tools.lua:50]:----坐标呢    116    20    2    nil    1310    210
+[Log]10:37:44.63-3: [Common/tools.lua:50]:----坐标呢    117    20    3    nil    1310    110
+[Log]10:37:44.65-3: [Common/tools.lua:50]:----坐标呢    118    20    4    nil    1310    10
+[Log]10:37:44.67-3: [Common/tools.lua:50]:----坐标呢    119    20    5    nil    1310    -90
+[Log]10:37:44.69-3: [Common/tools.lua:50]:----坐标呢    120    20    6    nil    1310    -190
+[Log]10:37:44.71-3: [Common/tools.lua:50]:----坐标呢    121    21    1    nil    1410    310
+[Log]10:37:44.74-3: [Common/tools.lua:50]:----坐标呢    122    21    2    nil    1410    210
+[Log]10:37:44.76-3: [Common/tools.lua:50]:----坐标呢    123    21    3    nil    1410    110
+[Log]10:37:44.78-3: [Common/tools.lua:50]:----坐标呢    124    21    4    nil    1410    10
+[Log]10:37:44.80-3: [Common/tools.lua:50]:----坐标呢    125    21    5    nil    1410    -90
+[Log]10:37:44.83-3: [Common/tools.lua:50]:----坐标呢    126    21    6    nil    1410    -190
+[Log]10:37:44.84-3: [Common/tools.lua:50]:----坐标呢    127    22    1    nil    1510    310
+[Log]10:37:44.87-3: [Common/tools.lua:50]:----坐标呢    128    22    2    nil    1510    210
+[Log]10:37:44.89-3: [Common/tools.lua:50]:----坐标呢    129    22    3    nil    1510    110
+[Log]10:37:44.91-3: [Common/tools.lua:50]:----坐标呢    130    22    4    nil    1510    10
+[Log]10:37:44.93-3: [Common/tools.lua:50]:----坐标呢    131    22    5    nil    1510    -90
+[Log]10:37:44.95-3: [Common/tools.lua:50]:----坐标呢    132    22    6    nil    1510    -190
+[Log]10:37:44.97-3: [Common/tools.lua:50]:----坐标呢    133    23    1    nil    1610    310
+[Log]10:37:44.99-3: [Common/tools.lua:50]:----坐标呢    134    23    2    nil    1610    210
+[Log]10:37:44.101-3: [Common/tools.lua:50]:----坐标呢    135    23    3    nil    1610    110
+[Log]10:37:44.104-3: [Common/tools.lua:50]:----坐标呢    136    23    4    nil    1610    10
+[Log]10:37:44.106-3: [Common/tools.lua:50]:----坐标呢    137    23    5    nil    1610    -90
+[Log]10:37:44.108-3: [Common/tools.lua:50]:----坐标呢    138    23    6    nil    1610    -190
+[Log]10:37:44.110-3: [Common/tools.lua:50]:----坐标呢    139    24    1    nil    1710    310
+[Log]10:37:44.112-3: [Common/tools.lua:50]:----坐标呢    140    24    2    nil    1710    210
+[Log]10:37:44.114-3: [Common/tools.lua:50]:----坐标呢    141    24    3    nil    1710    110
+[Log]10:37:44.116-3: [Common/tools.lua:50]:----坐标呢    142    24    4    nil    1710    10
+[Log]10:37:44.118-3: [Common/tools.lua:50]:----坐标呢    143    24    5    nil    1710    -90
+[Log]10:37:44.120-3: [Common/tools.lua:50]:----坐标呢    144    24    6    nil    1710    -190
+[Log]10:37:44.121-3: [Common/tools.lua:50]:----坐标呢    145    25    1    nil    1810    310
+[Log]10:37:44.124-3: [Common/tools.lua:50]:----坐标呢    146    25    2    nil    1810    210
+[Log]10:37:44.126-3: [Common/tools.lua:50]:----坐标呢    147    25    3    nil    1810    110
+[Log]10:37:44.138-3: [Common/tools.lua:50]:----坐标呢    148    25    4    nil    1810    10
+[Log]10:37:44.140-3: [Common/tools.lua:50]:----坐标呢    149    25    5    nil    1810    -90
+[Log]10:37:44.142-3: [Common/tools.lua:50]:----坐标呢    150    25    6    nil    1810    -190
+[Log]10:37:44.144-3: [Common/tools.lua:50]:----坐标呢    151    26    1    nil    1910    310
+[Log]10:37:44.146-3: [Common/tools.lua:50]:----坐标呢    152    26    2    nil    1910    210
+[Log]10:37:44.149-3: [Common/tools.lua:50]:----坐标呢    153    26    3    nil    1910    110
+[Log]10:37:44.151-3: [Common/tools.lua:50]:----坐标呢    154    26    4    nil    1910    10
+[Log]10:37:44.153-3: [Common/tools.lua:50]:----坐标呢    155    26    5    nil    1910    -90
+[Log]10:37:44.155-3: [Common/tools.lua:50]:----坐标呢    156    26    6    nil    1910    -190
+[Log]10:37:47.453-125: [Common/tools.lua:50]:----坐标呢    9    2    3    nil    -490    110
+[Log]10:37:48.542-191: [Common/tools.lua:50]:---寻路    2    3    1    1
+[Log]10:37:48.544-191: [Common/tools.lua:50]:---寻路    1    1    2    3
+[Exception]LuaException: event:171: Scene/Fight/FightScene:60: attempt to index local 'data' (a nil value)
+stack traceback:
+	Scene/Fight/FightScene:60: in function 'GetPosByXY'
+	Scene/Fight/CardAiAction:57: in function 'func'
+	System/Timer:58: in function <System/Timer:49>
+	[C]: in function 'f'
+	event:166: in function 'UpdateBeat'
+	event:203: in function <event:201>
+[Exception]LuaException: event:171: Scene/Fight/FightScene:60: attempt to index local 'data' (a nil value)
+stack traceback:
+	Scene/Fight/FightScene:60: in function 'GetPosByXY'
+	Scene/Fight/CardAiAction:57: in function 'func'
+	System/Timer:58: in function <System/Timer:49>
+	[C]: in function 'f'
+	event:166: in function 'UpdateBeat'
+	event:203: in function <event:201>
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]10:38:05.574-0: Lua function Network.Unload not exists
+[Log]10:38:05.581-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

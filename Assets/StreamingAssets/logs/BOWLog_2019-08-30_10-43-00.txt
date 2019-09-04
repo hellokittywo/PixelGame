@@ -1,0 +1,10 @@
+﻿[Log]OutLog Start
+[Log]10:42:50.700-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x38886BD8
+[Log]10:42:50.705-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x38B0B488
+[Log]10:42:53.604-167: [Common/tools.lua:50]:---寻路    2    5    1    1
+[Log]10:42:53.607-167: [Common/tools.lua:50]:---寻路    1    1    2    5
+[Log]10:42:56.90-317: [Common/tools.lua:50]:---寻路    3    4    1    1
+[Log]10:42:56.91-317: [Common/tools.lua:50]:---寻路    2    2    3    4
+[Log]10:42:58.590-468: [Common/tools.lua:50]:---寻路    4    3    2    2
+[Log]10:42:58.591-468: [Common/tools.lua:50]:---寻路    3    3    4    3
+[Log]OutLog Finish

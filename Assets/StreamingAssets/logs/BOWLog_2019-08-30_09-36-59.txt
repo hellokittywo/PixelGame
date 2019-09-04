@@ -1,0 +1,254 @@
+﻿[Log]OutLog Start
+[Log]09:36:49.763-2: [Common/tools.lua:50]:----坐标呢    1    1    1    nil    -590    310
+[Log]09:36:49.765-2: [Common/tools.lua:50]:----坐标呢    2    1    2    nil    -590    210
+[Log]09:36:49.767-2: [Common/tools.lua:50]:----坐标呢    3    1    3    nil    -590    110
+[Log]09:36:49.769-2: [Common/tools.lua:50]:----坐标呢    4    1    4    nil    -590    10
+[Log]09:36:49.773-2: [Common/tools.lua:50]:----坐标呢    5    1    5    nil    -590    -90
+[Log]09:36:49.775-2: [Common/tools.lua:50]:----坐标呢    6    1    6    nil    -590    -190
+[Log]09:36:49.779-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x15783460
+[Log]09:36:49.784-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x1A327D38
+[Log]游戏暂停！
+[Log]09:36:49.961-3: [Common/tools.lua:50]:----坐标呢    1    1    1    nil    -590    310
+[Log]09:36:49.963-3: [Common/tools.lua:50]:----坐标呢    2    1    2    nil    -590    210
+[Log]09:36:49.964-3: [Common/tools.lua:50]:----坐标呢    3    1    3    nil    -590    110
+[Log]09:36:49.966-3: [Common/tools.lua:50]:----坐标呢    4    1    4    nil    -590    10
+[Log]09:36:49.968-3: [Common/tools.lua:50]:----坐标呢    5    1    5    nil    -590    -90
+[Log]09:36:49.970-3: [Common/tools.lua:50]:----坐标呢    6    1    6    nil    -590    -190
+[Log]09:36:49.974-3: [Common/tools.lua:50]:----坐标呢    7    2    1    nil    -490    310
+[Log]09:36:49.977-3: [Common/tools.lua:50]:----坐标呢    8    2    2    nil    -490    210
+[Log]09:36:49.979-3: [Common/tools.lua:50]:----坐标呢    9    2    3    nil    -490    110
+[Log]09:36:49.981-3: [Common/tools.lua:50]:----坐标呢    10    2    4    nil    -490    10
+[Log]09:36:49.983-3: [Common/tools.lua:50]:----坐标呢    11    2    5    nil    -490    -90
+[Log]09:36:49.988-3: [Common/tools.lua:50]:----坐标呢    12    2    6    nil    -490    -190
+[Log]09:36:49.990-3: [Common/tools.lua:50]:----坐标呢    13    3    1    nil    -390    310
+[Log]09:36:49.992-3: [Common/tools.lua:50]:----坐标呢    14    3    2    nil    -390    210
+[Log]09:36:49.994-3: [Common/tools.lua:50]:----坐标呢    15    3    3    nil    -390    110
+[Log]09:36:49.996-3: [Common/tools.lua:50]:----坐标呢    16    3    4    nil    -390    10
+[Log]09:36:49.998-3: [Common/tools.lua:50]:----坐标呢    17    3    5    nil    -390    -90
+[Log]09:36:50.0-3: [Common/tools.lua:50]:----坐标呢    18    3    6    nil    -390    -190
+[Log]09:36:50.4-3: [Common/tools.lua:50]:----坐标呢    19    4    1    nil    -290    310
+[Log]09:36:50.6-3: [Common/tools.lua:50]:----坐标呢    20    4    2    nil    -290    210
+[Log]09:36:50.8-3: [Common/tools.lua:50]:----坐标呢    21    4    3    nil    -290    110
+[Log]09:36:50.10-3: [Common/tools.lua:50]:----坐标呢    22    4    4    nil    -290    10
+[Log]09:36:50.12-3: [Common/tools.lua:50]:----坐标呢    23    4    5    nil    -290    -90
+[Log]09:36:50.14-3: [Common/tools.lua:50]:----坐标呢    24    4    6    nil    -290    -190
+[Log]09:36:50.27-3: [Common/tools.lua:50]:----坐标呢    25    5    1    nil    -190    310
+[Log]09:36:50.29-3: [Common/tools.lua:50]:----坐标呢    26    5    2    nil    -190    210
+[Log]09:36:50.30-3: [Common/tools.lua:50]:----坐标呢    27    5    3    nil    -190    110
+[Log]09:36:50.32-3: [Common/tools.lua:50]:----坐标呢    28    5    4    nil    -190    10
+[Log]09:36:50.35-3: [Common/tools.lua:50]:----坐标呢    29    5    5    nil    -190    -90
+[Log]09:36:50.37-3: [Common/tools.lua:50]:----坐标呢    30    5    6    nil    -190    -190
+[Log]09:36:50.39-3: [Common/tools.lua:50]:----坐标呢    31    6    1    nil    -90    310
+[Log]09:36:50.42-3: [Common/tools.lua:50]:----坐标呢    32    6    2    nil    -90    210
+[Log]09:36:50.44-3: [Common/tools.lua:50]:----坐标呢    33    6    3    nil    -90    110
+[Log]09:36:50.46-3: [Common/tools.lua:50]:----坐标呢    34    6    4    nil    -90    10
+[Log]09:36:50.49-3: [Common/tools.lua:50]:----坐标呢    35    6    5    nil    -90    -90
+[Log]09:36:50.51-3: [Common/tools.lua:50]:----坐标呢    36    6    6    nil    -90    -190
+[Log]09:36:50.53-3: [Common/tools.lua:50]:----坐标呢    37    7    1    nil    10    310
+[Log]09:36:50.55-3: [Common/tools.lua:50]:----坐标呢    38    7    2    nil    10    210
+[Log]09:36:50.58-3: [Common/tools.lua:50]:----坐标呢    39    7    3    nil    10    110
+[Log]09:36:50.60-3: [Common/tools.lua:50]:----坐标呢    40    7    4    nil    10    10
+[Log]09:36:50.62-3: [Common/tools.lua:50]:----坐标呢    41    7    5    nil    10    -90
+[Log]09:36:50.64-3: [Common/tools.lua:50]:----坐标呢    42    7    6    nil    10    -190
+[Log]09:36:50.66-3: [Common/tools.lua:50]:----坐标呢    43    8    1    nil    110    310
+[Log]09:36:50.70-3: [Common/tools.lua:50]:----坐标呢    44    8    2    nil    110    210
+[Log]09:36:50.72-3: [Common/tools.lua:50]:----坐标呢    45    8    3    nil    110    110
+[Log]09:36:50.75-3: [Common/tools.lua:50]:----坐标呢    46    8    4    nil    110    10
+[Log]09:36:50.77-3: [Common/tools.lua:50]:----坐标呢    47    8    5    nil    110    -90
+[Log]09:36:50.79-3: [Common/tools.lua:50]:----坐标呢    48    8    6    nil    110    -190
+[Log]09:36:50.80-3: [Common/tools.lua:50]:----坐标呢    49    9    1    nil    210    310
+[Log]09:36:50.84-3: [Common/tools.lua:50]:----坐标呢    50    9    2    nil    210    210
+[Log]09:36:50.89-3: [Common/tools.lua:50]:----坐标呢    51    9    3    nil    210    110
+[Log]09:36:50.91-3: [Common/tools.lua:50]:----坐标呢    52    9    4    nil    210    10
+[Log]09:36:50.93-3: [Common/tools.lua:50]:----坐标呢    53    9    5    nil    210    -90
+[Log]09:36:50.99-3: [Common/tools.lua:50]:----坐标呢    54    9    6    nil    210    -190
+[Log]09:36:50.102-3: [Common/tools.lua:50]:----坐标呢    55    10    1    nil    310    310
+[Log]09:36:50.103-3: [Common/tools.lua:50]:----坐标呢    56    10    2    nil    310    210
+[Log]09:36:50.106-3: [Common/tools.lua:50]:----坐标呢    57    10    3    nil    310    110
+[Log]09:36:50.110-3: [Common/tools.lua:50]:----坐标呢    58    10    4    nil    310    10
+[Log]09:36:50.112-3: [Common/tools.lua:50]:----坐标呢    59    10    5    nil    310    -90
+[Log]09:36:50.114-3: [Common/tools.lua:50]:----坐标呢    60    10    6    nil    310    -190
+[Log]09:36:50.116-3: [Common/tools.lua:50]:----坐标呢    61    11    1    nil    410    310
+[Log]09:36:50.117-3: [Common/tools.lua:50]:----坐标呢    62    11    2    nil    410    210
+[Log]09:36:50.119-3: [Common/tools.lua:50]:----坐标呢    63    11    3    nil    410    110
+[Log]09:36:50.121-3: [Common/tools.lua:50]:----坐标呢    64    11    4    nil    410    10
+[Log]09:36:50.123-3: [Common/tools.lua:50]:----坐标呢    65    11    5    nil    410    -90
+[Log]09:36:50.125-3: [Common/tools.lua:50]:----坐标呢    66    11    6    nil    410    -190
+[Log]09:36:50.127-3: [Common/tools.lua:50]:----坐标呢    67    12    1    nil    510    310
+[Log]09:36:50.131-3: [Common/tools.lua:50]:----坐标呢    68    12    2    nil    510    210
+[Log]09:36:50.133-3: [Common/tools.lua:50]:----坐标呢    69    12    3    nil    510    110
+[Log]09:36:50.135-3: [Common/tools.lua:50]:----坐标呢    70    12    4    nil    510    10
+[Log]09:36:50.137-3: [Common/tools.lua:50]:----坐标呢    71    12    5    nil    510    -90
+[Log]09:36:50.139-3: [Common/tools.lua:50]:----坐标呢    72    12    6    nil    510    -190
+[Log]09:36:50.143-3: [Common/tools.lua:50]:----坐标呢    73    13    1    nil    610    310
+[Log]09:36:50.145-3: [Common/tools.lua:50]:----坐标呢    74    13    2    nil    610    210
+[Log]09:36:50.147-3: [Common/tools.lua:50]:----坐标呢    75    13    3    nil    610    110
+[Log]09:36:50.149-3: [Common/tools.lua:50]:----坐标呢    76    13    4    nil    610    10
+[Log]09:36:50.150-3: [Common/tools.lua:50]:----坐标呢    77    13    5    nil    610    -90
+[Log]09:36:50.152-3: [Common/tools.lua:50]:----坐标呢    78    13    6    nil    610    -190
+[Log]09:36:50.156-3: [Common/tools.lua:50]:----坐标呢    79    14    1    nil    710    310
+[Log]09:36:50.159-3: [Common/tools.lua:50]:----坐标呢    80    14    2    nil    710    210
+[Log]09:36:50.161-3: [Common/tools.lua:50]:----坐标呢    81    14    3    nil    710    110
+[Log]09:36:50.163-3: [Common/tools.lua:50]:----坐标呢    82    14    4    nil    710    10
+[Log]09:36:50.165-3: [Common/tools.lua:50]:----坐标呢    83    14    5    nil    710    -90
+[Log]09:36:50.167-3: [Common/tools.lua:50]:----坐标呢    84    14    6    nil    710    -190
+[Log]09:36:50.169-3: [Common/tools.lua:50]:----坐标呢    85    15    1    nil    810    310
+[Log]09:36:50.172-3: [Common/tools.lua:50]:----坐标呢    86    15    2    nil    810    210
+[Log]09:36:50.175-3: [Common/tools.lua:50]:----坐标呢    87    15    3    nil    810    110
+[Log]09:36:50.177-3: [Common/tools.lua:50]:----坐标呢    88    15    4    nil    810    10
+[Log]09:36:50.179-3: [Common/tools.lua:50]:----坐标呢    89    15    5    nil    810    -90
+[Log]09:36:50.181-3: [Common/tools.lua:50]:----坐标呢    90    15    6    nil    810    -190
+[Log]09:36:50.182-3: [Common/tools.lua:50]:----坐标呢    91    16    1    nil    910    310
+[Log]09:36:50.184-3: [Common/tools.lua:50]:----坐标呢    92    16    2    nil    910    210
+[Log]09:36:50.186-3: [Common/tools.lua:50]:----坐标呢    93    16    3    nil    910    110
+[Log]09:36:50.188-3: [Common/tools.lua:50]:----坐标呢    94    16    4    nil    910    10
+[Log]09:36:50.191-3: [Common/tools.lua:50]:----坐标呢    95    16    5    nil    910    -90
+[Log]09:36:50.193-3: [Common/tools.lua:50]:----坐标呢    96    16    6    nil    910    -190
+[Log]09:36:50.195-3: [Common/tools.lua:50]:----坐标呢    97    17    1    nil    1010    310
+[Log]09:36:50.197-3: [Common/tools.lua:50]:----坐标呢    98    17    2    nil    1010    210
+[Log]09:36:50.199-3: [Common/tools.lua:50]:----坐标呢    99    17    3    nil    1010    110
+[Log]09:36:50.200-3: [Common/tools.lua:50]:----坐标呢    100    17    4    nil    1010    10
+[Log]09:36:50.202-3: [Common/tools.lua:50]:----坐标呢    101    17    5    nil    1010    -90
+[Log]09:36:50.207-3: [Common/tools.lua:50]:----坐标呢    102    17    6    nil    1010    -190
+[Log]09:36:50.210-3: [Common/tools.lua:50]:----坐标呢    103    18    1    nil    1110    310
+[Log]09:36:50.213-3: [Common/tools.lua:50]:----坐标呢    104    18    2    nil    1110    210
+[Log]09:36:50.214-3: [Common/tools.lua:50]:----坐标呢    105    18    3    nil    1110    110
+[Log]09:36:50.216-3: [Common/tools.lua:50]:----坐标呢    106    18    4    nil    1110    10
+[Log]09:36:50.218-3: [Common/tools.lua:50]:----坐标呢    107    18    5    nil    1110    -90
+[Log]09:36:50.222-3: [Common/tools.lua:50]:----坐标呢    108    18    6    nil    1110    -190
+[Log]09:36:50.224-3: [Common/tools.lua:50]:----坐标呢    109    19    1    nil    1210    310
+[Log]09:36:50.226-3: [Common/tools.lua:50]:----坐标呢    110    19    2    nil    1210    210
+[Log]09:36:50.228-3: [Common/tools.lua:50]:----坐标呢    111    19    3    nil    1210    110
+[Log]09:36:50.243-3: [Common/tools.lua:50]:----坐标呢    112    19    4    nil    1210    10
+[Log]09:36:50.246-3: [Common/tools.lua:50]:----坐标呢    113    19    5    nil    1210    -90
+[Log]09:36:50.248-3: [Common/tools.lua:50]:----坐标呢    114    19    6    nil    1210    -190
+[Log]09:36:50.250-3: [Common/tools.lua:50]:----坐标呢    115    20    1    nil    1310    310
+[Log]09:36:50.252-3: [Common/tools.lua:50]:----坐标呢    116    20    2    nil    1310    210
+[Log]09:36:50.254-3: [Common/tools.lua:50]:----坐标呢    117    20    3    nil    1310    110
+[Log]09:36:50.257-3: [Common/tools.lua:50]:----坐标呢    118    20    4    nil    1310    10
+[Log]09:36:50.259-3: [Common/tools.lua:50]:----坐标呢    119    20    5    nil    1310    -90
+[Log]09:36:50.261-3: [Common/tools.lua:50]:----坐标呢    120    20    6    nil    1310    -190
+[Log]09:36:50.263-3: [Common/tools.lua:50]:----坐标呢    121    21    1    nil    1410    310
+[Log]09:36:50.265-3: [Common/tools.lua:50]:----坐标呢    122    21    2    nil    1410    210
+[Log]09:36:50.267-3: [Common/tools.lua:50]:----坐标呢    123    21    3    nil    1410    110
+[Log]09:36:50.269-3: [Common/tools.lua:50]:----坐标呢    124    21    4    nil    1410    10
+[Log]09:36:50.271-3: [Common/tools.lua:50]:----坐标呢    125    21    5    nil    1410    -90
+[Log]09:36:50.274-3: [Common/tools.lua:50]:----坐标呢    126    21    6    nil    1410    -190
+[Log]09:36:50.276-3: [Common/tools.lua:50]:----坐标呢    127    22    1    nil    1510    310
+[Log]09:36:50.278-3: [Common/tools.lua:50]:----坐标呢    128    22    2    nil    1510    210
+[Log]09:36:50.280-3: [Common/tools.lua:50]:----坐标呢    129    22    3    nil    1510    110
+[Log]09:36:50.282-3: [Common/tools.lua:50]:----坐标呢    130    22    4    nil    1510    10
+[Log]09:36:50.284-3: [Common/tools.lua:50]:----坐标呢    131    22    5    nil    1510    -90
+[Log]09:36:50.286-3: [Common/tools.lua:50]:----坐标呢    132    22    6    nil    1510    -190
+[Log]09:36:50.288-3: [Common/tools.lua:50]:----坐标呢    133    23    1    nil    1610    310
+[Log]09:36:50.290-3: [Common/tools.lua:50]:----坐标呢    134    23    2    nil    1610    210
+[Log]09:36:50.292-3: [Common/tools.lua:50]:----坐标呢    135    23    3    nil    1610    110
+[Log]09:36:50.294-3: [Common/tools.lua:50]:----坐标呢    136    23    4    nil    1610    10
+[Log]09:36:50.296-3: [Common/tools.lua:50]:----坐标呢    137    23    5    nil    1610    -90
+[Log]09:36:50.298-3: [Common/tools.lua:50]:----坐标呢    138    23    6    nil    1610    -190
+[Log]09:36:50.301-3: [Common/tools.lua:50]:----坐标呢    139    24    1    nil    1710    310
+[Log]09:36:50.303-3: [Common/tools.lua:50]:----坐标呢    140    24    2    nil    1710    210
+[Log]09:36:50.305-3: [Common/tools.lua:50]:----坐标呢    141    24    3    nil    1710    110
+[Log]09:36:50.308-3: [Common/tools.lua:50]:----坐标呢    142    24    4    nil    1710    10
+[Log]09:36:50.310-3: [Common/tools.lua:50]:----坐标呢    143    24    5    nil    1710    -90
+[Log]09:36:50.312-3: [Common/tools.lua:50]:----坐标呢    144    24    6    nil    1710    -190
+[Log]09:36:50.314-3: [Common/tools.lua:50]:----坐标呢    145    25    1    nil    1810    310
+[Log]09:36:50.317-3: [Common/tools.lua:50]:----坐标呢    146    25    2    nil    1810    210
+[Log]09:36:50.318-3: [Common/tools.lua:50]:----坐标呢    147    25    3    nil    1810    110
+[Log]09:36:50.320-3: [Common/tools.lua:50]:----坐标呢    148    25    4    nil    1810    10
+[Log]09:36:50.322-3: [Common/tools.lua:50]:----坐标呢    149    25    5    nil    1810    -90
+[Log]09:36:50.324-3: [Common/tools.lua:50]:----坐标呢    150    25    6    nil    1810    -190
+[Log]09:36:50.326-3: [Common/tools.lua:50]:----坐标呢    151    26    1    nil    1910    310
+[Log]09:36:50.329-3: [Common/tools.lua:50]:----坐标呢    152    26    2    nil    1910    210
+[Log]09:36:50.331-3: [Common/tools.lua:50]:----坐标呢    153    26    3    nil    1910    110
+[Log]09:36:50.333-3: [Common/tools.lua:50]:----坐标呢    154    26    4    nil    1910    10
+[Log]09:36:50.335-3: [Common/tools.lua:50]:----坐标呢    155    26    5    nil    1910    -90
+[Log]09:36:50.337-3: [Common/tools.lua:50]:----坐标呢    156    26    6    nil    1910    -190
+[Log]游戏暂停！
+[Log]09:36:52.587-51: [UI/Fight/MyCardItem.lua:23]:----点击呢    false
+[Log]09:36:52.926-72: [Common/tools.lua:50]:----坐标呢    12    2    6    nil    -490    -190
+[Log]09:36:54.119-146: [Scene/Fight/FightAStar.lua:5]:---寻路    1    4    2    6
+[Log]09:36:54.122-146: [Scene/Fight/FightAStar.lua:5]:---寻路    1    1    2    6
+[Log]09:36:54.125-146: [Scene/Fight/FightAStar.lua:5]:---寻路    1    2    2    6
+[Log]09:36:54.127-146: [Scene/Fight/FightAStar.lua:5]:---寻路    1    3    2    6
+[Log]09:36:54.760-188: [Common/tools.lua:50]:孙悟空 攻击 白龙马   
+[Log]09:36:54.762-188: [UI/Fight/FightView.lua:42]:0000攻击    table:0x389739B8    table:0x1576C770    85
+[Log]09:36:54.764-188: [UI/Fight/FightView.lua:42]:0000攻击    table:0x183F18C0    table:0x1576C770    100
+[Log]09:36:54.767-188: [UI/Fight/FightView.lua:42]:0000攻击    table:0x1576C770    table:0x1576C770    85
+[Log]09:36:54.774-188: [Common/tools.lua:50]:白龙马 攻击 孙悟空   
+[Log]09:36:54.776-188: [UI/Fight/FightView.lua:42]:0000攻击    table:0x157838A0    table:0x1815D6D0    60
+[Log]09:36:54.781-188: [UI/Fight/FightView.lua:42]:0000攻击    table:0x15773668    table:0x1815D6D0    65
+[Log]09:36:54.784-188: [UI/Fight/FightView.lua:42]:0000攻击    table:0x157754B8    table:0x1815D6D0    85
+[Log]09:36:54.786-188: [UI/Fight/FightView.lua:42]:0000攻击    table:0x1814A648    table:0x1815D6D0    95
+[Log]09:36:54.789-188: [UI/Fight/FightView.lua:42]:0000攻击    table:0x181642B8    table:0x1815D6D0    120
+[Log]09:36:54.791-188: [Common/tools.lua:50]:哪吒 攻击 孙悟空   
+[Log]09:36:54.793-188: [UI/Fight/FightView.lua:42]:0000攻击    table:0x157838A0    table:0x1815D6D0    60
+[Log]09:36:54.796-188: [UI/Fight/FightView.lua:42]:0000攻击    table:0x15773668    table:0x1815D6D0    65
+[Log]09:36:54.798-188: [UI/Fight/FightView.lua:42]:0000攻击    table:0x157754B8    table:0x1815D6D0    85
+[Log]09:36:54.801-188: [UI/Fight/FightView.lua:42]:0000攻击    table:0x1814A648    table:0x1815D6D0    95
+[Log]09:36:54.803-188: [UI/Fight/FightView.lua:42]:0000攻击    table:0x181642B8    table:0x1815D6D0    120
+[Log]09:36:55.766-253: [Common/tools.lua:50]:孙悟空 攻击 哪吒   
+[Log]09:36:55.770-253: [UI/Fight/FightView.lua:42]:0000攻击    table:0x389739B8    table:0x183E70F8    85
+[Log]09:36:55.774-253: [UI/Fight/FightView.lua:42]:0000攻击    table:0x183F18C0    table:0x183E70F8    100
+[Log]09:36:55.777-253: [UI/Fight/FightView.lua:42]:0000攻击    table:0x1576C770    table:0x183E70F8    85
+[Log]09:36:55.781-253: [UI/Fight/FightView.lua:42]:0000攻击    table:0x1A31B4F8    table:0x183E70F8    60
+[Log]09:36:55.784-253: [UI/Fight/FightView.lua:42]:0000攻击    table:0x183E70F8    table:0x183E70F8    110
+[Log]09:36:55.793-253: [Common/tools.lua:50]:白龙马 攻击 孙悟空   
+[Log]09:36:55.795-253: [UI/Fight/FightView.lua:42]:0000攻击    table:0x157838A0    table:0x1815D6D0    60
+[Log]09:36:55.796-253: [UI/Fight/FightView.lua:42]:0000攻击    table:0x15773668    table:0x1815D6D0    65
+[Log]09:36:55.798-253: [UI/Fight/FightView.lua:42]:0000攻击    table:0x157754B8    table:0x1815D6D0    85
+[Log]09:36:55.800-253: [UI/Fight/FightView.lua:42]:0000攻击    table:0x1814A648    table:0x1815D6D0    95
+[Log]09:36:55.801-253: [UI/Fight/FightView.lua:42]:0000攻击    table:0x181642B8    table:0x1815D6D0    120
+[Log]09:36:55.803-253: [Common/tools.lua:50]:哪吒 攻击 孙悟空   
+[Log]09:36:55.804-253: [UI/Fight/FightView.lua:42]:0000攻击    table:0x157838A0    table:0x1815D6D0    60
+[Log]09:36:55.806-253: [UI/Fight/FightView.lua:42]:0000攻击    table:0x15773668    table:0x1815D6D0    65
+[Log]09:36:55.807-253: [UI/Fight/FightView.lua:42]:0000攻击    table:0x157754B8    table:0x1815D6D0    85
+[Log]09:36:55.808-253: [UI/Fight/FightView.lua:42]:0000攻击    table:0x1814A648    table:0x1815D6D0    95
+[Log]09:36:55.810-253: [UI/Fight/FightView.lua:42]:0000攻击    table:0x181642B8    table:0x1815D6D0    120
+[Log]09:36:56.757-315: [Common/tools.lua:50]:孙悟空 攻击 白龙马   
+[Log]09:36:56.760-315: [UI/Fight/FightView.lua:42]:0000攻击    table:0x389739B8    table:0x1576C770    85
+[Log]09:36:56.762-315: [UI/Fight/FightView.lua:42]:0000攻击    table:0x183F18C0    table:0x1576C770    100
+[Log]09:36:56.764-315: [UI/Fight/FightView.lua:42]:0000攻击    table:0x1576C770    table:0x1576C770    75
+[Log]09:36:56.767-315: [Common/tools.lua:50]:白龙马 攻击 孙悟空   
+[Log]09:36:56.769-315: [UI/Fight/FightView.lua:42]:0000攻击    table:0x157838A0    table:0x1815D6D0    60
+[Log]09:36:56.773-315: [UI/Fight/FightView.lua:42]:0000攻击    table:0x15773668    table:0x1815D6D0    65
+[Log]09:36:56.775-315: [UI/Fight/FightView.lua:42]:0000攻击    table:0x157754B8    table:0x1815D6D0    85
+[Log]09:36:56.777-315: [UI/Fight/FightView.lua:42]:0000攻击    table:0x1814A648    table:0x1815D6D0    95
+[Log]09:36:56.779-315: [UI/Fight/FightView.lua:42]:0000攻击    table:0x181642B8    table:0x1815D6D0    120
+[Log]09:36:56.782-315: [Common/tools.lua:50]:哪吒 攻击 孙悟空   
+[Log]09:36:56.784-315: [UI/Fight/FightView.lua:42]:0000攻击    table:0x157838A0    table:0x1815D6D0    60
+[Log]09:36:56.786-315: [UI/Fight/FightView.lua:42]:0000攻击    table:0x15773668    table:0x1815D6D0    65
+[Log]09:36:56.787-315: [UI/Fight/FightView.lua:42]:0000攻击    table:0x157754B8    table:0x1815D6D0    85
+[Log]09:36:56.789-315: [UI/Fight/FightView.lua:42]:0000攻击    table:0x1814A648    table:0x1815D6D0    95
+[Log]09:36:56.790-315: [UI/Fight/FightView.lua:42]:0000攻击    table:0x181642B8    table:0x1815D6D0    120
+[Log]09:36:57.763-381: [Common/tools.lua:50]:孙悟空 攻击 哪吒   
+[Log]09:36:57.765-381: [UI/Fight/FightView.lua:42]:0000攻击    table:0x389739B8    table:0x183E70F8    85
+[Log]09:36:57.766-381: [UI/Fight/FightView.lua:42]:0000攻击    table:0x183F18C0    table:0x183E70F8    100
+[Log]09:36:57.767-381: [UI/Fight/FightView.lua:42]:0000攻击    table:0x1576C770    table:0x183E70F8    75
+[Log]09:36:57.769-381: [UI/Fight/FightView.lua:42]:0000攻击    table:0x1A31B4F8    table:0x183E70F8    60
+[Log]09:36:57.770-381: [UI/Fight/FightView.lua:42]:0000攻击    table:0x183E70F8    table:0x183E70F8    100
+[Log]09:36:57.771-381: [Common/tools.lua:50]:白龙马 攻击 孙悟空   
+[Log]09:36:57.773-381: [UI/Fight/FightView.lua:42]:0000攻击    table:0x157838A0    table:0x1815D6D0    60
+[Log]09:36:57.774-381: [UI/Fight/FightView.lua:42]:0000攻击    table:0x15773668    table:0x1815D6D0    65
+[Log]09:36:57.775-381: [UI/Fight/FightView.lua:42]:0000攻击    table:0x157754B8    table:0x1815D6D0    85
+[Log]09:36:57.776-381: [UI/Fight/FightView.lua:42]:0000攻击    table:0x1814A648    table:0x1815D6D0    95
+[Log]09:36:57.777-381: [UI/Fight/FightView.lua:42]:0000攻击    table:0x181642B8    table:0x1815D6D0    120
+[Log]09:36:57.779-381: [Common/tools.lua:50]:哪吒 攻击 孙悟空   
+[Log]09:36:57.780-381: [UI/Fight/FightView.lua:42]:0000攻击    table:0x157838A0    table:0x1815D6D0    60
+[Log]09:36:57.781-381: [UI/Fight/FightView.lua:42]:0000攻击    table:0x15773668    table:0x1815D6D0    65
+[Log]09:36:57.783-381: [UI/Fight/FightView.lua:42]:0000攻击    table:0x157754B8    table:0x1815D6D0    85
+[Log]09:36:57.784-381: [UI/Fight/FightView.lua:42]:0000攻击    table:0x1814A648    table:0x1815D6D0    95
+[Log]09:36:57.785-381: [UI/Fight/FightView.lua:42]:0000攻击    table:0x181642B8    table:0x1815D6D0    120
+[Log]09:36:58.764-448: [Common/tools.lua:50]:孙悟空 攻击 白龙马   
+[Log]09:36:58.766-448: [UI/Fight/FightView.lua:42]:0000攻击    table:0x389739B8    table:0x1576C770    85
+[Log]09:36:58.768-448: [UI/Fight/FightView.lua:42]:0000攻击    table:0x183F18C0    table:0x1576C770    100
+[Log]09:36:58.770-448: [UI/Fight/FightView.lua:42]:0000攻击    table:0x1576C770    table:0x1576C770    65
+[Log]09:36:58.772-448: [Common/tools.lua:50]:白龙马 攻击 孙悟空   
+[Log]09:36:58.774-448: [UI/Fight/FightView.lua:42]:0000攻击    table:0x157838A0    table:0x1815D6D0    60
+[Log]09:36:58.776-448: [UI/Fight/FightView.lua:42]:0000攻击    table:0x15773668    table:0x1815D6D0    65
+[Log]09:36:58.778-448: [UI/Fight/FightView.lua:42]:0000攻击    table:0x157754B8    table:0x1815D6D0    85
+[Log]09:36:58.780-448: [UI/Fight/FightView.lua:42]:0000攻击    table:0x1814A648    table:0x1815D6D0    95
+[Log]09:36:58.782-448: [UI/Fight/FightView.lua:42]:0000攻击    table:0x181642B8    table:0x1815D6D0    120
+[Log]09:36:58.783-448: [Common/tools.lua:50]:哪吒 攻击 孙悟空   
+[Log]09:36:58.788-448: [Scene/Fight/FightScene.lua:92]:----卡牌死了    12    nil
+[Log]OutLog Finish

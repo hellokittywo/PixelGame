@@ -1,0 +1,80 @@
+﻿[Log]OutLog Start
+[Log]08:52:13.94-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x45DF2208
+[Log]08:52:13.97-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x465F1BE8
+[Error]资源：Prefabs/Fight/FightView 加载为空
+[Exception]KeyNotFoundException: A Prefab with the name 'FightView' not found. 
+Prefabs=[]
+[Log]游戏暂停！
+[Warning]There are inconsistent line endings in the 'Assets/LuaFramework/Scripts/Manager/ObjectPoolManager.cs' script. Some are Mac OS X (UNIX) and some are Windows.
+This might lead to incorrect line numbers in stacktraces and compiler errors. Many text editors can fix this using Convert Line Endings menu commands.
+[Warning]Assets/LuaFramework/Scripts/Manager/NetworkManager.cs(80,18): warning CS0109: The member `LuaFramework.NetworkManager.OnDestroy()' does not hide an inherited member. The new keyword is not required
+[Warning]Assets/LuaFramework/Scripts/Manager/SoundManager.cs(7,29): warning CS0108: `LuaFramework.SoundManager.audio' hides inherited member `UnityEngine.Component.audio'. Use the new keyword if hiding was intended
+[Warning]Assets/LuaFramework/Scripts/ObjectPool/TestObjectClass.cs(19,23): warning CS0114: `LuaFramework.TestObjectClass.ToString()' hides inherited member `object.ToString()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+[Warning]Assets/Scripts/PoolManager/SpawnPool.cs(791,16): warning CS0618: `UnityEngine.ParticleEmitter' is obsolete: `This component is part of the legacy particle system, which is deprecated and will be removed in a future release. Use the ParticleSystem component instead.'
+[Warning]Assets/Scripts/PoolManager/SpawnPool.cs(791,54): warning CS0618: `UnityEngine.ParticleEmitter' is obsolete: `This component is part of the legacy particle system, which is deprecated and will be removed in a future release. Use the ParticleSystem component instead.'
+[Warning]Assets/Scripts/PoolManager/SpawnPool.cs(827,16): warning CS0618: `UnityEngine.ParticleEmitter' is obsolete: `This component is part of the legacy particle system, which is deprecated and will be removed in a future release. Use the ParticleSystem component instead.'
+[Warning]Assets/Scripts/PoolManager/SpawnPool.cs(827,54): warning CS0618: `UnityEngine.ParticleEmitter' is obsolete: `This component is part of the legacy particle system, which is deprecated and will be removed in a future release. Use the ParticleSystem component instead.'
+[Warning]Assets/Scripts/PoolManager/SpawnPool.cs(1090,66): warning CS0618: `UnityEngine.ParticleEmitter' is obsolete: `This component is part of the legacy particle system, which is deprecated and will be removed in a future release. Use the ParticleSystem component instead.'
+[Warning]Assets/LuaFramework/Scripts/Controller/Command/StartUpCommand.cs(13,21): warning CS0219: The variable `appView' is assigned but its value is never used
+[Warning]Assets/LuaFramework/Scripts/Manager/LuaManager.cs(77,17): warning CS0162: Unreachable code detected
+[Warning]Assets/LuaFramework/Scripts/Manager/LuaManager.cs(112,29): warning CS0618: `LuaInterface.LuaFunction.LazyCall(params object[])' is obsolete: `LuaFunction.LazyCall() is obsolete.Use LuaFunction.Invoke()'
+[Warning]Assets/LuaFramework/Scripts/Manager/ObjectPoolManager.cs(32,20): warning CS0219: The variable `prefabUrl' is assigned but its value is never used
+[Warning]Assets/LuaFramework/Scripts/Manager/ResourceManager.cs(16,17): warning CS0162: Unreachable code detected
+[Warning]Assets/LuaFramework/Scripts/Network/Converter.cs(109,34): warning CS0675: The operator `|' used on the sign-extended type `int'. Consider casting to a smaller unsigned type first
+[Warning]Assets/LuaFramework/Scripts/Utility/Util.cs(209,55): warning CS0429: Unreachable expression code detected
+[Warning]Assets/LuaFramework/Scripts/Utility/Util.cs(210,21): warning CS0162: Unreachable code detected
+[Warning]Assets/LuaFramework/Scripts/View/LoadingView.cs(35,23): warning CS0219: The variable `por' is assigned but its value is never used
+[Warning]Assets/LuaFramework/ToLua/Examples/08_AccessingArray/AccessingArray.cs(67,30): warning CS0618: `LuaInterface.LuaFunction.LazyCall(params object[])' is obsolete: `LuaFunction.LazyCall() is obsolete.Use LuaFunction.Invoke()'
+[Warning]Assets/Scripts/GameManager.cs(30,22): warning CS0219: The variable `main' is assigned but its value is never used
+[Warning]Assets/Scripts/GameManager.cs(34,32): warning CS0219: The variable `paymentManager' is assigned but its value is never used
+[Warning]Assets/Scripts/PoolManager/SpawnPool.cs(801,46): warning CS0618: `UnityEngine.ParticleAnimator' is obsolete: `This component is part of the legacy particle system, which is deprecated and will be removed in a future release. Use the ParticleSystem component instead.'
+[Warning]Assets/Scripts/PoolManager/SpawnPool.cs(805,45): warning CS0618: `UnityEngine.ParticleEmitter' is obsolete: `This component is part of the legacy particle system, which is deprecated and will be removed in a future release. Use the ParticleSystem component instead.'
+[Warning]Assets/Scripts/PoolManager/SpawnPool.cs(838,46): warning CS0618: `UnityEngine.ParticleAnimator' is obsolete: `This component is part of the legacy particle system, which is deprecated and will be removed in a future release. Use the ParticleSystem component instead.'
+[Warning]Assets/Scripts/PoolManager/SpawnPool.cs(842,45): warning CS0618: `UnityEngine.ParticleEmitter' is obsolete: `This component is part of the legacy particle system, which is deprecated and will be removed in a future release. Use the ParticleSystem component instead.'
+[Warning]Assets/Scripts/PoolManager/SpawnPool.cs(1091,9): warning CS0618: `UnityEngine.ParticleEmitter' is obsolete: `This component is part of the legacy particle system, which is deprecated and will be removed in a future release. Use the ParticleSystem component instead.'
+[Warning]Assets/Scripts/PoolManager/SpawnPool.cs(1131,53): warning CS0618: `UnityEngine.ParticleSystem.startDelay' is obsolete: `startDelay property is deprecated. Use main.startDelay or main.startDelayMultiplier instead.'
+[Warning]Assets/Scripts/Utils/OutLog.cs(57,25): warning CS0618: `UnityEngine.Application.RegisterLogCallback(UnityEngine.Application.LogCallback)' is obsolete: `Application.RegisterLogCallback is deprecated. Use Application.logMessageReceived instead.'
+[Warning]Assets/Scripts/Utils/OutLog.cs(65,25): warning CS0618: `UnityEngine.Application.RegisterLogCallback(UnityEngine.Application.LogCallback)' is obsolete: `Application.RegisterLogCallback is deprecated. Use Application.logMessageReceived instead.'
+[Warning]Assets/LuaFramework/Scripts/Common/LuaBehaviour.cs(9,24): warning CS0414: The private field `LuaFramework.LuaBehaviour.data' is assigned but its value is never used
+[Warning]Assets/LuaFramework/Scripts/ObjectPool/GameObjectPool.cs(17,21): warning CS0414: The private field `LuaFramework.GameObjectPool.maxSize' is assigned but its value is never used
+[Warning]Assets/LuaFramework/Scripts/ObjectPool/GameObjectPool.cs(18,15): warning CS0414: The private field `LuaFramework.GameObjectPool.poolSize' is assigned but its value is never used
+[Warning]Assets/LuaFramework/Scripts/Utility/WrapGrid.cs(17,14): warning CS0414: The private field `LuaFramework.WrapGrid.mFirstTime' is assigned but its value is never used
+[Warning]Assets/Scripts/Utils/MyDragAndDrop.cs(9,24): warning CS0414: The private field `MyDragAndDrop.sourceParent' is assigned but its value is never used
+[Warning]Assets/Scripts/Utils/MyDragAndDrop.cs(10,21): warning CS0414: The private field `MyDragAndDrop.prePos' is assigned but its value is never used
+[Warning]Assets/Scripts/Utils/OutLog.cs(13,29): warning CS0414: The private field `Scripts.Utils.OutLog.mWriteTxt' is assigned but its value is never used
+[Warning]Assets/Editor/AssetBundlesAll.cs(179,23): warning CS0618: `UnityEditor.BuildPipeline.PushAssetDependencies()' is obsolete: `PushAssetDependencies has been made obsolete. Please use the new AssetBundle build system introduced in 5.0 and check BuildAssetBundles documentation for details.'
+[Warning]Assets/Editor/AssetBundlesAll.cs(181,67): warning CS0618: `UnityEditor.BuildAssetBundleOptions.CollectDependencies' is obsolete: `This has been made obsolete. It is always enabled in the new AssetBundle build system introduced in 5.0.'
+[Warning]Assets/Editor/AssetBundlesAll.cs(201,31): warning CS0618: `UnityEditor.BuildPipeline.BuildAssetBundle(UnityEngine.Object, UnityEngine.Object[], string, UnityEditor.BuildAssetBundleOptions, UnityEditor.BuildTarget)' is obsolete: `BuildAssetBundle has been made obsolete. Please use the new AssetBundle build system introduced in 5.0 and check BuildAssetBundles documentation for details.'
+[Warning]Assets/Editor/AssetBundlesAll.cs(251,23): warning CS0618: `UnityEditor.BuildPipeline.PopAssetDependencies()' is obsolete: `PopAssetDependencies has been made obsolete. Please use the new AssetBundle build system introduced in 5.0 and check BuildAssetBundles documentation for details.'
+[Warning]Assets/Editor/AssetBundlesAll.cs(180,22): warning CS0219: The variable `zipList' is assigned but its value is never used
+[Warning]Assets/Editor/AssetBundlesAll.cs(452,23): warning CS0618: `UnityEditor.BuildPipeline.PushAssetDependencies()' is obsolete: `PushAssetDependencies has been made obsolete. Please use the new AssetBundle build system introduced in 5.0 and check BuildAssetBundles documentation for details.'
+[Warning]Assets/Editor/AssetBundlesAll.cs(453,67): warning CS0618: `UnityEditor.BuildAssetBundleOptions.CollectDependencies' is obsolete: `This has been made obsolete. It is always enabled in the new AssetBundle build system introduced in 5.0.'
+[Warning]Assets/Editor/AssetBundlesAll.cs(460,31): warning CS0618: `UnityEditor.BuildPipeline.BuildAssetBundle(UnityEngine.Object, UnityEngine.Object[], string, UnityEditor.BuildAssetBundleOptions, UnityEditor.BuildTarget)' is obsolete: `BuildAssetBundle has been made obsolete. Please use the new AssetBundle build system introduced in 5.0 and check BuildAssetBundles documentation for details.'
+[Warning]Assets/Editor/AssetBundlesAll.cs(468,23): warning CS0618: `UnityEditor.BuildPipeline.PopAssetDependencies()' is obsolete: `PopAssetDependencies has been made obsolete. Please use the new AssetBundle build system introduced in 5.0 and check BuildAssetBundles documentation for details.'
+[Warning]Assets/Editor/AssetLuaCode.cs(240,20): warning CS0219: The variable `bundleName' is assigned but its value is never used
+[Warning]Assets/Editor/AssetLuaCode.cs(317,20): warning CS0219: The variable `bundleName' is assigned but its value is never used
+[Warning]Assets/Editor/AssetLuaCode.cs(372,67): warning CS0618: `UnityEditor.BuildAssetBundleOptions.CollectDependencies' is obsolete: `This has been made obsolete. It is always enabled in the new AssetBundle build system introduced in 5.0.'
+[Warning]Assets/Editor/AssetLuaCode.cs(372,113): warning CS0618: `UnityEditor.BuildAssetBundleOptions.CompleteAssets' is obsolete: `This has been made obsolete. It is always enabled in the new AssetBundle build system introduced in 5.0.'
+[Warning]Assets/Editor/AssetLuaCode.cs(400,27): warning CS0618: `UnityEditor.BuildPipeline.BuildAssetBundle(UnityEngine.Object, UnityEngine.Object[], string, UnityEditor.BuildAssetBundleOptions, UnityEditor.BuildTarget)' is obsolete: `BuildAssetBundle has been made obsolete. Please use the new AssetBundle build system introduced in 5.0 and check BuildAssetBundles documentation for details.'
+[Warning]Assets/Editor/AssetLuaCode.cs(385,20): warning CS0219: The variable `md5' is assigned but its value is never used
+[Warning]Assets/Editor/AssetLuaCode.cs(386,20): warning CS0219: The variable `luaname' is assigned but its value is never used
+[Warning]Assets/Editor/AssetLuaCode.cs(387,20): warning CS0219: The variable `luastr' is assigned but its value is never used
+[Warning]Assets/Editor/AssetLuaCode.cs(388,20): warning CS0219: The variable `zipLuastr' is assigned but its value is never used
+[Warning]Assets/Editor/AssetLuaCode.cs(480,67): warning CS0618: `UnityEditor.BuildAssetBundleOptions.CollectDependencies' is obsolete: `This has been made obsolete. It is always enabled in the new AssetBundle build system introduced in 5.0.'
+[Warning]Assets/Editor/AssetLuaCode.cs(480,113): warning CS0618: `UnityEditor.BuildAssetBundleOptions.CompleteAssets' is obsolete: `This has been made obsolete. It is always enabled in the new AssetBundle build system introduced in 5.0.'
+[Warning]Assets/Editor/AssetLuaCode.cs(524,27): warning CS0618: `UnityEditor.BuildPipeline.BuildAssetBundle(UnityEngine.Object, UnityEngine.Object[], string, UnityEditor.BuildAssetBundleOptions, UnityEditor.BuildTarget)' is obsolete: `BuildAssetBundle has been made obsolete. Please use the new AssetBundle build system introduced in 5.0 and check BuildAssetBundles documentation for details.'
+[Warning]Assets/Editor/AssetLuaCode.cs(545,20): warning CS0219: The variable `ext' is assigned but its value is never used
+[Warning]Assets/Editor/AssetLuaCode.cs(655,9): warning CS0162: Unreachable code detected
+[Warning]Assets/Editor/AssetLuaCode.cs(704,21): warning CS0219: The variable `value' is assigned but its value is never used
+[Warning]Assets/Editor/HotupdateView.cs(306,9): warning CS0436: The type `LoadingView' conflicts with the imported type of same name'. Ignoring the imported type definition
+[Warning]Assets/LuaFramework/Editor/Packager.cs(153,20): warning CS0219: The variable `ext' is assigned but its value is never used
+[Warning]Assets/LuaFramework/Editor/Packager.cs(253,9): warning CS0162: Unreachable code detected
+[Warning]Assets/LuaFramework/NGUI/Scripts/Editor/NGUIEditorTools.cs(447,84): warning CS0618: `UnityEditor.TextureImporterFormat.AutomaticTruecolor' is obsolete: `Use textureCompression property instead'
+[Warning]Assets/LuaFramework/NGUI/Scripts/Editor/NGUIEditorTools.cs(447,46): warning CS0618: `UnityEditor.TextureImporterSettings.textureFormat' is obsolete: `Texture format can only be overridden on a per platform basis. See [[TextureImporterPlatformSettings]]'
+[Warning]Assets/LuaFramework/NGUI/Scripts/Editor/NGUIEditorTools.cs(471,13): warning CS0618: `UnityEditor.TextureImporterSettings.maxTextureSize' is obsolete: `Texture max size can only be overridden on a per platform basis. See [[TextureImporter.maxTextureSize]] for Default platform or [[TextureImporterPlatformSettings]]'
+[Warning]Assets/LuaFramework/NGUI/Scripts/Editor/NGUIEditorTools.cs(476,13): warning CS0618: `UnityEditor.TextureImporterSettings.maxTextureSize' is obsolete: `Texture max size can only be overridden on a per platform basis. See [[TextureImporter.maxTextureSize]] for Default platform or [[TextureImporterPlatformSettings]]'
+[Warning]Assets/LuaFramework/NGUI/Scripts/Editor/NGUIEditorTools.cs(482,14): warning CS0618: `UnityEditor.TextureImporterSettings.textureFormat' is obsolete: `Texture format can only be overridden on a per platform basis. See [[TextureImporterPlatformSettings]]'
+[Warning]Assets/LuaFramework/NGUI/Scripts/Editor/UIAtlasMaker.cs(574,23): warning CS0618: `UnityEditor.AssetDatabase.IsOpenForEdit(string)' is obsolete: `AssetDatabase.IsOpenForEdit without StatusQueryOptions has been deprecated. Use the version with StatusQueryOptions instead. This will always request the cached status (StatusQueryOptions.UseCachedIfPossible)'
+[Warning]Assets/Editor/AssetBundlesAll.cs(13,27): warning CS0414: The private field `AssetBundlesAll.ResourceName' is assigned but its value is never used
+[Warning]Assets/Editor/AssetBundlesAll.cs(14,27): warning CS0414: The private field `AssetBundlesAll.ApkName' is assigned but its value is never used
+[Warning]Assets/Editor/AssetBundlesAll.cs(18,27): warning CS0414: The private field `AssetBundlesAll.DesDirectory' is assigned but its value is never used

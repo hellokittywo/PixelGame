@@ -1,0 +1,2 @@
+hotUpdateVersion|1
+versionCode|1

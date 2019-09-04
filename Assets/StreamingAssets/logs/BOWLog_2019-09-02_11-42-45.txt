@@ -1,0 +1,14 @@
+﻿[Log]OutLog Start
+[Log]11:42:42.104-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x27A7A7E8
+[Exception]LuaException: UI/Fight/FightView:202: ')' expected (to close '(' at line 201) near 'tools'
+stack traceback:
+	[C]: at 0x613c2c60
+	[C]: in function 'require'
+	UI/Fight/FightCtrl:7: in function 'ctor'
+	Common/functions:169: in function 'new'
+	Manager/CtrlManager:39: in function 'CreateCtrl'
+	Manager/CtrlManager:68: in function 'openPanel'
+	Scene/Fight/FightScene:20: in function 'Init'
+	Main.lua:27: in function <Main.lua:16>
+[Log]游戏暂停！
+[Log]OutLog Finish

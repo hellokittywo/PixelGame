@@ -1,0 +1,69 @@
+﻿[Log]OutLog Start
+[Log]16:49:10.128-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x388C5E48
+[Log]16:49:10.133-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x38867618
+[Log]16:49:21.494-678: [Common/tools.lua:50]:---寻路    4    5    1    1
+[Log]16:49:21.497-678: [Common/tools.lua:50]:---寻路    3    5    1    1
+[Log]16:49:21.499-678: [Common/tools.lua:50]:---寻路    3    6    1    1
+[Log]16:49:21.501-678: [Common/tools.lua:50]:---寻路    5    5    1    1
+[Log]16:49:21.503-678: [Common/tools.lua:50]:---寻路    5    6    1    1
+[Log]16:49:21.506-678: [Common/tools.lua:50]:---寻路    4    6    1    1
+[Log]16:49:21.508-678: [Common/tools.lua:50]:---寻路    1    1    3    5
+[Log]16:49:21.979-707: [Scene/Fight/CardAiAction.lua:66]:----移动    4    4    22
+[Log]16:49:21.982-707: [Scene/Fight/CardAiAction.lua:66]:----移动    3    4    16
+[Log]16:49:21.983-707: [Scene/Fight/CardAiAction.lua:66]:----移动    2    6    12
+[Log]16:49:21.984-707: [Scene/Fight/CardAiAction.lua:66]:----移动    5    4    28
+[Log]16:49:21.985-707: [Scene/Fight/CardAiAction.lua:66]:----移动    6    6    36
+[Log]16:49:21.986-707: [Scene/Fight/CardAiAction.lua:66]:----移动    1    2    2
+[Log]16:49:22.195-720: [Common/tools.lua:50]:---寻路    4    4    1    2
+[Log]16:49:22.196-720: [Common/tools.lua:50]:---寻路    3    4    1    2
+[Log]16:49:22.197-720: [Common/tools.lua:50]:---寻路    2    6    1    2
+[Log]16:49:22.198-720: [Common/tools.lua:50]:---寻路    5    4    1    2
+[Log]16:49:22.199-720: [Common/tools.lua:50]:---寻路    6    6    1    2
+[Log]16:49:22.200-720: [Common/tools.lua:50]:---寻路    1    2    3    4
+[Log]16:49:22.708-751: [Scene/Fight/CardAiAction.lua:66]:----移动    4    3    21
+[Log]16:49:22.709-751: [Scene/Fight/CardAiAction.lua:66]:----移动    3    3    15
+[Log]16:49:22.710-751: [Scene/Fight/CardAiAction.lua:66]:----移动    2    5    11
+[Log]16:49:22.711-751: [Scene/Fight/CardAiAction.lua:66]:----移动    5    3    27
+[Log]16:49:22.712-751: [Scene/Fight/CardAiAction.lua:66]:----移动    5    6    30
+[Log]16:49:22.713-751: [Scene/Fight/CardAiAction.lua:66]:----移动    1    3    3
+[Log]16:49:22.923-764: [Common/tools.lua:50]:---寻路    4    3    1    3
+[Log]16:49:22.924-764: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]16:49:22.925-764: [Common/tools.lua:50]:---寻路    2    5    1    3
+[Log]16:49:22.926-764: [Common/tools.lua:50]:---寻路    5    3    1    3
+[Log]16:49:22.928-764: [Common/tools.lua:50]:---寻路    5    6    1    3
+[Log]16:49:22.929-764: [Common/tools.lua:50]:---寻路    1    3    3    3
+[Log]16:49:23.424-794: [Scene/Fight/CardAiAction.lua:66]:----移动    4    4    22
+[Log]16:49:23.425-794: [Scene/Fight/CardAiAction.lua:66]:----移动    2    3    9
+[Log]16:49:23.426-794: [Scene/Fight/CardAiAction.lua:66]:----移动    2    4    10
+[Log]16:49:23.427-794: [Scene/Fight/CardAiAction.lua:66]:----移动    5    4    28
+[Log]16:49:23.428-794: [Scene/Fight/CardAiAction.lua:66]:----移动    5    5    29
+[Log]16:49:23.429-794: [Scene/Fight/CardAiAction.lua:66]:----移动    2    3    9
+[Log]16:49:23.640-807: [Common/tools.lua:50]:---寻路    4    4    2    3
+[Log]16:49:23.641-807: [Common/tools.lua:50]:---寻路    2    3    2    3
+[Log]16:49:23.643-807: [Common/tools.lua:50]:---寻路    5    4    2    3
+[Log]16:49:23.644-807: [Common/tools.lua:50]:---寻路    5    5    2    3
+[Log]16:49:24.153-838: [Scene/Fight/CardAiAction.lua:66]:----移动    3    4    16
+[Log]16:49:24.154-838: [Scene/Fight/CardAiAction.lua:66]:----移动    5    3    27
+[Log]16:49:24.155-838: [Scene/Fight/CardAiAction.lua:66]:----移动    4    5    23
+[Log]16:49:24.369-851: [Common/tools.lua:50]:---寻路    5    3    2    3
+[Log]16:49:24.370-851: [Common/tools.lua:50]:---寻路    4    5    2    3
+[Log]16:49:24.882-882: [Scene/Fight/CardAiAction.lua:66]:----移动    4    3    21
+[Log]16:49:24.883-882: [Scene/Fight/CardAiAction.lua:66]:----移动    4    4    22
+[Log]16:49:25.98-895: [Common/tools.lua:50]:---寻路    4    3    2    3
+[Log]16:49:25.99-895: [Common/tools.lua:50]:---寻路    4    4    2    3
+[Log]16:49:25.611-926: [Scene/Fight/CardAiAction.lua:66]:----移动    3    3    15
+[Log]16:49:25.612-926: [Scene/Fight/CardAiAction.lua:66]:----移动    4    5    23
+[Log]16:49:25.828-939: [Common/tools.lua:50]:---寻路    4    5    2    3
+[Log]16:49:26.340-970: [Scene/Fight/CardAiAction.lua:66]:----移动    4    4    22
+[Log]16:49:26.555-983: [Common/tools.lua:50]:---寻路    4    4    2    3
+[Log]16:49:27.70-15: [Scene/Fight/CardAiAction.lua:66]:----移动    4    3    21
+[Log]16:49:27.285-28: [Common/tools.lua:50]:---寻路    4    3    2    3
+[Log]16:49:27.799-59: [Scene/Fight/CardAiAction.lua:66]:----移动    4    2    20
+[Log]16:49:28.14-72: [Common/tools.lua:50]:---寻路    4    2    2    3
+[Log]16:49:28.528-103: [Scene/Fight/CardAiAction.lua:66]:----移动    3    2    14
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]16:49:37.336-0: Lua function Network.Unload not exists
+[Log]16:49:37.345-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

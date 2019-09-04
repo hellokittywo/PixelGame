@@ -1,0 +1,15 @@
+﻿[Log]OutLog Start
+[Log]17:15:11.71-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x3490E620
+[Log]17:15:11.77-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x348D5958
+[Log]17:15:13.671-133: [Scene/Fight/CardAiAction.lua:86]:------移动    孙悟空    5
+[Log]17:15:13.673-133: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]17:15:13.674-133: [Scene/Fight/CardAiAction.lua:86]:------移动    孙悟空    4
+[Log]17:15:13.675-133: [Scene/Fight/CardAiAction.lua:88]:5
+[Log]17:15:13.675-133: [Scene/Fight/CardAiAction.lua:88]:3
+[Log]17:15:13.676-133: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]17:15:21.974-0: Lua function Network.Unload not exists
+[Log]17:15:21.982-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

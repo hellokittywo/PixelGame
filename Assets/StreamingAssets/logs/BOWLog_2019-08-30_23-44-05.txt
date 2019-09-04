@@ -1,0 +1,16 @@
+﻿[Log]OutLog Start
+[Log]23:42:45.445-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x17F54C70
+[Log]23:42:45.452-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x17F5B400
+[Log]游戏暂停！
+[Log]23:42:53.980-391: [Scene/Fight/CardAiAction.lua:63]:---移动啊2222    0
+[Log]23:42:54.468-420: [Scene/Fight/CardAiAction.lua:63]:---移动啊2222    7
+[Log]23:42:55.196-464: [Scene/Fight/CardAiAction.lua:63]:---移动啊2222    4
+[Log]23:42:55.925-508: [Scene/Fight/CardAiAction.lua:63]:---移动啊2222    3
+[Log]23:42:56.653-552: [Scene/Fight/CardAiAction.lua:63]:---移动啊2222    2
+[Log]23:42:57.370-595: [Scene/Fight/CardAiAction.lua:63]:---移动啊2222    1
+[Log]游戏暂停！
+[Log]游戏暂停！
+[Log]游戏暂停！
+[Log]游戏暂停！
+[Log]游戏暂停！
+[Log]OutLog Finish

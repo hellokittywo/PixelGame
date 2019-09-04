@@ -1,0 +1,59 @@
+﻿[Log]OutLog Start
+[Log]15:22:02.633-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x15AF20A0
+[Log]15:22:02.638-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x15B028D0
+[Log]游戏暂停！
+[Log]15:22:14.473-492: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:22:14.475-492: [Common/tools.lua:50]:---寻路    4    5    1    1
+[Log]15:22:14.477-492: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:22:14.479-492: [Common/tools.lua:50]:---寻路    5    5    1    1
+[Log]15:22:14.481-492: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:22:14.483-492: [Common/tools.lua:50]:---寻路    5    6    1    1
+[Log]15:22:14.486-492: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:22:14.487-492: [Common/tools.lua:50]:---寻路    7    5    1    1
+[Log]15:22:14.489-492: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:22:14.493-492: [Common/tools.lua:50]:---寻路    6    6    1    1
+[Log]15:22:14.495-492: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:22:14.496-492: [Common/tools.lua:50]:---寻路    6    5    1    1
+[Log]15:22:14.498-492: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:22:14.500-492: [Common/tools.lua:50]:---寻路    1    1    4    5
+[Log]15:22:14.971-521: [Scene/Fight/CardAiAction.lua:62]:----移动    4    4    22
+[Log]15:22:14.973-521: [Scene/Fight/CardAiAction.lua:62]:----移动    5    4    28
+[Log]15:22:14.975-521: [Scene/Fight/CardAiAction.lua:62]:----移动    5    5    29
+[Log]15:22:14.976-521: [Scene/Fight/CardAiAction.lua:62]:----移动    6    5    35
+[Log]15:22:14.977-521: [Scene/Fight/CardAiAction.lua:62]:----移动    6    5    35
+[Log]15:22:14.978-521: [Scene/Fight/CardAiAction.lua:62]:----移动    5    5    29
+[Log]15:22:14.979-521: [Scene/Fight/CardAiAction.lua:62]:----移动    1    2    2
+[Log]15:22:15.175-533: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:22:15.176-533: [Common/tools.lua:50]:---寻路    4    4    1    2
+[Log]15:22:15.179-533: [Common/tools.lua:50]:------------这里死循环了    4    4    1    2
+[Log]15:22:15.180-533: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:22:15.181-533: [Common/tools.lua:50]:---寻路    5    4    1    2
+[Log]15:22:15.183-533: [Common/tools.lua:50]:------------这里死循环了    5    4    1    2
+[Log]15:22:15.184-533: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:22:15.185-533: [Common/tools.lua:50]:---寻路    5    5    1    2
+[Log]15:22:15.188-533: [Common/tools.lua:50]:------------这里死循环了    5    5    1    2
+[Log]15:22:15.189-533: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:22:15.190-533: [Common/tools.lua:50]:---寻路    6    5    1    2
+[Log]15:22:15.192-533: [Common/tools.lua:50]:------------这里死循环了    6    5    1    2
+[Log]15:22:15.193-533: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:22:15.193-533: [Common/tools.lua:50]:---寻路    6    5    1    2
+[Log]15:22:15.196-533: [Common/tools.lua:50]:------------这里死循环了    6    5    1    2
+[Log]15:22:15.197-533: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:22:15.198-533: [Common/tools.lua:50]:---寻路    5    5    1    2
+[Log]15:22:15.201-533: [Common/tools.lua:50]:------------这里死循环了    5    5    1    2
+[Log]15:22:15.202-533: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:22:15.203-533: [Common/tools.lua:50]:---寻路    1    2    4    4
+[Log]15:22:15.687-563: [Scene/Fight/CardAiAction.lua:62]:----移动    2    2    8
+[Log]15:22:15.903-576: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:22:15.904-576: [Common/tools.lua:50]:---寻路    2    2    4    4
+[Log]15:22:16.416-607: [Scene/Fight/CardAiAction.lua:62]:----移动    2    3    9
+[Log]15:22:16.632-620: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]15:22:16.633-620: [Common/tools.lua:50]:---寻路    2    3    4    4
+[Log]15:22:17.145-651: [Scene/Fight/CardAiAction.lua:62]:----移动    3    3    15
+[Log]15:22:17.361-664: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    1
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]15:22:20.60-0: Lua function Network.Unload not exists
+[Log]15:22:20.68-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

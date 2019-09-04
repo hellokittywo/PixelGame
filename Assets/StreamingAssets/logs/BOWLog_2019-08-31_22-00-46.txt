@@ -1,0 +1,36 @@
+﻿[Log]OutLog Start
+[Log]22:00:20.419-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x1521F2D0
+[Log]22:00:20.424-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x1520EDE8
+[Log]22:00:22.727-152: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]22:00:22.731-152: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]22:00:23.212-186: [Scene/Fight/CardAiAction.lua:76]:----移动    3    5    哪吒
+[Log]22:00:23.422-200: [Common/tools.lua:50]:---寻路    3    5    1    3
+[Log]22:00:23.423-200: [Common/tools.lua:50]:-------------当前探索起点    3    5    1
+[Log]22:00:23.931-236: [Scene/Fight/CardAiAction.lua:76]:----移动    3    4    哪吒
+[Log]22:00:24.131-251: [Common/tools.lua:50]:---寻路    3    4    1    3
+[Log]22:00:24.132-251: [Common/tools.lua:50]:-------------当前探索起点    3    4    1
+[Log]22:00:24.642-288: [Scene/Fight/CardAiAction.lua:76]:----移动    3    3    哪吒
+[Log]22:00:24.845-302: [Common/tools.lua:50]:---寻路    3    3    1    3
+[Log]22:00:24.846-302: [Common/tools.lua:50]:-------------当前探索起点    3    3    1
+[Log]22:00:25.360-344: [Scene/Fight/CardAiAction.lua:76]:----移动    4    3    哪吒
+[Log]22:00:25.561-359: [Common/tools.lua:50]:---寻路    4    3    1    3
+[Log]22:00:25.562-359: [Common/tools.lua:50]:-------------当前探索起点    4    3    1
+[Log]22:00:26.68-399: [Scene/Fight/CardAiAction.lua:76]:----移动    4    2    哪吒
+[Log]22:00:26.274-413: [Common/tools.lua:50]:---寻路    4    2    1    3
+[Log]22:00:26.275-413: [Common/tools.lua:50]:-------------当前探索起点    4    2    1
+[Log]22:00:26.781-450: [Scene/Fight/CardAiAction.lua:76]:----移动    4    1    哪吒
+[Log]22:00:26.993-465: [Common/tools.lua:50]:---寻路    4    1    1    3
+[Log]22:00:26.994-465: [Common/tools.lua:50]:-------------当前探索起点    4    1    1
+[Log]22:00:42.126-493: [Scene/Fight/CardAiAction.lua:76]:----移动    3    1    哪吒
+[Log]22:00:42.337-508: [Common/tools.lua:50]:---寻路    3    1    1    3
+[Log]22:00:42.338-508: [Common/tools.lua:50]:-------------当前探索起点    3    1    1
+[Log]22:00:42.848-545: [Scene/Fight/CardAiAction.lua:76]:----移动    2    1    哪吒
+[Log]22:00:43.55-559: [Common/tools.lua:50]:---寻路    2    1    1    3
+[Log]22:00:43.56-559: [Common/tools.lua:50]:-------------当前探索起点    2    1    1
+[Log]22:00:43.555-597: [Scene/Fight/CardAiAction.lua:76]:----移动    2    2    哪吒
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]22:00:46.853-0: Lua function Network.Unload not exists
+[Log]22:00:46.861-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

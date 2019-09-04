@@ -1,0 +1,244 @@
+﻿[Log]OutLog Start
+[Log]13:27:40.613-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x1194A648
+[Log]13:27:40.618-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x14CCA728
+[Log]13:27:46.653-369: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]13:27:46.656-369: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]13:27:46.659-369: [Common/tools.lua:50]:1-------------当前探索结点    4    5    0    0    3    parent:nil
+[Log]13:27:46.661-369: [Common/tools.lua:50]:2-------------当前探索结点    3    5    1    8    3    parent:    4    5
+[Log]13:27:46.663-369: [Common/tools.lua:50]:3-------------当前探索结点    3    4    1    5    1    parent:    3    5
+[Log]13:27:46.666-369: [Common/tools.lua:50]:4-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:27:46.669-369: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:27:46.671-369: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:27:46.673-369: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    3    3
+[Log]13:27:46.675-369: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:27:46.677-369: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:27:46.680-369: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:27:46.682-369: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:27:46.684-369: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:27:46.687-369: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:27:46.692-369: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:27:46.696-369: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:27:46.699-369: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:27:46.701-369: [Scene/Fight/CardAiAction.lua:53]:----target2222    0
+[Log]13:27:46.704-369: [Scene/Fight/CardAiAction.lua:55]:23    1
+[Log]13:27:46.707-369: [Scene/Fight/CardAiAction.lua:55]:14    1
+[Log]13:27:46.709-369: [Scene/Fight/CardAiAction.lua:55]:22    1
+[Log]13:27:46.712-369: [Scene/Fight/CardAiAction.lua:55]:4    1
+[Log]13:27:46.714-369: [Scene/Fight/CardAiAction.lua:55]:10    1
+[Log]13:27:46.716-369: [Scene/Fight/CardAiAction.lua:55]:9    1
+[Log]13:27:46.719-369: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]13:27:46.721-369: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]13:27:46.723-369: [Common/tools.lua:50]:1-------------当前探索结点    4    4    0    0    3    parent:nil
+[Log]13:27:46.725-369: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    5    2    parent:    4    4
+[Log]13:27:46.729-369: [Common/tools.lua:50]:3-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:27:46.731-369: [Common/tools.lua:50]:4-------------当前探索结点    3    5    1    8    2    parent:    3    4
+[Log]13:27:46.734-369: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:27:46.737-369: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:27:46.740-369: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    4    4
+[Log]13:27:46.742-369: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:27:46.744-369: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:27:46.747-369: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:27:46.750-369: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:27:46.752-369: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:27:46.755-369: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:27:46.757-369: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:27:46.759-369: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:27:46.761-369: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:27:46.763-369: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]13:27:46.765-369: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]13:27:46.768-369: [Common/tools.lua:50]:1-------------当前探索结点    3    2    0    0    4    parent:nil
+[Log]13:27:46.770-369: [Common/tools.lua:50]:2-------------当前探索结点    2    2    1    2    2    parent:    3    2
+[Log]13:27:46.772-369: [Common/tools.lua:50]:3-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:27:47.146-392: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]13:27:47.147-392: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]13:27:47.148-392: [Common/tools.lua:50]:1-------------当前探索结点    4    5    0    0    3    parent:nil
+[Log]13:27:47.149-392: [Common/tools.lua:50]:2-------------当前探索结点    3    5    1    8    3    parent:    4    5
+[Log]13:27:47.151-392: [Common/tools.lua:50]:3-------------当前探索结点    3    4    1    5    1    parent:    3    5
+[Log]13:27:47.153-392: [Common/tools.lua:50]:4-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:27:47.155-392: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:27:47.156-392: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:27:47.157-392: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    3    3
+[Log]13:27:47.158-392: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:27:47.158-392: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:27:47.159-392: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:27:47.160-392: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:27:47.161-392: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:27:47.162-392: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:27:47.163-392: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:27:47.164-392: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:27:47.165-392: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:27:47.167-392: [Scene/Fight/CardAiAction.lua:53]:----target2222    0
+[Log]13:27:47.169-392: [Scene/Fight/CardAiAction.lua:55]:23    1
+[Log]13:27:47.170-392: [Scene/Fight/CardAiAction.lua:55]:14    1
+[Log]13:27:47.172-392: [Scene/Fight/CardAiAction.lua:55]:22    1
+[Log]13:27:47.174-392: [Scene/Fight/CardAiAction.lua:55]:4    1
+[Log]13:27:47.175-392: [Scene/Fight/CardAiAction.lua:55]:10    1
+[Log]13:27:47.177-392: [Scene/Fight/CardAiAction.lua:55]:9    1
+[Log]13:27:47.178-392: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]13:27:47.179-392: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]13:27:47.180-392: [Common/tools.lua:50]:1-------------当前探索结点    4    4    0    0    3    parent:nil
+[Log]13:27:47.181-392: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    5    2    parent:    4    4
+[Log]13:27:47.182-392: [Common/tools.lua:50]:3-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:27:47.183-392: [Common/tools.lua:50]:4-------------当前探索结点    3    5    1    8    2    parent:    3    4
+[Log]13:27:47.184-392: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:27:47.185-392: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:27:47.186-392: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    4    4
+[Log]13:27:47.187-392: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:27:47.188-392: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:27:47.189-392: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:27:47.190-392: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:27:47.191-392: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:27:47.192-392: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:27:47.193-392: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:27:47.194-392: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:27:47.196-392: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:27:47.197-392: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]13:27:47.198-392: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]13:27:47.200-392: [Common/tools.lua:50]:1-------------当前探索结点    3    2    0    0    4    parent:nil
+[Log]13:27:47.201-392: [Common/tools.lua:50]:2-------------当前探索结点    2    2    1    2    2    parent:    3    2
+[Log]13:27:47.202-392: [Common/tools.lua:50]:3-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:27:47.651-423: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]13:27:47.652-423: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]13:27:47.653-423: [Common/tools.lua:50]:1-------------当前探索结点    4    5    0    0    3    parent:nil
+[Log]13:27:47.654-423: [Common/tools.lua:50]:2-------------当前探索结点    3    5    1    8    3    parent:    4    5
+[Log]13:27:47.655-423: [Common/tools.lua:50]:3-------------当前探索结点    3    4    1    5    1    parent:    3    5
+[Log]13:27:47.656-423: [Common/tools.lua:50]:4-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:27:47.658-423: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:27:47.659-423: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:27:47.660-423: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    3    3
+[Log]13:27:47.661-423: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:27:47.662-423: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:27:47.675-423: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:27:47.676-423: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:27:47.677-423: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:27:47.679-423: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:27:47.680-423: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:27:47.682-423: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:27:47.683-423: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:27:47.684-423: [Scene/Fight/CardAiAction.lua:53]:----target2222    0
+[Log]13:27:47.685-423: [Scene/Fight/CardAiAction.lua:55]:23    1
+[Log]13:27:47.686-423: [Scene/Fight/CardAiAction.lua:55]:14    1
+[Log]13:27:47.687-423: [Scene/Fight/CardAiAction.lua:55]:22    1
+[Log]13:27:47.688-423: [Scene/Fight/CardAiAction.lua:55]:4    1
+[Log]13:27:47.689-423: [Scene/Fight/CardAiAction.lua:55]:10    1
+[Log]13:27:47.690-423: [Scene/Fight/CardAiAction.lua:55]:9    1
+[Log]13:27:47.691-423: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]13:27:47.692-423: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]13:27:47.693-423: [Common/tools.lua:50]:1-------------当前探索结点    4    4    0    0    3    parent:nil
+[Log]13:27:47.694-423: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    5    2    parent:    4    4
+[Log]13:27:47.695-423: [Common/tools.lua:50]:3-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:27:47.696-423: [Common/tools.lua:50]:4-------------当前探索结点    3    5    1    8    2    parent:    3    4
+[Log]13:27:47.698-423: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:27:47.703-423: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:27:47.704-423: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    4    4
+[Log]13:27:47.705-423: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:27:47.706-423: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:27:47.707-423: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:27:47.708-423: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:27:47.709-423: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:27:47.709-423: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:27:47.710-423: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:27:47.711-423: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:27:47.713-423: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:27:47.714-423: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]13:27:47.715-423: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]13:27:47.716-423: [Common/tools.lua:50]:1-------------当前探索结点    3    2    0    0    4    parent:nil
+[Log]13:27:47.717-423: [Common/tools.lua:50]:2-------------当前探索结点    2    2    1    2    2    parent:    3    2
+[Log]13:27:47.718-423: [Common/tools.lua:50]:3-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:27:48.160-452: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]13:27:48.161-452: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]13:27:48.162-452: [Common/tools.lua:50]:1-------------当前探索结点    4    5    0    0    3    parent:nil
+[Log]13:27:48.163-452: [Common/tools.lua:50]:2-------------当前探索结点    3    5    1    8    3    parent:    4    5
+[Log]13:27:48.164-452: [Common/tools.lua:50]:3-------------当前探索结点    3    4    1    5    1    parent:    3    5
+[Log]13:27:48.165-452: [Common/tools.lua:50]:4-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:27:48.166-452: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:27:48.167-452: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:27:48.169-452: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    3    3
+[Log]13:27:48.170-452: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:27:48.172-452: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:27:48.174-452: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:27:48.175-452: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:27:48.177-452: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:27:48.178-452: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:27:48.179-452: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:27:48.180-452: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:27:48.181-452: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:27:48.182-452: [Scene/Fight/CardAiAction.lua:53]:----target2222    0
+[Log]13:27:48.184-452: [Scene/Fight/CardAiAction.lua:55]:23    1
+[Log]13:27:48.186-452: [Scene/Fight/CardAiAction.lua:55]:14    1
+[Log]13:27:48.187-452: [Scene/Fight/CardAiAction.lua:55]:22    1
+[Log]13:27:48.188-452: [Scene/Fight/CardAiAction.lua:55]:4    1
+[Log]13:27:48.189-452: [Scene/Fight/CardAiAction.lua:55]:10    1
+[Log]13:27:48.190-452: [Scene/Fight/CardAiAction.lua:55]:9    1
+[Log]13:27:48.191-452: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]13:27:48.191-452: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]13:27:48.192-452: [Common/tools.lua:50]:1-------------当前探索结点    4    4    0    0    3    parent:nil
+[Log]13:27:48.193-452: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    5    2    parent:    4    4
+[Log]13:27:48.194-452: [Common/tools.lua:50]:3-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:27:48.195-452: [Common/tools.lua:50]:4-------------当前探索结点    3    5    1    8    2    parent:    3    4
+[Log]13:27:48.196-452: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:27:48.197-452: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:27:48.198-452: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    4    4
+[Log]13:27:48.199-452: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:27:48.200-452: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:27:48.202-452: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:27:48.202-452: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:27:48.204-452: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:27:48.205-452: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:27:48.206-452: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:27:48.207-452: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:27:48.208-452: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:27:48.209-452: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]13:27:48.209-452: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]13:27:48.210-452: [Common/tools.lua:50]:1-------------当前探索结点    3    2    0    0    4    parent:nil
+[Log]13:27:48.211-452: [Common/tools.lua:50]:2-------------当前探索结点    2    2    1    2    2    parent:    3    2
+[Log]13:27:48.212-452: [Common/tools.lua:50]:3-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:27:48.668-481: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]13:27:48.669-481: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]13:27:48.670-481: [Common/tools.lua:50]:1-------------当前探索结点    4    5    0    0    3    parent:nil
+[Log]13:27:48.671-481: [Common/tools.lua:50]:2-------------当前探索结点    3    5    1    8    3    parent:    4    5
+[Log]13:27:48.672-481: [Common/tools.lua:50]:3-------------当前探索结点    3    4    1    5    1    parent:    3    5
+[Log]13:27:48.673-481: [Common/tools.lua:50]:4-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:27:48.674-481: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:27:48.675-481: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:27:48.676-481: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    3    3
+[Log]13:27:48.677-481: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:27:48.678-481: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:27:48.679-481: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:27:48.680-481: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:27:48.682-481: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:27:48.683-481: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:27:48.685-481: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:27:48.687-481: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:27:48.688-481: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:27:48.689-481: [Scene/Fight/CardAiAction.lua:53]:----target2222    0
+[Log]13:27:48.690-481: [Scene/Fight/CardAiAction.lua:55]:23    1
+[Log]13:27:48.691-481: [Scene/Fight/CardAiAction.lua:55]:14    1
+[Log]13:27:48.692-481: [Scene/Fight/CardAiAction.lua:55]:22    1
+[Log]13:27:48.693-481: [Scene/Fight/CardAiAction.lua:55]:4    1
+[Log]13:27:48.694-481: [Scene/Fight/CardAiAction.lua:55]:10    1
+[Log]13:27:48.695-481: [Scene/Fight/CardAiAction.lua:55]:9    1
+[Log]13:27:48.697-481: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]13:27:48.698-481: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]13:27:48.699-481: [Common/tools.lua:50]:1-------------当前探索结点    4    4    0    0    3    parent:nil
+[Log]13:27:48.700-481: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    5    2    parent:    4    4
+[Log]13:27:48.701-481: [Common/tools.lua:50]:3-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:27:48.702-481: [Common/tools.lua:50]:4-------------当前探索结点    3    5    1    8    2    parent:    3    4
+[Log]13:27:48.703-481: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:27:48.706-481: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:27:48.710-481: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    4    4
+[Log]13:27:48.711-481: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:27:48.712-481: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:27:48.713-481: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:27:48.714-481: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:27:48.716-481: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:27:48.717-481: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:27:48.718-481: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:27:48.720-481: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:27:48.722-481: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:27:48.723-481: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]13:27:48.724-481: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]13:27:48.725-481: [Common/tools.lua:50]:1-------------当前探索结点    3    2    0    0    4    parent:nil
+[Log]13:27:48.726-481: [Common/tools.lua:50]:2-------------当前探索结点    2    2    1    2    2    parent:    3    2
+[Log]13:27:48.727-481: [Common/tools.lua:50]:3-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]OutLog Finish

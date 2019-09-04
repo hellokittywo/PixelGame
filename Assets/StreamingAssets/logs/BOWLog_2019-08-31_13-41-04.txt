@@ -1,0 +1,1197 @@
+﻿[Log]OutLog Start
+[Log]13:33:02.731-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x14C97220
+[Log]13:33:02.736-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x1194A3B0
+[Log]13:33:07.380-278: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]13:33:07.383-278: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]13:33:07.386-278: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:07.388-278: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:07.390-278: [Scene/Fight/FightAStar.lua:78]:----节点    5    5
+[Log]13:33:07.392-278: [Common/tools.lua:50]:1-------------当前探索结点    4    5    0    0    3    parent:nil
+[Log]13:33:07.395-278: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:07.398-278: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:07.401-278: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:07.403-278: [Common/tools.lua:50]:2-------------当前探索结点    3    5    1    8    3    parent:    4    5
+[Log]13:33:07.406-278: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:07.408-278: [Common/tools.lua:50]:3-------------当前探索结点    3    4    1    5    1    parent:    3    5
+[Log]13:33:07.411-278: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:07.413-278: [Common/tools.lua:50]:4-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:07.416-278: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:07.442-278: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:07.444-278: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:07.447-278: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:07.449-278: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:07.451-278: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:07.454-278: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:07.457-278: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    3    3
+[Log]13:33:07.460-278: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:07.462-278: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:07.464-278: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:07.467-278: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:07.471-278: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:07.474-278: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:07.477-278: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:07.480-278: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:07.482-278: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:07.484-278: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:07.486-278: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:07.488-278: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:07.490-278: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:07.493-278: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:07.495-278: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:07.497-278: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:07.499-278: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:07.502-278: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:07.507-278: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:07.510-278: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:07.512-278: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:07.514-278: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:07.516-278: [Scene/Fight/CardAiAction.lua:53]:----target2222    0
+[Log]13:33:07.518-278: [Scene/Fight/CardAiAction.lua:55]:23    1
+[Log]13:33:07.520-278: [Scene/Fight/CardAiAction.lua:55]:14    1
+[Log]13:33:07.523-278: [Scene/Fight/CardAiAction.lua:55]:22    1
+[Log]13:33:07.525-278: [Scene/Fight/CardAiAction.lua:55]:4    1
+[Log]13:33:07.527-278: [Scene/Fight/CardAiAction.lua:55]:10    1
+[Log]13:33:07.529-278: [Scene/Fight/CardAiAction.lua:55]:9    1
+[Log]13:33:07.531-278: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]13:33:07.534-278: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]13:33:07.537-278: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:07.539-278: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:07.542-278: [Scene/Fight/FightAStar.lua:78]:----节点    5    4
+[Log]13:33:07.544-278: [Common/tools.lua:50]:1-------------当前探索结点    4    4    0    0    3    parent:nil
+[Log]13:33:07.547-278: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:07.549-278: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:07.551-278: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    5    2    parent:    4    4
+[Log]13:33:07.553-278: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:07.556-278: [Common/tools.lua:50]:3-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:07.558-278: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:07.560-278: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:07.562-278: [Common/tools.lua:50]:4-------------当前探索结点    3    5    1    8    2    parent:    3    4
+[Log]13:33:07.564-278: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:07.567-278: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:07.572-278: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:07.575-278: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:07.577-278: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:07.579-278: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:07.581-278: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:07.583-278: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    4    4
+[Log]13:33:07.586-278: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:07.588-278: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:07.591-278: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:07.593-278: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:07.595-278: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:07.598-278: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:07.601-278: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:07.605-278: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:07.608-278: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:07.610-278: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:07.612-278: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:07.614-278: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:07.616-278: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:07.619-278: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:07.621-278: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:07.624-278: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:07.626-278: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:07.629-278: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:07.631-278: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:07.633-278: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:07.637-278: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:07.640-278: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:07.643-278: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]13:33:07.645-278: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]13:33:07.648-278: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:07.650-278: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:07.652-278: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:07.655-278: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:07.657-278: [Common/tools.lua:50]:1-------------当前探索结点    3    2    0    0    4    parent:nil
+[Log]13:33:07.659-278: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:07.661-278: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:07.673-278: [Common/tools.lua:50]:2-------------当前探索结点    2    2    1    2    2    parent:    3    2
+[Log]13:33:07.675-278: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:07.678-278: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:07.680-278: [Common/tools.lua:50]:3-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:07.873-290: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]13:33:07.874-290: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]13:33:07.876-290: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:07.876-290: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:07.877-290: [Scene/Fight/FightAStar.lua:78]:----节点    5    5
+[Log]13:33:07.878-290: [Common/tools.lua:50]:1-------------当前探索结点    4    5    0    0    3    parent:nil
+[Log]13:33:07.879-290: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:07.880-290: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:07.881-290: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:07.881-290: [Common/tools.lua:50]:2-------------当前探索结点    3    5    1    8    3    parent:    4    5
+[Log]13:33:07.883-290: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:07.884-290: [Common/tools.lua:50]:3-------------当前探索结点    3    4    1    5    1    parent:    3    5
+[Log]13:33:07.885-290: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:07.886-290: [Common/tools.lua:50]:4-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:07.888-290: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:07.889-290: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:07.891-290: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:07.892-290: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:07.893-290: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:07.894-290: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:07.895-290: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:07.896-290: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    3    3
+[Log]13:33:07.898-290: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:07.899-290: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:07.900-290: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:07.901-290: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:07.902-290: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:07.904-290: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:07.904-290: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:07.905-290: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:07.906-290: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:07.907-290: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:07.908-290: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:07.909-290: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:07.910-290: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:07.911-290: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:07.912-290: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:07.913-290: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:07.914-290: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:07.916-290: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:07.917-290: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:07.918-290: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:07.919-290: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:07.921-290: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:07.922-290: [Scene/Fight/CardAiAction.lua:53]:----target2222    0
+[Log]13:33:07.923-290: [Scene/Fight/CardAiAction.lua:55]:23    1
+[Log]13:33:07.924-290: [Scene/Fight/CardAiAction.lua:55]:14    1
+[Log]13:33:07.926-290: [Scene/Fight/CardAiAction.lua:55]:22    1
+[Log]13:33:07.927-290: [Scene/Fight/CardAiAction.lua:55]:4    1
+[Log]13:33:07.928-290: [Scene/Fight/CardAiAction.lua:55]:10    1
+[Log]13:33:07.929-290: [Scene/Fight/CardAiAction.lua:55]:9    1
+[Log]13:33:07.931-290: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]13:33:07.932-290: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]13:33:07.933-290: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:07.935-290: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:07.937-290: [Scene/Fight/FightAStar.lua:78]:----节点    5    4
+[Log]13:33:07.938-290: [Common/tools.lua:50]:1-------------当前探索结点    4    4    0    0    3    parent:nil
+[Log]13:33:07.940-290: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:07.941-290: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:07.942-290: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    5    2    parent:    4    4
+[Log]13:33:07.943-290: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:07.944-290: [Common/tools.lua:50]:3-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:07.945-290: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:07.946-290: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:07.947-290: [Common/tools.lua:50]:4-------------当前探索结点    3    5    1    8    2    parent:    3    4
+[Log]13:33:07.948-290: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:07.949-290: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:07.950-290: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:07.952-290: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:07.953-290: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:07.954-290: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:07.955-290: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:07.956-290: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    4    4
+[Log]13:33:07.957-290: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:07.962-290: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:07.963-290: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:07.964-290: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:07.965-290: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:07.967-290: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:07.968-290: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:07.969-290: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:07.970-290: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:07.971-290: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:07.972-290: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:07.973-290: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:07.974-290: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:07.975-290: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:07.976-290: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:07.977-290: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:07.978-290: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:07.979-290: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:07.980-290: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:07.981-290: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:07.982-290: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:07.983-290: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:07.984-290: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]13:33:07.986-290: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]13:33:07.987-290: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:07.988-290: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:07.989-290: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:07.992-290: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:07.993-290: [Common/tools.lua:50]:1-------------当前探索结点    3    2    0    0    4    parent:nil
+[Log]13:33:07.994-290: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:07.995-290: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:07.996-290: [Common/tools.lua:50]:2-------------当前探索结点    2    2    1    2    2    parent:    3    2
+[Log]13:33:07.997-290: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:07.998-290: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:07.999-290: [Common/tools.lua:50]:3-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:08.378-314: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]13:33:08.379-314: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]13:33:08.380-314: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:08.381-314: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:08.382-314: [Scene/Fight/FightAStar.lua:78]:----节点    5    5
+[Log]13:33:08.383-314: [Common/tools.lua:50]:1-------------当前探索结点    4    5    0    0    3    parent:nil
+[Log]13:33:08.385-314: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:08.386-314: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:08.387-314: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:08.388-314: [Common/tools.lua:50]:2-------------当前探索结点    3    5    1    8    3    parent:    4    5
+[Log]13:33:08.389-314: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:08.390-314: [Common/tools.lua:50]:3-------------当前探索结点    3    4    1    5    1    parent:    3    5
+[Log]13:33:08.391-314: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:08.392-314: [Common/tools.lua:50]:4-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:08.392-314: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:08.393-314: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:08.395-314: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:08.396-314: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:08.397-314: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:08.398-314: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:08.400-314: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:08.401-314: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    3    3
+[Log]13:33:08.403-314: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:08.405-314: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:08.406-314: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:08.408-314: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:08.409-314: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:08.410-314: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:08.411-314: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:08.412-314: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:08.414-314: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:08.415-314: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:08.416-314: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:08.417-314: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:08.418-314: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:08.419-314: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:08.420-314: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:08.421-314: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:08.422-314: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:08.423-314: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:08.424-314: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:08.425-314: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:08.426-314: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:08.427-314: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:08.428-314: [Scene/Fight/CardAiAction.lua:53]:----target2222    0
+[Log]13:33:08.428-314: [Scene/Fight/CardAiAction.lua:55]:23    1
+[Log]13:33:08.429-314: [Scene/Fight/CardAiAction.lua:55]:14    1
+[Log]13:33:08.430-314: [Scene/Fight/CardAiAction.lua:55]:22    1
+[Log]13:33:08.431-314: [Scene/Fight/CardAiAction.lua:55]:4    1
+[Log]13:33:08.432-314: [Scene/Fight/CardAiAction.lua:55]:10    1
+[Log]13:33:08.433-314: [Scene/Fight/CardAiAction.lua:55]:9    1
+[Log]13:33:08.435-314: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]13:33:08.436-314: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]13:33:08.437-314: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:08.438-314: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:08.439-314: [Scene/Fight/FightAStar.lua:78]:----节点    5    4
+[Log]13:33:08.440-314: [Common/tools.lua:50]:1-------------当前探索结点    4    4    0    0    3    parent:nil
+[Log]13:33:08.441-314: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:08.442-314: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:08.443-314: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    5    2    parent:    4    4
+[Log]13:33:08.443-314: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:08.444-314: [Common/tools.lua:50]:3-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:08.446-314: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:08.447-314: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:08.448-314: [Common/tools.lua:50]:4-------------当前探索结点    3    5    1    8    2    parent:    3    4
+[Log]13:33:08.449-314: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:08.450-314: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:08.451-314: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:08.452-314: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:08.453-314: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:08.454-314: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:08.455-314: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:08.456-314: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    4    4
+[Log]13:33:08.457-314: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:08.458-314: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:08.459-314: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:08.460-314: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:08.461-314: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:08.462-314: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:08.463-314: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:08.464-314: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:08.465-314: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:08.466-314: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:08.467-314: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:08.468-314: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:08.470-314: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:08.470-314: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:08.471-314: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:08.472-314: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:08.473-314: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:08.474-314: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:08.487-314: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:08.488-314: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:08.489-314: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:08.490-314: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:08.490-314: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]13:33:08.491-314: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]13:33:08.492-314: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:08.494-314: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:08.495-314: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:08.496-314: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:08.497-314: [Common/tools.lua:50]:1-------------当前探索结点    3    2    0    0    4    parent:nil
+[Log]13:33:08.499-314: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:08.500-314: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:08.501-314: [Common/tools.lua:50]:2-------------当前探索结点    2    2    1    2    2    parent:    3    2
+[Log]13:33:08.504-314: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:08.505-314: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:08.507-314: [Common/tools.lua:50]:3-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:08.880-337: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]13:33:08.881-337: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]13:33:08.883-337: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:08.884-337: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:08.885-337: [Scene/Fight/FightAStar.lua:78]:----节点    5    5
+[Log]13:33:08.886-337: [Common/tools.lua:50]:1-------------当前探索结点    4    5    0    0    3    parent:nil
+[Log]13:33:08.887-337: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:08.889-337: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:08.890-337: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:08.891-337: [Common/tools.lua:50]:2-------------当前探索结点    3    5    1    8    3    parent:    4    5
+[Log]13:33:08.892-337: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:08.893-337: [Common/tools.lua:50]:3-------------当前探索结点    3    4    1    5    1    parent:    3    5
+[Log]13:33:08.894-337: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:08.895-337: [Common/tools.lua:50]:4-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:08.896-337: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:08.897-337: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:08.898-337: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:08.899-337: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:08.900-337: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:08.901-337: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:08.902-337: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:08.904-337: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    3    3
+[Log]13:33:08.905-337: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:08.906-337: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:08.907-337: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:08.913-337: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:08.914-337: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:08.915-337: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:08.916-337: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:08.918-337: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:08.919-337: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:08.920-337: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:08.921-337: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:08.922-337: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:08.923-337: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:08.924-337: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:08.925-337: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:08.926-337: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:08.927-337: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:08.929-337: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:08.931-337: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:08.933-337: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:08.934-337: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:08.936-337: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:08.937-337: [Scene/Fight/CardAiAction.lua:53]:----target2222    0
+[Log]13:33:08.938-337: [Scene/Fight/CardAiAction.lua:55]:23    1
+[Log]13:33:08.939-337: [Scene/Fight/CardAiAction.lua:55]:14    1
+[Log]13:33:08.939-337: [Scene/Fight/CardAiAction.lua:55]:22    1
+[Log]13:33:08.940-337: [Scene/Fight/CardAiAction.lua:55]:4    1
+[Log]13:33:08.941-337: [Scene/Fight/CardAiAction.lua:55]:10    1
+[Log]13:33:08.942-337: [Scene/Fight/CardAiAction.lua:55]:9    1
+[Log]13:33:08.943-337: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]13:33:08.944-337: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]13:33:08.946-337: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:08.947-337: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:08.948-337: [Scene/Fight/FightAStar.lua:78]:----节点    5    4
+[Log]13:33:08.949-337: [Common/tools.lua:50]:1-------------当前探索结点    4    4    0    0    3    parent:nil
+[Log]13:33:08.950-337: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:08.951-337: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:08.952-337: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    5    2    parent:    4    4
+[Log]13:33:08.953-337: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:08.954-337: [Common/tools.lua:50]:3-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:08.955-337: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:08.956-337: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:08.957-337: [Common/tools.lua:50]:4-------------当前探索结点    3    5    1    8    2    parent:    3    4
+[Log]13:33:08.958-337: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:08.959-337: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:08.960-337: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:08.961-337: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:08.962-337: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:08.963-337: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:08.963-337: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:08.968-337: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    4    4
+[Log]13:33:08.969-337: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:08.971-337: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:08.972-337: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:08.974-337: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:08.975-337: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:08.976-337: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:08.977-337: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:08.978-337: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:08.979-337: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:08.980-337: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:08.981-337: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:08.983-337: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:08.984-337: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:08.985-337: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:08.986-337: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:08.987-337: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:08.988-337: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:08.989-337: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:08.990-337: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:08.991-337: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:08.992-337: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:08.993-337: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:08.994-337: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]13:33:08.995-337: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]13:33:08.996-337: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:08.997-337: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:08.998-337: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:08.999-337: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:09.0-337: [Common/tools.lua:50]:1-------------当前探索结点    3    2    0    0    4    parent:nil
+[Log]13:33:09.2-337: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:09.4-337: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:09.6-337: [Common/tools.lua:50]:2-------------当前探索结点    2    2    1    2    2    parent:    3    2
+[Log]13:33:09.7-337: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:09.9-337: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:09.10-337: [Common/tools.lua:50]:3-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:09.387-362: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]13:33:09.388-362: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]13:33:09.389-362: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:09.391-362: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:09.392-362: [Scene/Fight/FightAStar.lua:78]:----节点    5    5
+[Log]13:33:09.393-362: [Common/tools.lua:50]:1-------------当前探索结点    4    5    0    0    3    parent:nil
+[Log]13:33:09.394-362: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:09.395-362: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:09.396-362: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:09.397-362: [Common/tools.lua:50]:2-------------当前探索结点    3    5    1    8    3    parent:    4    5
+[Log]13:33:09.398-362: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:09.399-362: [Common/tools.lua:50]:3-------------当前探索结点    3    4    1    5    1    parent:    3    5
+[Log]13:33:09.400-362: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:09.401-362: [Common/tools.lua:50]:4-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:09.403-362: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:09.404-362: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:09.405-362: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:09.406-362: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:09.407-362: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:09.408-362: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:09.409-362: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:09.410-362: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    3    3
+[Log]13:33:09.411-362: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:09.412-362: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:09.414-362: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:09.415-362: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:09.416-362: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:09.417-362: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:09.418-362: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:09.419-362: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:09.420-362: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:09.421-362: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:09.421-362: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:09.422-362: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:09.423-362: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:09.424-362: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:09.425-362: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:09.427-362: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:09.428-362: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:09.429-362: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:09.430-362: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:09.431-362: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:09.433-362: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:09.434-362: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:09.435-362: [Scene/Fight/CardAiAction.lua:53]:----target2222    0
+[Log]13:33:09.436-362: [Scene/Fight/CardAiAction.lua:55]:23    1
+[Log]13:33:09.437-362: [Scene/Fight/CardAiAction.lua:55]:14    1
+[Log]13:33:09.438-362: [Scene/Fight/CardAiAction.lua:55]:22    1
+[Log]13:33:09.439-362: [Scene/Fight/CardAiAction.lua:55]:4    1
+[Log]13:33:09.440-362: [Scene/Fight/CardAiAction.lua:55]:10    1
+[Log]13:33:09.441-362: [Scene/Fight/CardAiAction.lua:55]:9    1
+[Log]13:33:09.442-362: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]13:33:09.443-362: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]13:33:09.443-362: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:09.445-362: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:09.446-362: [Scene/Fight/FightAStar.lua:78]:----节点    5    4
+[Log]13:33:09.447-362: [Common/tools.lua:50]:1-------------当前探索结点    4    4    0    0    3    parent:nil
+[Log]13:33:09.448-362: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:09.449-362: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:09.450-362: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    5    2    parent:    4    4
+[Log]13:33:09.450-362: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:09.451-362: [Common/tools.lua:50]:3-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:09.452-362: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:09.453-362: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:09.454-362: [Common/tools.lua:50]:4-------------当前探索结点    3    5    1    8    2    parent:    3    4
+[Log]13:33:09.455-362: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:09.456-362: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:09.457-362: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:09.458-362: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:09.459-362: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:09.460-362: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:09.461-362: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:09.462-362: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    4    4
+[Log]13:33:09.463-362: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:09.464-362: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:09.466-362: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:09.467-362: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:09.468-362: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:09.469-362: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:09.470-362: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:09.471-362: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:09.472-362: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:09.486-362: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:09.486-362: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:09.487-362: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:09.489-362: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:09.490-362: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:09.491-362: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:09.491-362: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:09.493-362: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:09.494-362: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:09.495-362: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:09.496-362: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:09.497-362: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:09.498-362: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:09.499-362: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]13:33:09.500-362: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]13:33:09.501-362: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:09.502-362: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:09.503-362: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:09.504-362: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:09.505-362: [Common/tools.lua:50]:1-------------当前探索结点    3    2    0    0    4    parent:nil
+[Log]13:33:09.506-362: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:09.507-362: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:09.509-362: [Common/tools.lua:50]:2-------------当前探索结点    2    2    1    2    2    parent:    3    2
+[Log]13:33:09.510-362: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:09.511-362: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:09.512-362: [Common/tools.lua:50]:3-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:09.886-386: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]13:33:09.888-386: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]13:33:09.889-386: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:09.890-386: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:09.891-386: [Scene/Fight/FightAStar.lua:78]:----节点    5    5
+[Log]13:33:09.893-386: [Common/tools.lua:50]:1-------------当前探索结点    4    5    0    0    3    parent:nil
+[Log]13:33:09.894-386: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:09.895-386: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:09.896-386: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:09.896-386: [Common/tools.lua:50]:2-------------当前探索结点    3    5    1    8    3    parent:    4    5
+[Log]13:33:09.898-386: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:09.899-386: [Common/tools.lua:50]:3-------------当前探索结点    3    4    1    5    1    parent:    3    5
+[Log]13:33:09.900-386: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:09.901-386: [Common/tools.lua:50]:4-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:09.902-386: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:09.904-386: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:09.905-386: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:09.906-386: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:09.907-386: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:09.908-386: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:09.909-386: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:09.910-386: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    3    3
+[Log]13:33:09.911-386: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:09.912-386: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:09.913-386: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:09.914-386: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:09.915-386: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:09.917-386: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:09.918-386: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:09.918-386: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:09.919-386: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:09.920-386: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:09.921-386: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:09.922-386: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:09.923-386: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:09.924-386: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:09.925-386: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:09.926-386: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:09.927-386: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:09.929-386: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:09.930-386: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:09.931-386: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:09.932-386: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:09.933-386: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:09.934-386: [Scene/Fight/CardAiAction.lua:53]:----target2222    0
+[Log]13:33:09.935-386: [Scene/Fight/CardAiAction.lua:55]:23    1
+[Log]13:33:09.937-386: [Scene/Fight/CardAiAction.lua:55]:14    1
+[Log]13:33:09.938-386: [Scene/Fight/CardAiAction.lua:55]:22    1
+[Log]13:33:09.939-386: [Scene/Fight/CardAiAction.lua:55]:4    1
+[Log]13:33:09.941-386: [Scene/Fight/CardAiAction.lua:55]:10    1
+[Log]13:33:09.942-386: [Scene/Fight/CardAiAction.lua:55]:9    1
+[Log]13:33:09.943-386: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]13:33:09.944-386: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]13:33:09.945-386: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:09.946-386: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:09.948-386: [Scene/Fight/FightAStar.lua:78]:----节点    5    4
+[Log]13:33:09.949-386: [Common/tools.lua:50]:1-------------当前探索结点    4    4    0    0    3    parent:nil
+[Log]13:33:09.950-386: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:09.951-386: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:09.952-386: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    5    2    parent:    4    4
+[Log]13:33:09.953-386: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:09.954-386: [Common/tools.lua:50]:3-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:09.955-386: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:09.956-386: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:09.957-386: [Common/tools.lua:50]:4-------------当前探索结点    3    5    1    8    2    parent:    3    4
+[Log]13:33:09.958-386: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:09.959-386: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:09.960-386: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:09.961-386: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:09.962-386: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:09.963-386: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:09.964-386: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:09.965-386: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    4    4
+[Log]13:33:09.966-386: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:09.967-386: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:09.968-386: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:09.969-386: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:09.970-386: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:09.971-386: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:09.972-386: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:09.973-386: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:09.977-386: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:09.979-386: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:09.980-386: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:09.981-386: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:09.982-386: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:09.983-386: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:09.985-386: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:09.986-386: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:09.987-386: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:09.988-386: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:09.990-386: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:09.991-386: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:09.992-386: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:09.993-386: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:09.994-386: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]13:33:09.995-386: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]13:33:09.997-386: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:09.998-386: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:10.0-386: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:10.1-386: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:10.2-386: [Common/tools.lua:50]:1-------------当前探索结点    3    2    0    0    4    parent:nil
+[Log]13:33:10.4-386: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:10.4-386: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:10.5-386: [Common/tools.lua:50]:2-------------当前探索结点    2    2    1    2    2    parent:    3    2
+[Log]13:33:10.7-386: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:10.8-386: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:10.9-386: [Common/tools.lua:50]:3-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:10.401-411: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]13:33:10.402-411: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]13:33:10.403-411: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:10.405-411: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:10.407-411: [Scene/Fight/FightAStar.lua:78]:----节点    5    5
+[Log]13:33:10.408-411: [Common/tools.lua:50]:1-------------当前探索结点    4    5    0    0    3    parent:nil
+[Log]13:33:10.409-411: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:10.410-411: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:10.411-411: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:10.412-411: [Common/tools.lua:50]:2-------------当前探索结点    3    5    1    8    3    parent:    4    5
+[Log]13:33:10.413-411: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:10.414-411: [Common/tools.lua:50]:3-------------当前探索结点    3    4    1    5    1    parent:    3    5
+[Log]13:33:10.415-411: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:10.416-411: [Common/tools.lua:50]:4-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:10.419-411: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:10.420-411: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:10.422-411: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:10.424-411: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:10.425-411: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:10.426-411: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:10.427-411: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:10.428-411: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    3    3
+[Log]13:33:10.430-411: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:10.431-411: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:10.432-411: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:10.433-411: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:10.434-411: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:10.435-411: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:10.436-411: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:10.437-411: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:10.438-411: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:10.439-411: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:10.440-411: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:10.440-411: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:10.441-411: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:10.442-411: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:10.443-411: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:10.444-411: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:10.446-411: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:10.447-411: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:10.448-411: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:10.449-411: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:10.450-411: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:10.451-411: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:10.452-411: [Scene/Fight/CardAiAction.lua:53]:----target2222    0
+[Log]13:33:10.453-411: [Scene/Fight/CardAiAction.lua:55]:23    1
+[Log]13:33:10.454-411: [Scene/Fight/CardAiAction.lua:55]:14    1
+[Log]13:33:10.455-411: [Scene/Fight/CardAiAction.lua:55]:22    1
+[Log]13:33:10.456-411: [Scene/Fight/CardAiAction.lua:55]:4    1
+[Log]13:33:10.457-411: [Scene/Fight/CardAiAction.lua:55]:10    1
+[Log]13:33:10.458-411: [Scene/Fight/CardAiAction.lua:55]:9    1
+[Log]13:33:10.459-411: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]13:33:10.460-411: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]13:33:10.461-411: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:10.461-411: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:10.462-411: [Scene/Fight/FightAStar.lua:78]:----节点    5    4
+[Log]13:33:10.463-411: [Common/tools.lua:50]:1-------------当前探索结点    4    4    0    0    3    parent:nil
+[Log]13:33:10.464-411: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:10.466-411: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:10.467-411: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    5    2    parent:    4    4
+[Log]13:33:10.468-411: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:10.469-411: [Common/tools.lua:50]:3-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:10.470-411: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:10.471-411: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:10.472-411: [Common/tools.lua:50]:4-------------当前探索结点    3    5    1    8    2    parent:    3    4
+[Log]13:33:10.473-411: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:10.475-411: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:10.475-411: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:10.476-411: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:10.477-411: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:10.478-411: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:10.490-411: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:10.491-411: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    4    4
+[Log]13:33:10.492-411: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:10.493-411: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:10.494-411: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:10.495-411: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:10.497-411: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:10.498-411: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:10.499-411: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:10.500-411: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:10.500-411: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:10.501-411: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:10.503-411: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:10.503-411: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:10.504-411: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:10.505-411: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:10.506-411: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:10.507-411: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:10.508-411: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:10.509-411: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:10.511-411: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:10.512-411: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:10.513-411: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:10.514-411: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:10.515-411: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]13:33:10.517-411: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]13:33:10.518-411: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:10.520-411: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:10.523-411: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:10.524-411: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:10.525-411: [Common/tools.lua:50]:1-------------当前探索结点    3    2    0    0    4    parent:nil
+[Log]13:33:10.527-411: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:10.528-411: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:10.529-411: [Common/tools.lua:50]:2-------------当前探索结点    2    2    1    2    2    parent:    3    2
+[Log]13:33:10.530-411: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:10.531-411: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:10.532-411: [Common/tools.lua:50]:3-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:10.914-437: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]13:33:10.915-437: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]13:33:10.917-437: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:10.918-437: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:10.919-437: [Scene/Fight/FightAStar.lua:78]:----节点    5    5
+[Log]13:33:10.920-437: [Common/tools.lua:50]:1-------------当前探索结点    4    5    0    0    3    parent:nil
+[Log]13:33:10.921-437: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:10.922-437: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:10.923-437: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:10.924-437: [Common/tools.lua:50]:2-------------当前探索结点    3    5    1    8    3    parent:    4    5
+[Log]13:33:10.925-437: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:10.926-437: [Common/tools.lua:50]:3-------------当前探索结点    3    4    1    5    1    parent:    3    5
+[Log]13:33:10.927-437: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:10.930-437: [Common/tools.lua:50]:4-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:10.932-437: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:10.933-437: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:10.935-437: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:10.936-437: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:10.937-437: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:10.938-437: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:10.939-437: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:10.940-437: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    3    3
+[Log]13:33:10.941-437: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:10.942-437: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:10.943-437: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:10.944-437: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:10.945-437: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:10.946-437: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:10.947-437: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:10.948-437: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:10.949-437: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:10.950-437: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:10.952-437: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:10.953-437: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:10.954-437: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:10.955-437: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:10.957-437: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:10.958-437: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:10.959-437: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:10.960-437: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:10.961-437: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:10.962-437: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:10.963-437: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:10.964-437: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:10.966-437: [Scene/Fight/CardAiAction.lua:53]:----target2222    0
+[Log]13:33:10.967-437: [Scene/Fight/CardAiAction.lua:55]:23    1
+[Log]13:33:10.968-437: [Scene/Fight/CardAiAction.lua:55]:14    1
+[Log]13:33:10.969-437: [Scene/Fight/CardAiAction.lua:55]:22    1
+[Log]13:33:10.970-437: [Scene/Fight/CardAiAction.lua:55]:4    1
+[Log]13:33:10.971-437: [Scene/Fight/CardAiAction.lua:55]:10    1
+[Log]13:33:10.972-437: [Scene/Fight/CardAiAction.lua:55]:9    1
+[Log]13:33:10.973-437: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]13:33:10.974-437: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]13:33:10.975-437: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:10.976-437: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:10.978-437: [Scene/Fight/FightAStar.lua:78]:----节点    5    4
+[Log]13:33:10.979-437: [Common/tools.lua:50]:1-------------当前探索结点    4    4    0    0    3    parent:nil
+[Log]13:33:10.983-437: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:10.986-437: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:10.987-437: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    5    2    parent:    4    4
+[Log]13:33:10.989-437: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:10.990-437: [Common/tools.lua:50]:3-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:10.991-437: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:10.992-437: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:10.993-437: [Common/tools.lua:50]:4-------------当前探索结点    3    5    1    8    2    parent:    3    4
+[Log]13:33:10.994-437: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:10.995-437: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:10.997-437: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:10.998-437: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:10.999-437: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:11.0-437: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:11.1-437: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:11.2-437: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    4    4
+[Log]13:33:11.3-437: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:11.4-437: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:11.5-437: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:11.6-437: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:11.8-437: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:11.9-437: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:11.10-437: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:11.11-437: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:11.12-437: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:11.13-437: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:11.14-437: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:11.15-437: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:11.16-437: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:11.17-437: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:11.18-437: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:11.19-437: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:11.20-437: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:11.21-437: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:11.22-437: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:11.23-437: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:11.23-437: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:11.24-437: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:11.25-437: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]13:33:11.26-437: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]13:33:11.28-437: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:11.29-437: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:11.30-437: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:11.31-437: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:11.32-437: [Common/tools.lua:50]:1-------------当前探索结点    3    2    0    0    4    parent:nil
+[Log]13:33:11.33-437: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:11.35-437: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:11.37-437: [Common/tools.lua:50]:2-------------当前探索结点    2    2    1    2    2    parent:    3    2
+[Log]13:33:11.38-437: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:11.40-437: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:11.42-437: [Common/tools.lua:50]:3-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:11.429-461: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]13:33:11.430-461: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]13:33:11.431-461: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:11.432-461: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:11.434-461: [Scene/Fight/FightAStar.lua:78]:----节点    5    5
+[Log]13:33:11.435-461: [Common/tools.lua:50]:1-------------当前探索结点    4    5    0    0    3    parent:nil
+[Log]13:33:11.436-461: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:11.437-461: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:11.438-461: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:11.439-461: [Common/tools.lua:50]:2-------------当前探索结点    3    5    1    8    3    parent:    4    5
+[Log]13:33:11.440-461: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:11.441-461: [Common/tools.lua:50]:3-------------当前探索结点    3    4    1    5    1    parent:    3    5
+[Log]13:33:11.442-461: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:11.443-461: [Common/tools.lua:50]:4-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:11.444-461: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:11.446-461: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:11.448-461: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:11.449-461: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:11.450-461: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:11.451-461: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:11.452-461: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:11.453-461: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    3    3
+[Log]13:33:11.454-461: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:11.455-461: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:11.456-461: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:11.457-461: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:11.458-461: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:11.459-461: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:11.460-461: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:11.461-461: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:11.462-461: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:11.463-461: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:11.465-461: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:11.466-461: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:11.467-461: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:11.468-461: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:11.470-461: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:11.471-461: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:11.472-461: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:11.473-461: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:11.474-461: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:11.475-461: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:11.477-461: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:11.478-461: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:11.479-461: [Scene/Fight/CardAiAction.lua:53]:----target2222    0
+[Log]13:33:11.480-461: [Scene/Fight/CardAiAction.lua:55]:23    1
+[Log]13:33:11.481-461: [Scene/Fight/CardAiAction.lua:55]:14    1
+[Log]13:33:11.482-461: [Scene/Fight/CardAiAction.lua:55]:22    1
+[Log]13:33:11.483-461: [Scene/Fight/CardAiAction.lua:55]:4    1
+[Log]13:33:11.484-461: [Scene/Fight/CardAiAction.lua:55]:10    1
+[Log]13:33:11.485-461: [Scene/Fight/CardAiAction.lua:55]:9    1
+[Log]13:33:11.486-461: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]13:33:11.487-461: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]13:33:11.488-461: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:11.489-461: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:11.490-461: [Scene/Fight/FightAStar.lua:78]:----节点    5    4
+[Log]13:33:11.491-461: [Common/tools.lua:50]:1-------------当前探索结点    4    4    0    0    3    parent:nil
+[Log]13:33:11.492-461: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:11.493-461: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:11.494-461: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    5    2    parent:    4    4
+[Log]13:33:11.495-461: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:11.507-461: [Common/tools.lua:50]:3-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:11.508-461: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:11.509-461: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:11.510-461: [Common/tools.lua:50]:4-------------当前探索结点    3    5    1    8    2    parent:    3    4
+[Log]13:33:11.511-461: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:11.512-461: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:11.513-461: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:11.514-461: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:11.515-461: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:11.517-461: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:11.518-461: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:11.519-461: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    4    4
+[Log]13:33:11.520-461: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:11.521-461: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:11.522-461: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:11.522-461: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:11.523-461: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:11.524-461: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:11.525-461: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:11.527-461: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:11.528-461: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:11.529-461: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:11.530-461: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:11.532-461: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:11.533-461: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:11.534-461: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:11.535-461: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:11.536-461: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:11.538-461: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:11.539-461: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:11.541-461: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:11.542-461: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:11.543-461: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:11.544-461: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:11.545-461: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]13:33:11.546-461: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]13:33:11.547-461: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:11.549-461: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:11.550-461: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:11.551-461: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:11.552-461: [Common/tools.lua:50]:1-------------当前探索结点    3    2    0    0    4    parent:nil
+[Log]13:33:11.553-461: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:11.554-461: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:11.555-461: [Common/tools.lua:50]:2-------------当前探索结点    2    2    1    2    2    parent:    3    2
+[Log]13:33:11.557-461: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:11.558-461: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:11.558-461: [Common/tools.lua:50]:3-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:11.930-484: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]13:33:11.931-484: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]13:33:11.933-484: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:11.934-484: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:11.935-484: [Scene/Fight/FightAStar.lua:78]:----节点    5    5
+[Log]13:33:11.936-484: [Common/tools.lua:50]:1-------------当前探索结点    4    5    0    0    3    parent:nil
+[Log]13:33:11.937-484: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:11.938-484: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:11.939-484: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:11.940-484: [Common/tools.lua:50]:2-------------当前探索结点    3    5    1    8    3    parent:    4    5
+[Log]13:33:11.941-484: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:11.942-484: [Common/tools.lua:50]:3-------------当前探索结点    3    4    1    5    1    parent:    3    5
+[Log]13:33:11.943-484: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:11.944-484: [Common/tools.lua:50]:4-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:11.945-484: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:11.946-484: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:11.947-484: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:11.949-484: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:11.950-484: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:11.951-484: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:11.952-484: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:11.953-484: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    3    3
+[Log]13:33:11.954-484: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:11.955-484: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:11.956-484: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:11.957-484: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:11.958-484: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:11.959-484: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:11.960-484: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:11.961-484: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:11.962-484: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:11.963-484: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:11.964-484: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:11.965-484: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:11.966-484: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:11.967-484: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:11.969-484: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:11.970-484: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:11.971-484: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:11.972-484: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:11.973-484: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:11.974-484: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:11.975-484: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:11.976-484: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:11.977-484: [Scene/Fight/CardAiAction.lua:53]:----target2222    0
+[Log]13:33:11.978-484: [Scene/Fight/CardAiAction.lua:55]:23    1
+[Log]13:33:11.980-484: [Scene/Fight/CardAiAction.lua:55]:14    1
+[Log]13:33:11.982-484: [Scene/Fight/CardAiAction.lua:55]:22    1
+[Log]13:33:11.983-484: [Scene/Fight/CardAiAction.lua:55]:4    1
+[Log]13:33:11.984-484: [Scene/Fight/CardAiAction.lua:55]:10    1
+[Log]13:33:11.985-484: [Scene/Fight/CardAiAction.lua:55]:9    1
+[Log]13:33:11.986-484: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]13:33:11.988-484: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]13:33:11.989-484: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:11.991-484: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:11.993-484: [Scene/Fight/FightAStar.lua:78]:----节点    5    4
+[Log]13:33:11.994-484: [Common/tools.lua:50]:1-------------当前探索结点    4    4    0    0    3    parent:nil
+[Log]13:33:11.996-484: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:11.998-484: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:11.999-484: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    5    2    parent:    4    4
+[Log]13:33:12.0-484: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:12.1-484: [Common/tools.lua:50]:3-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:12.2-484: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:12.3-484: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:12.5-484: [Common/tools.lua:50]:4-------------当前探索结点    3    5    1    8    2    parent:    3    4
+[Log]13:33:12.6-484: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:12.7-484: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:12.8-484: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:12.9-484: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:12.10-484: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:12.11-484: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:12.12-484: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:12.13-484: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    4    4
+[Log]13:33:12.14-484: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:12.16-484: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:12.17-484: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:12.19-484: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:12.21-484: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:12.22-484: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:12.24-484: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:12.25-484: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:12.26-484: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:12.27-484: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:12.28-484: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:12.29-484: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:12.30-484: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:12.31-484: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:12.33-484: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:12.34-484: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:12.35-484: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:12.36-484: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:12.36-484: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:12.38-484: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:12.39-484: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:12.40-484: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:12.41-484: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]13:33:12.43-484: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]13:33:12.44-484: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:12.45-484: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:12.46-484: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:12.47-484: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:12.48-484: [Common/tools.lua:50]:1-------------当前探索结点    3    2    0    0    4    parent:nil
+[Log]13:33:12.50-484: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:12.51-484: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:12.52-484: [Common/tools.lua:50]:2-------------当前探索结点    2    2    1    2    2    parent:    3    2
+[Log]13:33:12.53-484: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:12.56-484: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:12.57-484: [Common/tools.lua:50]:3-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:12.435-508: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]13:33:12.436-508: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]13:33:12.438-508: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:12.439-508: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:12.440-508: [Scene/Fight/FightAStar.lua:78]:----节点    5    5
+[Log]13:33:12.441-508: [Common/tools.lua:50]:1-------------当前探索结点    4    5    0    0    3    parent:nil
+[Log]13:33:12.442-508: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:12.443-508: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:12.444-508: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:12.445-508: [Common/tools.lua:50]:2-------------当前探索结点    3    5    1    8    3    parent:    4    5
+[Log]13:33:12.446-508: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:12.447-508: [Common/tools.lua:50]:3-------------当前探索结点    3    4    1    5    1    parent:    3    5
+[Log]13:33:12.448-508: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:12.450-508: [Common/tools.lua:50]:4-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:12.451-508: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:12.452-508: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:12.453-508: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:12.454-508: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:12.455-508: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:12.456-508: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:12.457-508: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:12.458-508: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    3    3
+[Log]13:33:12.459-508: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:12.460-508: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:12.462-508: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:12.463-508: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:12.464-508: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:12.465-508: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:12.466-508: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:12.467-508: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:12.469-508: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:12.470-508: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:12.471-508: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:12.473-508: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:12.474-508: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:12.474-508: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:12.476-508: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:12.477-508: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:12.478-508: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:12.479-508: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:12.480-508: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:12.481-508: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:12.482-508: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:12.483-508: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:12.484-508: [Scene/Fight/CardAiAction.lua:53]:----target2222    0
+[Log]13:33:12.485-508: [Scene/Fight/CardAiAction.lua:55]:23    1
+[Log]13:33:12.486-508: [Scene/Fight/CardAiAction.lua:55]:14    1
+[Log]13:33:12.487-508: [Scene/Fight/CardAiAction.lua:55]:22    1
+[Log]13:33:12.488-508: [Scene/Fight/CardAiAction.lua:55]:4    1
+[Log]13:33:12.489-508: [Scene/Fight/CardAiAction.lua:55]:10    1
+[Log]13:33:12.490-508: [Scene/Fight/CardAiAction.lua:55]:9    1
+[Log]13:33:12.491-508: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]13:33:12.504-508: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]13:33:12.505-508: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:12.506-508: [Scene/Fight/FightAStar.lua:78]:----节点    3    4
+[Log]13:33:12.507-508: [Scene/Fight/FightAStar.lua:78]:----节点    5    4
+[Log]13:33:12.508-508: [Common/tools.lua:50]:1-------------当前探索结点    4    4    0    0    3    parent:nil
+[Log]13:33:12.509-508: [Scene/Fight/FightAStar.lua:78]:----节点    3    5
+[Log]13:33:12.510-508: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:12.511-508: [Common/tools.lua:50]:2-------------当前探索结点    3    4    1    5    2    parent:    4    4
+[Log]13:33:12.512-508: [Scene/Fight/FightAStar.lua:78]:----节点    4    3
+[Log]13:33:12.513-508: [Common/tools.lua:50]:3-------------当前探索结点    3    3    1    4    1    parent:    3    4
+[Log]13:33:12.514-508: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:12.515-508: [Scene/Fight/FightAStar.lua:78]:----节点    2    5
+[Log]13:33:12.516-508: [Common/tools.lua:50]:4-------------当前探索结点    3    5    1    8    2    parent:    3    4
+[Log]13:33:12.517-508: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:12.518-508: [Scene/Fight/FightAStar.lua:78]:----节点    1    5
+[Log]13:33:12.519-508: [Common/tools.lua:50]:5-------------当前探索结点    2    5    1    5    2    parent:    3    5
+[Log]13:33:12.520-508: [Scene/Fight/FightAStar.lua:78]:----节点    1    6
+[Log]13:33:12.521-508: [Common/tools.lua:50]:6-------------当前探索结点    1    5    1    4    1    parent:    2    5
+[Log]13:33:12.522-508: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:12.523-508: [Scene/Fight/FightAStar.lua:78]:----节点    5    3
+[Log]13:33:12.524-508: [Common/tools.lua:50]:7-------------当前探索结点    4    3    1    9    2    parent:    4    4
+[Log]13:33:12.525-508: [Scene/Fight/FightAStar.lua:78]:----节点    2    6
+[Log]13:33:12.526-508: [Common/tools.lua:50]:8-------------当前探索结点    1    6    1    9    1    parent:    1    5
+[Log]13:33:12.527-508: [Scene/Fight/FightAStar.lua:78]:----节点    3    6
+[Log]13:33:12.528-508: [Common/tools.lua:50]:9-------------当前探索结点    2    6    1    10    1    parent:    2    5
+[Log]13:33:12.529-508: [Scene/Fight/FightAStar.lua:78]:----节点    4    1
+[Log]13:33:12.531-508: [Scene/Fight/FightAStar.lua:78]:----节点    5    2
+[Log]13:33:12.532-508: [Common/tools.lua:50]:10-------------当前探索结点    4    2    1    10    2    parent:    4    3
+[Log]13:33:12.533-508: [Scene/Fight/FightAStar.lua:78]:----节点    4    6
+[Log]13:33:12.534-508: [Common/tools.lua:50]:11-------------当前探索结点    3    6    1    13    1    parent:    3    5
+[Log]13:33:12.535-508: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:12.536-508: [Scene/Fight/FightAStar.lua:78]:----节点    5    1
+[Log]13:33:12.537-508: [Common/tools.lua:50]:12-------------当前探索结点    4    1    1    13    2    parent:    4    2
+[Log]13:33:12.538-508: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:12.539-508: [Common/tools.lua:50]:13-------------当前探索结点    3    1    1    8    1    parent:    4    1
+[Log]13:33:12.540-508: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:12.542-508: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:12.543-508: [Common/tools.lua:50]:14-------------当前探索结点    2    1    1    5    2    parent:    3    1
+[Log]13:33:12.544-508: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:12.545-508: [Common/tools.lua:50]:15-------------当前探索结点    2    2    1    2    1    parent:    2    1
+[Log]13:33:12.546-508: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:12.547-508: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:12.548-508: [Common/tools.lua:50]:16-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]13:33:12.549-508: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]13:33:12.550-508: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]13:33:12.551-508: [Scene/Fight/FightAStar.lua:78]:----节点    3    3
+[Log]13:33:12.553-508: [Scene/Fight/FightAStar.lua:78]:----节点    3    1
+[Log]13:33:12.554-508: [Scene/Fight/FightAStar.lua:78]:----节点    2    2
+[Log]13:33:12.556-508: [Scene/Fight/FightAStar.lua:78]:----节点    4    2
+[Log]13:33:12.557-508: [Common/tools.lua:50]:1-------------当前探索结点    3    2    0    0    4    parent:nil
+[Log]13:33:12.558-508: [Scene/Fight/FightAStar.lua:78]:----节点    2    1
+[Log]13:33:12.559-508: [Scene/Fight/FightAStar.lua:78]:----节点    1    2
+[Log]13:33:12.560-508: [Common/tools.lua:50]:2-------------当前探索结点    2    2    1    2    2    parent:    3    2
+[Log]13:33:12.561-508: [Scene/Fight/FightAStar.lua:78]:----节点    1    3
+[Log]13:33:12.562-508: [Scene/Fight/FightAStar.lua:78]:----节点    1    1
+[Log]13:33:12.563-508: [Common/tools.lua:50]:3-------------当前探索结点    1    2    1    1    2    parent:    2    2
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]13:41:04.277-0: Lua function Network.Unload not exists
+[Log]13:41:04.287-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish

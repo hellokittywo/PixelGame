@@ -1,0 +1,20 @@
+﻿[Log]OutLog Start
+[Log]10:22:54.289-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x4C890AB0
+[Log]10:22:54.293-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x4838FD30
+[Log]游戏暂停！
+[Exception]LuaException: UI/Fight/MapItem:11: bad argument #2 to 'LoadPrefabByName' (UnityEngine.Transform expected, got table)
+stack traceback:
+	[C]: in function 'LoadPrefabByName'
+	UI/Fight/MapItem:11: in function 'InitView'
+	UI/Fight/MapItem:7: in function 'ctor'
+	Common/functions:169: in function 'new'
+	UI/Fight/FightView:34: in function 'InitMap'
+	UI/Fight/FightView:20: in function 'InitView'
+	UI/Fight/FightView:11: in function 'InitPanel'
+	UI/BaseView:15: in function 'Awake'
+	UI/Fight/FightCtrl:13: in function 'OnCreate'
+	UI/BaseCtrl:26: in function <UI/BaseCtrl:25>
+[Log]游戏暂停！
+[Log]游戏暂停！
+[Log]游戏暂停！
+[Log]OutLog Finish

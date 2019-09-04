@@ -1,0 +1,38 @@
+﻿[Log]OutLog Start
+[Log]11:21:52.67-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x155EDED0
+[Log]11:21:52.72-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x156691B8
+[Log]游戏暂停！
+[Log]11:21:57.870-170: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]11:21:57.872-170: [Common/tools.lua:50]:---寻路    2    4    1    1
+[Log]11:21:57.875-170: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    0
+[Log]11:21:57.877-170: [Common/tools.lua:50]:---寻路    1    1    2    4
+[Log]11:22:00.355-320: [Scene/Fight/CardAiAction.lua:61]:----移动    2    3    9
+[Log]11:22:00.357-320: [Scene/Fight/CardAiAction.lua:61]:----移动    1    2    2
+[Log]11:22:00.557-332: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    1
+[Log]11:22:00.559-332: [Scene/Fight/CardAiAction.lua:35]:---可攻击个数    1
+[Log]11:22:01.6-359: [UI/Fight/CardItem.lua:31]:----雪梨    90
+[Log]11:22:02.0-419: [UI/Fight/CardItem.lua:31]:----雪梨    80
+[Log]11:22:03.9-480: [UI/Fight/CardItem.lua:31]:----雪梨    70
+[Log]11:22:04.4-540: [UI/Fight/CardItem.lua:31]:----雪梨    60
+[Log]11:22:04.998-600: [UI/Fight/CardItem.lua:31]:----雪梨    50
+[Log]11:22:06.9-661: [UI/Fight/CardItem.lua:31]:----雪梨    40
+[Log]11:22:07.3-721: [UI/Fight/CardItem.lua:31]:----雪梨    30
+[Log]11:22:08.13-782: [UI/Fight/CardItem.lua:31]:----雪梨    20
+[Log]11:22:09.9-842: [UI/Fight/CardItem.lua:31]:----雪梨    10
+[Exception]LuaException: Scene/Fight/FightScene:94: attempt to index global 'beattacker' (a nil value)
+stack traceback:
+	Scene/Fight/FightScene:94: in function 'CardDead'
+	Scene/Fight/FightScene:108: in function 'Attack'
+	Scene/Fight/CardAiAction:79: in function 'Attack'
+	Scene/Fight/CardAiAction:83: in function <Scene/Fight/CardAiAction:77>
+[Exception]LuaException: Scene/Fight/FightScene:94: attempt to index global 'beattacker' (a nil value)
+stack traceback:
+	Scene/Fight/FightScene:94: in function 'CardDead'
+	Scene/Fight/FightScene:108: in function 'Attack'
+	Scene/Fight/CardAiAction:79: in function <Scene/Fight/CardAiAction:77>
+[Exception]LuaException: Scene/Fight/FightScene:94: attempt to index global 'beattacker' (a nil value)
+stack traceback:
+	Scene/Fight/FightScene:94: in function 'CardDead'
+	Scene/Fight/FightScene:108: in function 'Attack'
+	Scene/Fight/CardAiAction:79: in function <Scene/Fight/CardAiAction:77>
+[Log]OutLog Finish

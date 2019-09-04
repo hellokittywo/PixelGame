@@ -1,0 +1,16 @@
+﻿[Log]OutLog Start
+[Log]16:58:45.560-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x23FE9288
+[Log]16:58:45.565-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x23FC86F8
+[Log]16:58:48.79-127: [Scene/Fight/CardAiAction.lua:86]:------移动    孙悟空    12
+[Log]16:58:48.80-127: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:58:48.82-127: [Scene/Fight/CardAiAction.lua:86]:------移动    孙悟空    4
+[Log]16:58:48.83-127: [Scene/Fight/CardAiAction.lua:88]:3
+[Log]16:58:48.84-127: [Scene/Fight/CardAiAction.lua:88]:12
+[Log]16:58:48.84-127: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:58:48.806-171: [Scene/Fight/CardAiAction.lua:86]:------移动    孙悟空    6
+[Log]16:58:48.807-171: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]16:58:48.808-171: [Scene/Fight/CardAiAction.lua:86]:------移动    孙悟空    5
+[Log]16:58:48.809-171: [Scene/Fight/CardAiAction.lua:88]:4
+[Log]16:58:48.810-171: [Scene/Fight/CardAiAction.lua:88]:6
+[Log]16:58:48.810-171: [Scene/Fight/CardAiAction.lua:90]:-------------------------------------
+[Log]OutLog Finish

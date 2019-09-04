@@ -1,0 +1,245 @@
+﻿[Log]OutLog Start
+[Log]15:02:43.301-2: [Common/tools.lua:50]:-----------初始化BaseCtrl    Fight/FightView    table:0x14CC0900
+[Log]15:02:43.308-2: [Common/tools.lua:50]:----------显示ＵＩ,预设名字：    Fight/FightView    nil    table:0x151543B8
+[Log]15:02:45.839-146: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]15:02:45.843-146: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]15:02:45.845-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    6    19
+[Log]15:02:45.848-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    5    9
+[Log]15:02:45.850-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    5    21
+[Log]15:02:45.853-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    6    14
+[Log]15:02:45.856-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    4    6
+[Log]15:02:45.858-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    5    6
+[Log]15:02:45.860-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    3    5
+[Log]15:02:45.863-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    3    10
+[Log]15:02:45.866-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    2    11
+[Log]15:02:45.868-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    3    17
+[Log]15:02:45.871-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    1    14
+[Log]15:02:45.873-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    2    18
+[Log]15:02:45.876-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    1    9
+[Log]15:02:45.878-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    1    21
+[Log]15:02:45.880-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    1    6
+[Log]15:02:45.883-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    2    3
+[Log]15:02:45.885-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    1    5
+[Log]15:02:45.887-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    2    2
+[Log]15:02:45.889-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    3    1
+[Log]15:02:45.891-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    1    5
+[Log]15:02:45.894-146: [Scene/Fight/CardAiAction.lua:53]:----target2222    0
+[Log]15:02:45.896-146: [Scene/Fight/CardAiAction.lua:55]:23    1
+[Log]15:02:45.898-146: [Scene/Fight/CardAiAction.lua:55]:14    1
+[Log]15:02:45.901-146: [Scene/Fight/CardAiAction.lua:55]:22    1
+[Log]15:02:45.904-146: [Scene/Fight/CardAiAction.lua:55]:4    1
+[Log]15:02:45.906-146: [Scene/Fight/CardAiAction.lua:55]:10    1
+[Log]15:02:45.908-146: [Scene/Fight/CardAiAction.lua:55]:9    1
+[Log]15:02:45.910-146: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]15:02:45.927-146: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]15:02:45.929-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    3    10
+[Log]15:02:45.931-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    4    6
+[Log]15:02:45.934-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    4    18
+[Log]15:02:45.936-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    5    9
+[Log]15:02:45.938-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    3    5
+[Log]15:02:45.941-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    3    10
+[Log]15:02:45.944-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    2    11
+[Log]15:02:45.946-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    3    17
+[Log]15:02:45.949-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    1    14
+[Log]15:02:45.951-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    2    18
+[Log]15:02:45.953-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    1    9
+[Log]15:02:45.955-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    1    21
+[Log]15:02:45.957-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    1    6
+[Log]15:02:45.959-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    2    3
+[Log]15:02:45.962-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    1    5
+[Log]15:02:45.964-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    2    2
+[Log]15:02:45.966-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    3    1
+[Log]15:02:45.968-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    1    5
+[Log]15:02:45.970-146: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]15:02:45.972-146: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]15:02:45.975-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    3    5
+[Log]15:02:45.978-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    1    9
+[Log]15:02:45.980-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    2    3
+[Log]15:02:45.983-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    2    11
+[Log]15:02:45.985-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    1    6
+[Log]15:02:45.987-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    2    2
+[Log]15:02:45.989-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    3    1
+[Log]15:02:45.991-146: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    1    5
+[Log]15:02:46.332-167: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]15:02:46.333-167: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]15:02:46.334-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    6    19
+[Log]15:02:46.335-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    5    9
+[Log]15:02:46.336-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    5    21
+[Log]15:02:46.338-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    6    14
+[Log]15:02:46.339-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    4    6
+[Log]15:02:46.340-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    5    6
+[Log]15:02:46.341-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    3    5
+[Log]15:02:46.342-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    3    10
+[Log]15:02:46.343-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    2    11
+[Log]15:02:46.344-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    3    17
+[Log]15:02:46.345-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    1    14
+[Log]15:02:46.346-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    2    18
+[Log]15:02:46.347-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    1    9
+[Log]15:02:46.348-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    1    21
+[Log]15:02:46.349-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    1    6
+[Log]15:02:46.350-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    2    3
+[Log]15:02:46.351-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    1    5
+[Log]15:02:46.352-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    2    2
+[Log]15:02:46.353-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    3    1
+[Log]15:02:46.354-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    1    5
+[Log]15:02:46.355-167: [Scene/Fight/CardAiAction.lua:53]:----target2222    0
+[Log]15:02:46.356-167: [Scene/Fight/CardAiAction.lua:55]:23    1
+[Log]15:02:46.358-167: [Scene/Fight/CardAiAction.lua:55]:14    1
+[Log]15:02:46.359-167: [Scene/Fight/CardAiAction.lua:55]:22    1
+[Log]15:02:46.360-167: [Scene/Fight/CardAiAction.lua:55]:4    1
+[Log]15:02:46.361-167: [Scene/Fight/CardAiAction.lua:55]:10    1
+[Log]15:02:46.362-167: [Scene/Fight/CardAiAction.lua:55]:9    1
+[Log]15:02:46.363-167: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]15:02:46.364-167: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]15:02:46.365-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    3    10
+[Log]15:02:46.365-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    4    6
+[Log]15:02:46.366-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    4    18
+[Log]15:02:46.368-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    5    9
+[Log]15:02:46.368-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    3    5
+[Log]15:02:46.370-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    3    10
+[Log]15:02:46.371-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    2    11
+[Log]15:02:46.372-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    3    17
+[Log]15:02:46.373-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    1    14
+[Log]15:02:46.374-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    2    18
+[Log]15:02:46.375-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    1    9
+[Log]15:02:46.376-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    1    21
+[Log]15:02:46.377-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    1    6
+[Log]15:02:46.378-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    2    3
+[Log]15:02:46.379-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    1    5
+[Log]15:02:46.380-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    2    2
+[Log]15:02:46.381-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    3    1
+[Log]15:02:46.382-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    1    5
+[Log]15:02:46.383-167: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]15:02:46.384-167: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]15:02:46.386-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    3    5
+[Log]15:02:46.387-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    1    9
+[Log]15:02:46.388-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    2    3
+[Log]15:02:46.389-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    2    11
+[Log]15:02:46.390-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    1    6
+[Log]15:02:46.391-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    2    2
+[Log]15:02:46.392-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    3    1
+[Log]15:02:46.393-167: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    1    5
+[Log]15:02:46.838-195: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]15:02:46.840-195: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]15:02:46.841-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    6    19
+[Log]15:02:46.842-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    5    9
+[Log]15:02:46.843-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    5    21
+[Log]15:02:46.844-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    6    14
+[Log]15:02:46.845-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    4    6
+[Log]15:02:46.846-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    5    6
+[Log]15:02:46.847-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    3    5
+[Log]15:02:46.848-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    3    10
+[Log]15:02:46.849-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    2    11
+[Log]15:02:46.850-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    3    17
+[Log]15:02:46.851-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    1    14
+[Log]15:02:46.852-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    2    18
+[Log]15:02:46.854-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    1    9
+[Log]15:02:46.855-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    1    21
+[Log]15:02:46.856-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    1    6
+[Log]15:02:46.858-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    2    3
+[Log]15:02:46.860-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    1    5
+[Log]15:02:46.861-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    2    2
+[Log]15:02:46.862-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    3    1
+[Log]15:02:46.864-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    1    5
+[Log]15:02:46.865-195: [Scene/Fight/CardAiAction.lua:53]:----target2222    0
+[Log]15:02:46.866-195: [Scene/Fight/CardAiAction.lua:55]:23    1
+[Log]15:02:46.867-195: [Scene/Fight/CardAiAction.lua:55]:14    1
+[Log]15:02:46.868-195: [Scene/Fight/CardAiAction.lua:55]:22    1
+[Log]15:02:46.869-195: [Scene/Fight/CardAiAction.lua:55]:4    1
+[Log]15:02:46.870-195: [Scene/Fight/CardAiAction.lua:55]:10    1
+[Log]15:02:46.871-195: [Scene/Fight/CardAiAction.lua:55]:9    1
+[Log]15:02:46.872-195: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]15:02:46.873-195: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]15:02:46.874-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    3    10
+[Log]15:02:46.875-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    4    6
+[Log]15:02:46.876-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    4    18
+[Log]15:02:46.877-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    5    9
+[Log]15:02:46.878-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    3    5
+[Log]15:02:46.879-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    3    10
+[Log]15:02:46.880-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    2    11
+[Log]15:02:46.881-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    3    17
+[Log]15:02:46.882-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    1    14
+[Log]15:02:46.883-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    2    18
+[Log]15:02:46.884-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    1    9
+[Log]15:02:46.885-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    1    21
+[Log]15:02:46.886-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    1    6
+[Log]15:02:46.887-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    2    3
+[Log]15:02:46.888-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    1    5
+[Log]15:02:46.889-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    2    2
+[Log]15:02:46.891-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    3    1
+[Log]15:02:46.892-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    1    5
+[Log]15:02:46.893-195: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]15:02:46.894-195: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]15:02:46.895-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    3    5
+[Log]15:02:46.896-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    1    9
+[Log]15:02:46.897-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    2    3
+[Log]15:02:46.898-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    2    11
+[Log]15:02:46.900-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    1    6
+[Log]15:02:46.901-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    2    2
+[Log]15:02:46.902-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    3    1
+[Log]15:02:46.903-195: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    1    5
+[Log]15:02:47.340-222: [Common/tools.lua:50]:---寻路    4    5    1    3
+[Log]15:02:47.341-222: [Common/tools.lua:50]:-------------当前探索起点    4    5    1
+[Log]15:02:47.342-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    6    19
+[Log]15:02:47.343-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    5    9
+[Log]15:02:47.344-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    5    21
+[Log]15:02:47.345-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    6    14
+[Log]15:02:47.346-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    4    6
+[Log]15:02:47.347-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    5    6
+[Log]15:02:47.348-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    3    5
+[Log]15:02:47.349-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    3    10
+[Log]15:02:47.350-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    2    11
+[Log]15:02:47.351-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    3    17
+[Log]15:02:47.352-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    1    14
+[Log]15:02:47.353-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    2    18
+[Log]15:02:47.354-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    1    9
+[Log]15:02:47.355-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    1    21
+[Log]15:02:47.356-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    1    6
+[Log]15:02:47.358-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    2    3
+[Log]15:02:47.358-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    1    5
+[Log]15:02:47.360-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    2    2
+[Log]15:02:47.361-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    3    1
+[Log]15:02:47.362-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    1    5
+[Log]15:02:47.364-222: [Scene/Fight/CardAiAction.lua:53]:----target2222    0
+[Log]15:02:47.365-222: [Scene/Fight/CardAiAction.lua:55]:23    1
+[Log]15:02:47.366-222: [Scene/Fight/CardAiAction.lua:55]:14    1
+[Log]15:02:47.367-222: [Scene/Fight/CardAiAction.lua:55]:22    1
+[Log]15:02:47.368-222: [Scene/Fight/CardAiAction.lua:55]:4    1
+[Log]15:02:47.369-222: [Scene/Fight/CardAiAction.lua:55]:10    1
+[Log]15:02:47.370-222: [Scene/Fight/CardAiAction.lua:55]:9    1
+[Log]15:02:47.371-222: [Common/tools.lua:50]:---寻路    4    4    1    3
+[Log]15:02:47.371-222: [Common/tools.lua:50]:-------------当前探索起点    4    4    1
+[Log]15:02:47.372-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    3    10
+[Log]15:02:47.374-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    4    6
+[Log]15:02:47.375-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    4    18
+[Log]15:02:47.376-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    5    9
+[Log]15:02:47.377-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    3    5
+[Log]15:02:47.378-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    3    10
+[Log]15:02:47.379-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    2    11
+[Log]15:02:47.380-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    3    17
+[Log]15:02:47.381-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    1    14
+[Log]15:02:47.382-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    2    18
+[Log]15:02:47.383-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    1    9
+[Log]15:02:47.383-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    5    1    21
+[Log]15:02:47.385-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    1    6
+[Log]15:02:47.387-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    2    3
+[Log]15:02:47.388-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    1    5
+[Log]15:02:47.388-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    2    2
+[Log]15:02:47.389-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    3    1
+[Log]15:02:47.391-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    1    5
+[Log]15:02:47.392-222: [Common/tools.lua:50]:---寻路    3    2    1    3
+[Log]15:02:47.393-222: [Common/tools.lua:50]:-------------当前探索起点    3    2    1
+[Log]15:02:47.393-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    3    5
+[Log]15:02:47.394-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    3    1    9
+[Log]15:02:47.396-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    2    3
+[Log]15:02:47.397-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    4    2    11
+[Log]15:02:47.398-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    2    1    6
+[Log]15:02:47.399-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    2    2
+[Log]15:02:47.400-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    3    1
+[Log]15:02:47.401-222: [Scene/Fight/FightAStar.lua:143]:----添加进去    1    1    5
+[Log]~NetworkManager was destroy
+[Log]~ResourceManager was destroy!
+[Log]15:03:21.779-0: Lua function Network.Unload not exists
+[Log]15:03:21.788-0: LuaState destroy
+[Log]~GameManager was destroyed
+[Log]OutLog Finish
