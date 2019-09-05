@@ -50,17 +50,18 @@ function CardAiAction:StartAI()
 		end
 		-- FightScene.RefreshObstruct(target.Place)
 		self.FightAStar:GetPathList(self.info, target, function(pathList)
-			-- if self.info.Name == "白龙马" then
-				print("----target2222", self.info.Place, target.Place)
-				for k,v in pairs(FightScene.ObstructDic) do
-					print(k,v)
-				end
-				print("-------------------------------------")
+			-- if self.info.Name == "哪吒" then
+			-- 	print("----target2222", self.info.Place, target.Place, #pathList)
+			-- 	for k,v in pairs(FightScene.ObstructDic) do
+			-- 		print(k,v)
+			-- 	end
+			-- 	print("-------------------------------------")
 			-- end
 			self.pathList = pathList
 			self:MoveAction()
 		end)
 	else
+		self.beattacker = self.attackList[1]
 		self.attackIndex = 1
 		TimerManager.AddTimerEvent(self, self.Attack)
 	end
@@ -69,12 +70,14 @@ end
 function CardAiAction:MoveAction()
 	if #self.attackList == 0 then
 		self.timer = Timer.New(function()
+			-- print("----路不通1 ", self.info.Name, self.stopMove, self.pathList[1])
 			if self.stopMove then
 				return
 			end
 			if self.pathList[1] then
 				local pos, place = FightScene.GetPosByXY(self.pathList[1])
 				if FightScene.ObstructDic[place] then
+					-- print("----路不通2 ", self.info.Name, place)
 					self:StartAI()
 					return
 				end
@@ -83,11 +86,11 @@ function CardAiAction:MoveAction()
 				-- end
 				EventsManager.DispatchEvent(EventsManager.EventsName.Event_CardMove, {pos = pos, info = self.info})
 				table.remove(self.pathList, 1)
-				print("------移动", self.info.Name, place)
-				for k,v in pairs(FightScene.ObstructDic) do
-					print(k)
-				end
-				print("-------------------------------------")
+				-- print("------移动", self.info.Name, place)
+				-- for k,v in pairs(FightScene.ObstructDic) do
+				-- 	print(k)
+				-- end
+				-- print("-------------------------------------")
 				self.info:SetPlace(place)
 				FightScene.RefreshObstruct()
 				-- FightScene.ObstructDic[place] = 1
@@ -122,12 +125,17 @@ function CardAiAction:GetDistance(card1, card2)
 end
 
 function CardAiAction:Attack()
-	if self.attackList[self.attackIndex] then
-		FightScene.Attack(self.info, self.attackList[self.attackIndex])
-		self.attackIndex = self.attackIndex + 1
+	-- if self.attackList[self.attackIndex] then
+	-- 	FightScene.Attack(self.info, self.attackList[self.attackIndex])
+	-- 	self.attackIndex = self.attackIndex + 1
+	-- else
+	-- 	self.attackIndex = 1
+	-- 	self:Attack()
+	-- end
+	if self.beattacker and self.beattacker.HP > 0 then
+		FightScene.Attack(self.info, self.beattacker)
 	else
-		self.attackIndex = 1
-		self:Attack()
+		self:StartAI()
 	end
 end
 

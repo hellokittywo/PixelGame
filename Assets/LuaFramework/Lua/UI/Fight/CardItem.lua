@@ -28,22 +28,32 @@ end
 function CardItem:HurtAction(hurt)
 	self.BoodSlider.value = self.info.HP / self.info.MaxHP
 	HurtEffect.ShowHurt(self, {hurt = hurt})
-	-- local scale = 0
-	-- if self.info.HP <= 0 then
-	-- 	TweenScale.Begin(self.gameObject, 0, Vector3(1, 1, 1))
-	-- 	TweenScale.Begin(self.gameObject, 0.1, Vector3(scale, scale, scale))
+	local scale = 0
+	if self.info.HP <= 0 then
+		TweenScale.Begin(self.gameObject, 0, Vector3(1, 1, 1))
+		TweenScale.Begin(self.gameObject, 0.2, Vector3(scale, scale, scale))
 	-- else
 	-- 	scale = 0.9
 	-- 	TweenScale.Begin(self.gameObject, 0.1, Vector3(scale, scale, scale))
 	-- 	tools.Invoke(0.1, function()
 	-- 		TweenScale.Begin(self.gameObject, 0.1, Vector3(1, 1, 1))
 	-- 	end)
-	-- end
+	end
 end
 
 function CardItem:AttackAction(target)
 	local pos = self.transform.localPosition
 	local pos2 = target.transform.localPosition
+	if self.info.PosX > target.info.PosX then
+		pos2.x = pos2.x + 50
+	else
+		pos2.x = pos2.x - 50
+	end
+	if self.info.PosY > target.info.PosY then
+		pos2.y = pos2.y - 50
+	else
+		pos2.y = pos2.y + 50
+	end
 	-- TweenRotation.Begin(self.gameObject, 0.1, Quaternion(0, 0, 90, 0))
 	TweenPosition.Begin(self.gameObject, 0.1, pos2)
 	tools.Invoke(0.1, function()

@@ -40,9 +40,12 @@ end
 
 function FightAStar:GetMinNodeInOpenList()
 	local index = 1
-	local minNode = self.openList[1]
-	for i=2,#self.openList do
-		if self.openList[i].f < minNode.f then
+	local minNode = {f = 100}
+	local curNode = self.tansuoList[#self.tansuoList]
+	for i=1,#self.openList do
+		local node = self.openList[i]
+		-- if node.f < minNode.f and (curNode == nil or (math.abs(curNode.x - node.x) + math.abs(curNode.y - node.y) <= 1)) then
+		if node.f < minNode.f then
 			minNode = self.openList[i]
 			index = i
 		end
@@ -52,10 +55,11 @@ end
 
 function FightAStar:GetArroundNodes(curNode)
 	local list = {}
+	local x, y
 	for i = 1,4 do
 		if i == 1 then
 			x = curNode.x
-	    	y = curNode.y +1
+	    	y = curNode.y + 1
 		elseif i == 2 then
 	    	x = curNode.x
 	    	y = curNode.y - 1
@@ -123,10 +127,10 @@ function FightAStar:FindPath()
 		self.tansuoList[#self.tansuoList + 1] = node
 		-- self.openList = {}
 		local list = self:GetArroundNodes(node)
-		if #list == 0 then
-			local lastNode = self:GetNode(self.tansuoList, self.endNode)
-			return lastNode
-		end
+		-- if #list == 0 then
+		-- 	local lastNode = self:GetNode(self.tansuoList, self.endNode)
+		-- 	return lastNode
+		-- end
 		-- if node.parent then
 		-- 	tools.PrintDebug(temp.."-------------当前探索结点", self.startInfo.Name, node.x, node.y, node.g, node.h, #list,
 		-- 		"parent:", node.parent.x, node.parent.y);
@@ -136,7 +140,6 @@ function FightAStar:FindPath()
 		-- end
 		for i=1,#list do
 			local openNode = list[i]
-			print("----节点", openNode.x, openNode.y)
 			local hasNodeIndex = self:IndexOfXY(self.openList, openNode.x, openNode.y)
 			-- tools.PrintDebug(temp.."-------------结点是否已经包括在openList", hasNodeIndex, openNode.x, openNode.y, openNode.g, openNode.h,
 			-- 	"parent：", node.x, node.y);
@@ -152,8 +155,8 @@ function FightAStar:FindPath()
 				-- openNode.g = self:CalcG(openNode)--不能斜着走这里不需要
 				openNode.f = openNode.g + openNode.h
 				self.openList[#self.openList + 1] = openNode
-				-- print("----添加进去", openNode.x, openNode.y, openNode.f)
 			end
+			-- print("----节点", openNode.x, openNode.y, openNode.f)
 		end
 		temp = temp + 1
 		local lastNode = self:GetNode(self.tansuoList, self.endNode)
