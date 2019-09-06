@@ -231,10 +231,10 @@ function CardInfo:AttackAction(beattackers)
 end
 
 function CardInfo:BeAttack(hurt)
-	
 	self.HP = self.HP - hurt
 	if self.HP < 0 then
 		self.HP = 0
+		FightScene.RefreshObstruct()
 	end
 	-- if self.HP <= 0 then
 	-- 	EventsManager.DispatchEvent(EventsManager.EventsName.Event_CardDead, self)

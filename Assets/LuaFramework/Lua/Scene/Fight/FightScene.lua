@@ -29,7 +29,8 @@ function FightScene.InitMap()
 	self.ItemWidth = 1280 / 13
 	self.ItemHeight = 720 / 7
 	self.Column = 6
-	self.MaxX = 13 * 2
+	self.Page = 2
+	self.MaxX = 13 * self.Page
 	self.MaxY = 6
 end
 
@@ -50,9 +51,9 @@ function FightScene.InitMonster()
 	local list = tools.Split(copy.Monster, "|")
 	for i,v in ipairs(list) do
 		local p = tools.Split(v, ",")
-		p[1] = 3
+		-- p[1] = 3
 		self.EnemyDic[p[1]] = CardInfo.new(Enum_TeamType.Enemy, tonumber(p[2]), tonumber(p[1]))
-		return
+		-- return
 	end
 end
 

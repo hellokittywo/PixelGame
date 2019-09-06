@@ -15,6 +15,7 @@ function CardItem:InitView()
 	self.Icon_Sprite = tools.FindChild(self.transform, "Icon", tools.UISprite)
 	self.BoodSlider = tools.FindChild(self.transform, "BoodSlider", tools.UISlider)
 	self.NameLabel.text = self.info.Name
+	self.BoodSlider.value = self.info.HP / self.info.MaxHP
 
 	local str = "Card_Bg1"
 	if self.info.Team == Enum_TeamType.Enemy then
@@ -44,16 +45,20 @@ end
 function CardItem:AttackAction(target)
 	local pos = self.transform.localPosition
 	local pos2 = target.transform.localPosition
-	if self.info.PosX > target.info.PosX then
-		pos2.x = pos2.x + 50
-	else
-		pos2.x = pos2.x - 50
-	end
-	if self.info.PosY > target.info.PosY then
-		pos2.y = pos2.y - 50
-	else
-		pos2.y = pos2.y + 50
-	end
+	local i = math.floor(self.info.PosX - target.info.PosX)
+	pos2.x = pos2.x + (i > 0 and 1 or (i == 0 and 0 or -1)) * 50
+	-- if self.info.PosX > target.info.PosX then
+	-- 	pos2.x = pos2.x + 50
+	-- else
+	-- 	pos2.x = pos2.x - 50
+	-- end
+	-- if self.info.PosY > target.info.PosY then
+	-- 	pos2.y = pos2.y + 50
+	-- else
+	-- 	pos2.y = pos2.y - 50
+	-- end
+	i = math.floor(target.info.PosY - self.info.PosY)
+	pos2.y = pos2.y + (i > 0 and 1 or (i == 0 and 0 or -1)) * 50
 	-- TweenRotation.Begin(self.gameObject, 0.1, Quaternion(0, 0, 90, 0))
 	TweenPosition.Begin(self.gameObject, 0.1, pos2)
 	tools.Invoke(0.1, function()
@@ -66,7 +71,6 @@ function CardItem:DeadAction()
 	self.BoodSlider.value = 0
 	local scale = 0
 	TweenScale.Begin(self.gameObject, 0.2, Vector3(scale, scale, scale))
-	print("---死了呢")
 end
 
 function CardItem:OnClickHandler(go)

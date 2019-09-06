@@ -11,29 +11,44 @@ function CardAiAction:GetAttackList()
 	local list = {}
 	local dic = (info.Team == Enum_TeamType.Enemy) and FightScene.MyDic or FightScene.EnemyDic
 	local temp = {}
-	temp[1] = info.Place - FightScene.Column - 1
-	temp[2] = info.Place - FightScene.Column
-	temp[3] = info.Place - FightScene.Column + 1
-	temp[4] = info.Place - 1
-	temp[5] = info.Place + 1
-	temp[6] = info.Place + FightScene.Column - 1
-	temp[7] = info.Place + FightScene.Column
-	temp[8] = info.Place + FightScene.Column + 1
-	for i,place in pairs(temp) do
-		for k,v in pairs(dic) do
-			if v.Place == place then
-				table.insert(list, v)
+	temp[1] = {x = info.PosX - 1, y = info.PosY}
+	temp[2] = {x = info.PosX + 1, y = info.PosY}
+	temp[3] = {x = info.PosX, y = info.PosY + 1}
+	temp[4] = {x = info.PosX, y = info.PosY - 1}
+	temp[5] = {x = info.PosX - 1, y = info.PosY - 1}
+	temp[6] = {x = info.PosX - 1, y = info.PosY + 1}
+	temp[7] = {x = info.PosX + 1, y = info.PosY - 1}
+	temp[8] = {x = info.PosX + 1, y = info.PosY + 1}
+	for i,data in pairs(temp) do
+		-- if info.Team == Enum_TeamType.Enemy or info.Name == "孙悟空" then
+		-- 	print("-----找目标", info.Place, info.Name, data.x, data.y)
+		-- end
+		if not self:BorderOut(data) then
+			for k,v in pairs(dic) do
+				if v.PosX == data.x and v.PosY == data.y then
+					table.insert(list, v)
+				end
 			end
 		end
 	end
 	return list
 end
 
+function CardAiAction:BorderOut(data)
+	if data.x < 1 or data.x > FightScene.MaxX or data.y < 1 or data.y > FightScene.Column then
+		return true
+	end
+	return false
+end
+
 function CardAiAction:StartAI()
 	TimerManager.RemoveTimerEvent(self, self.Attack)
+	-- print("---开始AI")
 	local list = self:GetAttackList()
 	self.attackList = list
-	-- print("---可攻击个数", #list)
+	-- if self.info.Team == Enum_TeamType.Enemy or self.info.Name == "孙悟空" then
+	-- 	print("---可攻击个数", self.info.Name, self.info.Place, #list, list[1] and list[1].Name)
+	-- end
 	local dis = 10000
 	local target
 	if #list == 0 then
@@ -50,7 +65,7 @@ function CardAiAction:StartAI()
 		end
 		-- FightScene.RefreshObstruct(target.Place)
 		self.FightAStar:GetPathList(self.info, target, function(pathList)
-			-- if self.info.Name == "哪吒" then
+			-- if self.info.Name == "哪吒" or 1 then
 			-- 	print("----target2222", self.info.Place, target.Place, #pathList)
 			-- 	for k,v in pairs(FightScene.ObstructDic) do
 			-- 		print(k,v)
@@ -61,6 +76,7 @@ function CardAiAction:StartAI()
 			self:MoveAction()
 		end)
 	else
+		self.stopMove = false
 		self.beattacker = self.attackList[1]
 		self.attackIndex = 1
 		TimerManager.AddTimerEvent(self, self.Attack)
@@ -81,7 +97,7 @@ function CardAiAction:MoveAction()
 					self:StartAI()
 					return
 				end
-				-- if self.info.Name == "沙悟净" then
+				-- if self.info.Name == "白龙马" then
 				-- 	print("----移动", self.pathList[1].x, self.pathList[1].y, self.info.Name)
 				-- end
 				EventsManager.DispatchEvent(EventsManager.EventsName.Event_CardMove, {pos = pos, info = self.info})

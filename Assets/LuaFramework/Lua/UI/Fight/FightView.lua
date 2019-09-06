@@ -103,7 +103,7 @@ end
 
 function FightView:InitMap()
 	self.mapList = {}
-	for i=1,2 do
+	for i=1,FightScene.Page do
 		for j=1,13 do
 			for k=1,FightScene.Column do
 				local item = MapItem.new(self.MapScrollView.transform, #self.mapList + 1, self.luaBehaviour)
