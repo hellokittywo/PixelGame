@@ -20,6 +20,7 @@ function CardInfo:ctor(team, id, cardData)
 		self.PropertyDic[tonumber(p[1])] = tonumber(p[2])
 	end
 	self.Name = info.Name
+	self.Resource = info.Resource
 	self.AttackID = info.AttackId
 	self.Pos = {x = 0, y = 0}
 	if team == Enum_TeamType.Enemy then

@@ -12,7 +12,9 @@ function MyCardItem:InitView()
 	self.transform = self.gameObject.transform
 	LuaToCSFunction.SetGameObjectLocalPosition(self.gameObject, 0, 0, 0)
 	self.NameLabel = tools.FindChild(self.transform, "NameLabel")
+	self.Icon_Sprite = tools.FindChild(self.transform, "Icon", tools.UISprite)
 	self.NameLabel.text = self.info.Name
+	tools.SetSpriteName(self.Icon_Sprite, self.info.Resource, {width = 120, height = 120})
 
 	self.selected = false
 	self.luaBehaviour:RemoveClick(self.gameObject)

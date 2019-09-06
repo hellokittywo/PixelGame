@@ -17,11 +17,7 @@ function CardItem:InitView()
 	self.NameLabel.text = self.info.Name
 	self.BoodSlider.value = self.info.HP / self.info.MaxHP
 
-	local str = "Card_Bg1"
-	if self.info.Team == Enum_TeamType.Enemy then
-		str = "Enemy_Bg1"
-	end
-	tools.SetSpriteName(self.Icon_Sprite, str, {width = 100, height = 100})
+	tools.SetSpriteName(self.Icon_Sprite, self.info.Resource, {width = 100, height = 100})
 	self.luaBehaviour:RemoveClick(self.gameObject)
 	self.luaBehaviour:AddClick(self.gameObject, self, self.OnClickHandler)
 end
