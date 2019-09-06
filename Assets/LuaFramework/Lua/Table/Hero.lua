@@ -7,6 +7,7 @@
 		B = 100,
 		C = 1600,
 		AttackId = 1001,
+		Resource = "kapai1",
 	},
 	{
 		Id = 2,
@@ -16,6 +17,7 @@
 		B = 180,
 		C = 1200,
 		AttackId = 1002,
+		Resource = "kapai2",
 	},
 	{
 		Id = 3,
@@ -25,6 +27,7 @@
 		B = 135,
 		C = 2000,
 		AttackId = 1003,
+		Resource = "kapai3",
 	},
 	{
 		Id = 4,
@@ -34,6 +37,7 @@
 		B = 55,
 		C = 1300,
 		AttackId = 1004,
+		Resource = "kapai4",
 	},
 	{
 		Id = 5,
@@ -43,6 +47,7 @@
 		B = 95,
 		C = 1500,
 		AttackId = 1005,
+		Resource = "kapai5",
 	},
 	{
 		Id = 6,
@@ -52,6 +57,7 @@
 		B = 68,
 		C = 1400,
 		AttackId = 1006,
+		Resource = "kapai6",
 	},
 }
 return Hero
