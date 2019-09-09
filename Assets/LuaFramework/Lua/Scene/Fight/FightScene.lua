@@ -138,7 +138,8 @@ function FightScene.Attack(attacker, beattacker)
 	-- tools.PrintDebug(attacker.Name.." 攻击 "..beattacker.Name.."   ")
 	attacker:AttackAction({beattacker})
 	local att = attacker.Attack
-	local hurt = math.ceil(tables.ConfigDic[1] * att * att / (tables.ConfigDic[2] * att + tables.ConfigDic[3] * attacker.Defence))
+	local def = beattacker.Defence
+	local hurt = math.ceil(tables.ConfigDic[1] * att * att / (tables.ConfigDic[2] * att + tables.ConfigDic[3] * def))
 	beattacker:BeAttack(hurt)
 	if beattacker.HP <= 0 then
 		self.CardDead(beattacker)
